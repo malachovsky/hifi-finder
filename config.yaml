@@ -57,7 +57,7 @@ sources:
   kleinanzeigen:
     enabled: true                # may be blocked from GitHub's servers; failures are logged, not fatal
   ebay:
-    enabled: true                # needs EBAY_CLIENT_ID and EBAY_CLIENT_SECRET (free developer account)
+    enabled: false                # needs EBAY_CLIENT_ID and EBAY_CLIENT_SECRET (free developer account)
     marketplaces: [EBAY_DE, EBAY_AT]
     delivery_country: SK         # only items that ship to Slovakia
 
