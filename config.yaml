@@ -1,0 +1,214 @@
+# ---------------------------------------------------------------------------
+# Hi-fi watch configuration
+#
+# reference_eur = a typical asking price for a working, decent-condition unit.
+# Sony ES amplifier values are calibrated on real Bazoš listings (Oct 2026);
+# the others are ROUGH STARTING ESTIMATES. Adjust them as you watch the market:
+# they drive the "deal" percentage and the default sort order.
+#
+# remote_exists: set to false for a model that never came with a remote, so a
+# listing isn't penalised for not having one. Default is true.
+#
+# tier: 1 = top wish, 2 = good, 3 = acceptable. Tier 1 gets a small boost in
+# the "Best deal" sort and a "Top wish" label on the page.
+#
+# aliases: spellings to look for in listing titles. Matching ignores spaces,
+# hyphens and case, so "TA-F770ES", "TA F770 ES" and "taf770es" all match.
+# queries: what is typed into each site's search box (one request per query
+# per source, so keep the list short).
+# ---------------------------------------------------------------------------
+
+settings:
+  czk_per_eur_fallback: 25.0     # used only if the ECB rate can't be fetched
+  exclude_defective: true        # hide listings whose title says faulty / for parts
+  request_delay_seconds: [2, 4]  # polite random pause between requests
+  max_listing_age_days: 60       # ignore listings posted longer ago than this
+
+# Where you live: listings closer to here rank higher.
+home:
+  name: Banská Bystrica
+  lat: 48.7363
+  lon: 19.1462
+
+# How much each preference moves a listing in the "Best match" order.
+# The price part is the deal percentage itself (e.g. 20% under reference = +20).
+scoring:
+  tier_bonus: {1: 12, 2: 5, 3: 0}
+  unknown_price: -15        # auctions, sets, "dohodou"
+  remote_included: 8        # "s DO", "s diaľkovým ovládaním", "RM-S703"...
+  remote_missing: -8        # "bez DO", "chýba ovládač", "ohne Fernbedienung"...
+  own_photos: 6             # 2+ real photos
+  stock_photo: -15          # looks like a catalogue / borrowed image
+  distance_bonus: 15        # full bonus right next door...
+  distance_zero_km: 250     # ...fading to 0 here, and going negative beyond
+  distance_min_factor: -0.8 # floor: -0.8 x 15 = -12 for listings very far away
+
+photos:
+  # With an ANTHROPIC_API_KEY secret set, each new listing's main photo is
+  # checked by Claude (Haiku, roughly 0.1 cent per photo) for stock images.
+  # Without it, photo count and duplicate-image detection are used.
+  claude_check: true
+
+sources:
+  bazos_sk:
+    enabled: true
+  bazos_cz:
+    enabled: true
+  kleinanzeigen:
+    enabled: true                # may be blocked from GitHub's servers; failures are logged, not fatal
+  ebay:
+    enabled: true                # needs EBAY_CLIENT_ID and EBAY_CLIENT_SECRET (free developer account)
+    marketplaces: [EBAY_DE, EBAY_AT]
+    delivery_country: SK         # only items that ship to Slovakia
+
+# Words in a listing TITLE that mean "skip it" (accents and case are ignored).
+wanted_ad_keywords: [hladam, hledam, kupim, koupim, suche, gesucht, wanted, ankauf]
+defect_keywords: [defekt, nefunk, na diely, na dily, na nahradne, poskoden, poskozen,
+                  for parts, broken, faulty, bastler, reparatur]
+# Accessories: skipped only when the price is also far below the reference.
+accessory_keywords: [ovladac, dialkove, dalkove, fernbedienung, remote, navod, manual,
+                     anleitung, service manual, schaltplan, rm-]
+
+models:
+  # ---- Amplifiers: vintage Sony ES MOSFET ----
+  - id: TA-F770ES
+    brand: Sony
+    category: Amplifier
+    tier: 1
+    reference_eur: 700
+    aliases: [TA-F770ES, F770ES]
+    queries: [TA-F770ES, F770ES]
+  - id: TA-F670ES
+    brand: Sony
+    category: Amplifier
+    tier: 1
+    reference_eur: 550
+    aliases: [TA-F670ES, F670ES]
+    queries: [TA-F670ES, F670ES]
+  - id: TA-FA50ES
+    brand: Sony
+    category: Amplifier
+    tier: 2
+    reference_eur: 450
+    aliases: [TA-FA50ES, FA50ES]
+    queries: [TA-FA50ES]
+  - id: TA-FA5ES
+    brand: Sony
+    category: Amplifier
+    tier: 2
+    reference_eur: 750
+    aliases: [TA-FA5ES, FA5ES]
+    queries: [TA-FA5ES]
+  - id: TA-FA30ES
+    brand: Sony
+    category: Amplifier
+    tier: 2
+    reference_eur: 370
+    aliases: [TA-FA30ES, FA30ES]
+    queries: [TA-FA30ES]
+
+  - id: TA-F630ESD
+    brand: Sony
+    category: Amplifier
+    tier: 3
+    reference_eur: 350
+    remote_exists: false     # spec: "Remote control: No"
+    aliases: [TA-F630ESD, F630ESD, TA-630ESD]
+    queries: [F630ESD, TA-630ESD]
+  - id: TA-F590ES
+    brand: Sony
+    category: Amplifier
+    tier: 3
+    reference_eur: 250
+    aliases: [TA-F590ES, F590ES]
+    queries: [TA-F590ES]
+
+  # ---- Amplifiers: current models ----
+  - id: PM8006
+    brand: Marantz
+    category: Amplifier
+    tier: 2
+    reference_eur: 600
+    aliases: [PM8006, PM-8006]
+    queries: [Marantz PM8006]
+  - id: PM6007
+    brand: Marantz
+    category: Amplifier
+    tier: 3
+    reference_eur: 330
+    aliases: [PM6007, PM-6007]
+    queries: [Marantz PM6007]
+  - id: PMA-1700NE
+    brand: Denon
+    category: Amplifier
+    tier: 2
+    reference_eur: 950
+    aliases: [PMA-1700NE, PMA1700NE]
+    queries: [PMA-1700NE]
+  - id: PMA-1600NE
+    brand: Denon
+    category: Amplifier
+    tier: 2
+    reference_eur: 750
+    aliases: [PMA-1600NE, PMA1600NE]
+    queries: [PMA-1600NE]
+  - id: PMA-900HNE
+    brand: Denon
+    category: Amplifier
+    tier: 3
+    reference_eur: 450
+    aliases: [PMA-900HNE, PMA900HNE]
+    queries: [PMA-900HNE]
+
+  # ---- CD players ----
+  - id: CDP-XA30ES
+    brand: Sony
+    category: CD player
+    tier: 1
+    reference_eur: 380
+    aliases: [CDP-XA30ES, XA30ES]
+    queries: [CDP-XA30ES]
+  - id: CDP-XA20ES
+    brand: Sony
+    category: CD player
+    tier: 1
+    reference_eur: 280
+    aliases: [CDP-XA20ES, XA20ES]
+    queries: [CDP-XA20ES]
+  - id: CDP-X333ES
+    brand: Sony
+    category: CD player
+    tier: 2
+    reference_eur: 170
+    aliases: [CDP-X333ES, X333ES]
+    queries: [CDP-X333ES]
+  - id: CDP-X222ES
+    brand: Sony
+    category: CD player
+    tier: 2
+    reference_eur: 120
+    aliases: [CDP-X222ES, X222ES]
+    queries: [CDP-X222ES]
+
+  # ---- Tape decks ----
+  - id: TC-KA6ES
+    brand: Sony
+    category: Tape deck
+    tier: 1
+    reference_eur: 420
+    aliases: [TC-KA6ES, KA6ES]
+    queries: [TC-KA6ES]
+  - id: TC-K711S
+    brand: Sony
+    category: Tape deck
+    tier: 2
+    reference_eur: 300
+    aliases: [TC-K711S, K711S]
+    queries: [TC-K711S]
+  - id: TC-K611S
+    brand: Sony
+    category: Tape deck
+    tier: 2
+    reference_eur: 220
+    aliases: [TC-K611S, K611S]
+    queries: [TC-K611S]

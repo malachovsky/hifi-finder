@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hi-fi watch</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📻</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<style>
+:root {
+  --plate: #DCDDD9;
+  --plate-raised: #E7E8E5;
+  --ink: #1E2125;
+  --muted: #555B63;
+  --rule: #B4B7BA;
+  --window: #0C1212;
+  --glow: #7DE5D4;
+  --glow-dim: #4C9C91;
+  --gold: #8E6E2C;
+  --great: #24744A;
+  --good: #4C7424;
+  --fair: #666A70;
+  --high: #9A4630;
+  --focus: #1F62C9;
+  --sheen: rgba(255,255,255,.35);
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --plate: #222427; --plate-raised: #2A2D30; --ink: #E4E5E2; --muted: #9CA2A9;
+    --rule: #3A3E43; --gold: #CBA95E; --great: #62C38A; --good: #A2C870;
+    --fair: #A5AAB0; --high: #E28C70; --focus: #74A9FF; --sheen: rgba(255,255,255,.03);
+  }
+}
+:root[data-theme="dark"] {
+  --plate: #222427; --plate-raised: #2A2D30; --ink: #E4E5E2; --muted: #9CA2A9;
+  --rule: #3A3E43; --gold: #CBA95E; --great: #62C38A; --good: #A2C870;
+  --fair: #A5AAB0; --high: #E28C70; --focus: #74A9FF; --sheen: rgba(255,255,255,.03);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+:root {
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body {
+  margin: 0;
+  font: 400 1rem/1.5 "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--ink);
+  /* brushed aluminium */
+  background:
+    repeating-linear-gradient(90deg, var(--sheen) 0 1px, transparent 1px 4px),
+    var(--plate);
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 1.25rem; }
+
+/* ---------- header: the faceplate ---------- */
+header { padding: 2.5rem 0 1.5rem; border-bottom: 1px solid var(--rule); }
+.plate-top { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 1.25rem; }
+h1 {
+  font: 700 clamp(2.6rem, 7vw, 4.25rem)/0.9 "Barlow Condensed", "Arial Narrow", sans-serif;
+  letter-spacing: 0.005em; margin: 0;
+}
+.subtitle { margin: .5rem 0 0; color: var(--muted); max-width: 46ch; }
+
+.window {
+  background: var(--window);
+  color: var(--glow);
+  font-family: "Share Tech Mono", ui-monospace, "Consolas", monospace;
+  border-radius: 5px;
+  box-shadow: inset 0 2px 6px rgba(0,0,0,.7), 0 1px 0 var(--sheen);
+  text-shadow: 0 0 7px rgba(125,229,212,.45);
+}
+.status { padding: .7rem 1rem; display: grid; grid-template-columns: auto auto; gap: .1rem 1.5rem; font-size: .95rem; }
+.status .k { color: var(--glow-dim); text-shadow: none; }
+.status .v { text-align: right; }
+
+/* ---------- controls ---------- */
+.controls { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; align-items: center; padding: 1.1rem 0; border-bottom: 1px solid var(--rule); }
+.segmented { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; background: var(--plate-raised); }
+.segmented button {
+  font: 500 .9rem/1 "IBM Plex Sans", sans-serif; color: var(--muted);
+  background: none; border: 0; padding: .55rem .8rem; cursor: pointer;
+}
+.segmented button + button { border-left: 1px solid var(--rule); }
+.segmented button[aria-pressed="true"] { color: var(--ink); background: var(--plate); box-shadow: inset 0 1px 3px rgba(0,0,0,.18); }
+label.field { display: inline-flex; align-items: center; gap: .5rem; font-size: .9rem; color: var(--muted); }
+select, input[type="search"] {
+  font: 400 .9rem "IBM Plex Sans", sans-serif; color: var(--ink);
+  background: var(--plate-raised); border: 1px solid var(--rule); border-radius: 6px; padding: .45rem .6rem;
+}
+input[type="search"] { width: 13rem; max-width: 100%; }
+input[type="checkbox"] { accent-color: var(--great); width: 1rem; height: 1rem; }
+
+/* ---------- the rack ---------- */
+.rack { list-style: none; margin: 0; padding: 0; }
+.unit {
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr) auto;
+  gap: 1.1rem;
+  align-items: center;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.thumb {
+  width: 84px; height: 64px; border-radius: 4px; object-fit: cover;
+  background: var(--plate-raised); border: 1px solid var(--rule);
+  display: grid; place-items: center; color: var(--muted);
+  font: 600 .8rem "Barlow Condensed", sans-serif;
+}
+.model-line { display: flex; flex-wrap: wrap; align-items: baseline; gap: .15rem .65rem; }
+.model { font: 600 1.6rem/1 "Barlow Condensed", "Arial Narrow", sans-serif; letter-spacing: .01em; }
+.brand { color: var(--muted); font-size: .9rem; }
+.wish { color: var(--gold); font-size: .85rem; font-weight: 600; }
+.fresh { font-size: .8rem; font-weight: 600; color: var(--window); background: var(--glow); padding: .05rem .4rem; border-radius: 3px; }
+.title { display: block; margin: .3rem 0 .2rem; text-decoration: none; font-weight: 500; overflow-wrap: anywhere; }
+.title:hover { text-decoration: underline; text-underline-offset: 3px; }
+.meta { color: var(--muted); font-size: .85rem; display: flex; flex-wrap: wrap; gap: .1rem 1rem; }
+.notes { margin: .35rem 0 0; font-size: .85rem; color: var(--high); }
+.facts { display: flex; flex-wrap: wrap; gap: .25rem .5rem; margin-top: .45rem; font-size: .82rem; }
+.facts span { padding: .1rem .5rem; border: 1px solid var(--rule); border-radius: 999px; color: var(--muted); background: var(--plate-raised); }
+.facts .good { color: var(--great); border-color: color-mix(in srgb, var(--great) 40%, var(--rule)); }
+.facts .bad { color: var(--high); border-color: color-mix(in srgb, var(--high) 40%, var(--rule)); }
+.why { margin-top: .35rem; font-size: .8rem; color: var(--muted); }
+.why summary { cursor: pointer; width: fit-content; }
+.why p { margin: .2rem 0 0; }
+
+.side { display: flex; flex-direction: column; align-items: flex-end; gap: .45rem; }
+.verdict { display: inline-flex; align-items: center; gap: .4rem; font-size: .85rem; font-weight: 600; }
+.led { width: 8px; height: 8px; border-radius: 50%; background: currentColor; box-shadow: 0 0 6px currentColor; }
+.v-great { color: var(--great); } .v-good { color: var(--good); }
+.v-fair { color: var(--fair); } .v-high { color: var(--high); }
+.readout { padding: .45rem .8rem .5rem; min-width: 9.5rem; text-align: right; }
+.readout .price { font-size: 1.75rem; line-height: 1; }
+.readout .sub { font-size: .8rem; color: var(--glow-dim); text-shadow: none; margin-top: .25rem; }
+.readout.empty .price { font-size: 1.1rem; color: var(--glow-dim); }
+
+.empty-state { padding: 3rem 0; text-align: center; color: var(--muted); }
+.empty-state button {
+  margin-top: .75rem; font: 500 .9rem "IBM Plex Sans", sans-serif; color: var(--ink);
+  background: var(--plate-raised); border: 1px solid var(--rule); border-radius: 6px; padding: .5rem .9rem; cursor: pointer;
+}
+
+footer { padding: 2rem 0 3rem; color: var(--muted); font-size: .85rem; }
+footer h2 { font: 600 1.15rem "Barlow Condensed", sans-serif; color: var(--ink); margin: 0 0 .4rem; }
+.sources { display: flex; flex-wrap: wrap; gap: .3rem 1.5rem; margin: 0 0 1rem; padding: 0; list-style: none; }
+.src-bad { color: var(--high); }
+
+@media (max-width: 640px) {
+  .unit { grid-template-columns: 64px minmax(0, 1fr); }
+  .thumb { width: 64px; height: 52px; }
+  .side { grid-column: 1 / -1; flex-direction: row; justify-content: space-between; align-items: center; }
+  .status { width: 100%; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="plate-top">
+      <div>
+        <h1>Hi-fi watch</h1>
+        <p class="subtitle">Used Sony ES, Marantz and Denon gear from Bazoš, Kleinanzeigen and eBay, checked twice a day. Ranked by price, wish list, own photos, remote included and distance from <span id="home"></span>.</p>
+      </div>
+      <div class="window status" id="status" aria-live="polite"></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls" role="toolbar" aria-label="Sort and filter listings">
+    <div class="segmented" id="cats" role="group" aria-label="Category"></div>
+    <label class="field">Sort
+      <select id="sort">
+        <option value="match">Best match</option>
+        <option value="deal">Best price vs. market</option>
+        <option value="price">Lowest price</option>
+        <option value="near">Closest</option>
+        <option value="newest">Newest</option>
+        <option value="wish">Wish list order</option>
+      </select>
+    </label>
+    <label class="field"><input type="checkbox" id="onlyNew"> New since last check</label>
+    <label class="field"><input type="checkbox" id="hideHigh"> Hide above-market</label>
+    <label class="field"><input type="checkbox" id="onlyRemote"> Remote included</label>
+    <label class="field">Within
+      <select id="radius">
+        <option value="0">any distance</option>
+        <option value="50">50 km</option>
+        <option value="100">100 km</option>
+        <option value="200">200 km</option>
+        <option value="400">400 km</option>
+      </select>
+    </label>
+    <input type="search" id="q" placeholder="Filter by model or word" aria-label="Filter by model or word">
+  </div>
+
+  <ul class="rack" id="rack"></ul>
+</main>
+
+<footer class="wrap">
+  <h2>Sources this run</h2>
+  <ul class="sources" id="sources"></ul>
+  <p>Best match adds up: how far the price is below the reference price in config.yaml, a boost for wish-list models, a bonus for own photos and an included remote, a penalty for stock photos or a missing remote, and a bonus that fades with distance. Open “Match score” on any listing to see its breakdown. Distances are straight-line. Czech prices are converted at the ECB rate of the day.</p>
+</footer>
+
+<script type="application/json" id="data">__DATA_JSON__</script>
+<script>
+(() => {
+  const DATA = JSON.parse(document.getElementById('data').textContent);
+  const L = DATA.listings || [];
+  const state = { cat: 'All', sort: 'match', onlyNew: false, hideHigh: false, onlyRemote: false, radius: 0, q: '' };
+  const CAT_LABEL = { 'Amplifier': 'Amplifiers', 'CD player': 'CD players', 'Tape deck': 'Tape decks' };
+  const CAT_SINGULAR = { 'Amplifier': 'amplifier', 'CD player': 'CD player', 'Tape deck': 'tape deck' };
+  const VERDICT = { 'Great price': 'v-great', 'Good price': 'v-good', 'Fair price': 'v-fair', 'Above market': 'v-high' };
+
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const eur = n => '€' + Math.round(n).toLocaleString('en-GB');
+  const local = (n, cur) => cur === 'CZK' ? Math.round(n).toLocaleString('cs-CZ') + ' Kč' : Math.round(n).toLocaleString('en-GB') + ' ' + cur;
+  const ts = l => Date.parse(l.posted || l.first_seen || 0) || 0;
+
+  function relDay(iso) {
+    if (!iso) return '';
+    const d = new Date(iso), now = new Date();
+    const days = Math.round((new Date(now.toDateString()) - new Date(d.toDateString())) / 864e5);
+    if (days <= 0) return 'Posted today';
+    if (days === 1) return 'Posted yesterday';
+    if (days < 14) return `Posted ${days} days ago`;
+    return 'Posted ' + d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+  }
+
+  // status window
+  const gen = new Date(DATA.generated);
+  const newCount = L.filter(l => l.is_new).length;
+  document.getElementById('status').innerHTML = `
+    <span class="k">Checked</span><span class="v">${esc(gen.toLocaleString('en-GB', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }))}</span>
+    <span class="k">Listings</span><span class="v">${L.length}</span>
+    <span class="k">New</span><span class="v">${newCount}</span>`;
+
+  // category buttons
+  const cats = ['All', ...new Set((DATA.models || []).map(m => m.category))];
+  const catBox = document.getElementById('cats');
+  catBox.innerHTML = cats.map(c => {
+    const n = c === 'All' ? L.length : L.filter(l => l.category === c).length;
+    return `<button type="button" data-cat="${esc(c)}" aria-pressed="${c === state.cat}">${esc(CAT_LABEL[c] || c)} ${n}</button>`;
+  }).join('');
+  catBox.addEventListener('click', e => {
+    const b = e.target.closest('button'); if (!b) return;
+    state.cat = b.dataset.cat;
+    catBox.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b));
+    render();
+  });
+
+  const sorters = {
+    match: (a, b) => (b.score ?? -1e9) - (a.score ?? -1e9) || ts(b) - ts(a),
+    deal: (a, b) => (b.deal_pct ?? -1e9) - (a.deal_pct ?? -1e9),
+    near: (a, b) => (a.distance_km ?? 1e9) - (b.distance_km ?? 1e9),
+    price: (a, b) => (a.price_eur ?? 1e12) - (b.price_eur ?? 1e12),
+    newest: (a, b) => ts(b) - ts(a),
+    wish: (a, b) => a.tier - b.tier || (b.score ?? -1e9) - (a.score ?? -1e9),
+  };
+
+  function facts(l) {
+    const f = [];
+    if (l.distance_km != null) f.push([l.distance_km <= 100 ? 'good' : l.distance_km > 400 ? 'bad' : '', `${l.distance_km} km away`]);
+    if (l.remote === 'yes') f.push(['good', 'Remote included']);
+    else if (l.remote === 'no') f.push(['bad', 'No remote']);
+    else if (l.remote === 'not_made') f.push(['', 'Model has no remote']);
+    if (l.photo_kind === 'own') f.push(['good', l.photo_count ? `${l.photo_count} own photos` : 'Own photo']);
+    else if (l.photo_kind === 'stock') f.push(['bad', 'Stock photo' + (l.photo_reason ? `: ${l.photo_reason}` : '')]);
+    else if (l.photo_kind === 'single') f.push(['', 'Only 1 photo']);
+    return f.length ? `<div class="facts">${f.map(([c, t]) => `<span class="${c}">${esc(t)}</span>`).join('')}</div>` : '';
+  }
+
+  function why(l) {
+    if (!l.score_parts || !l.score_parts.length) return '';
+    const parts = l.score_parts.map(([k, v]) => `${esc(k)} ${v > 0 ? '+' : ''}${v}`).join(', ');
+    return `<details class="why"><summary>Match score ${l.score}</summary><p>${parts}</p></details>`;
+  }
+
+  function unit(l) {
+    const verdictClass = VERDICT[l.deal_label];
+    const verdict = verdictClass ? `<span class="verdict ${verdictClass}"><span class="led" aria-hidden="true"></span>${esc(l.deal_label)}</span>` : '';
+    let sub = '';
+    if (l.deal_pct != null) sub = l.deal_pct >= 0 ? `${l.deal_pct}% under ${eur(l.reference_eur)}` : `${-l.deal_pct}% over ${eur(l.reference_eur)}`;
+    if (l.currency && l.currency !== 'EUR' && l.price != null) sub = local(l.price, l.currency) + (sub ? `<br>${sub}` : '');
+    if (l.price_drop_eur) sub += `${sub ? '<br>' : ''}Down ${eur(l.price_drop_eur)}`;
+    const readout = l.price_eur != null
+      ? `<div class="window readout"><div class="price">${eur(l.price_eur)}</div>${sub ? `<div class="sub">${sub}</div>` : ''}</div>`
+      : `<div class="window readout empty"><div class="price">No price</div></div>`;
+    const thumb = l.image
+      ? `<img class="thumb" src="${esc(l.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">`
+      : `<div class="thumb" aria-hidden="true">${esc(l.brand)}</div>`;
+    const notes = (l.notes || []).length ? `<p class="notes">${l.notes.map(esc).join('. ')}.</p>` : '';
+    return `<li class="unit">
+      ${thumb}
+      <div>
+        <div class="model-line">
+          <span class="model">${esc(l.model)}</span>
+          <span class="brand">${esc(l.brand)} ${esc(CAT_SINGULAR[l.category] || l.category || '')}</span>
+          ${l.tier === 1 ? '<span class="wish">Top wish</span>' : ''}
+          ${l.is_new ? '<span class="fresh">New</span>' : ''}
+        </div>
+        <a class="title" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.title)}</a>
+        <div class="meta"><span>${esc(l.source)}</span>${l.location ? `<span>${esc(l.location)}</span>` : ''}<span>${esc(relDay(l.posted || l.first_seen))}</span></div>
+        ${facts(l)}
+        ${notes}
+        ${why(l)}
+      </div>
+      <div class="side">${verdict}${readout}</div>
+    </li>`;
+  }
+
+  const rack = document.getElementById('rack');
+  function render() {
+    const q = state.q.trim().toLowerCase();
+    const rows = L.filter(l =>
+      (state.cat === 'All' || l.category === state.cat) &&
+      (!state.onlyNew || l.is_new) &&
+      (!state.hideHigh || l.deal_label !== 'Above market') &&
+      (!state.onlyRemote || l.remote === 'yes') &&
+      (!state.radius || (l.distance_km != null && l.distance_km <= state.radius)) &&
+      (!q || `${l.model} ${l.brand} ${l.title} ${l.location}`.toLowerCase().includes(q))
+    ).sort(sorters[state.sort]);
+    rack.innerHTML = rows.length ? rows.map(unit).join('') :
+      `<li class="empty-state">${L.length ? 'No listings match these filters.' : 'No listings found in this run. The next check will try again.'}
+       ${L.length ? '<br><button type="button" id="reset">Clear filters</button>' : ''}</li>`;
+    document.getElementById('reset')?.addEventListener('click', resetFilters);
+  }
+
+  function resetFilters() {
+    Object.assign(state, { cat: 'All', onlyNew: false, hideHigh: false, onlyRemote: false, radius: 0, q: '' });
+    document.getElementById('onlyRemote').checked = false;
+    document.getElementById('radius').value = '0';
+    document.getElementById('onlyNew').checked = false;
+    document.getElementById('hideHigh').checked = false;
+    document.getElementById('q').value = '';
+    catBox.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x.dataset.cat === 'All'));
+    render();
+  }
+
+  document.getElementById('sort').addEventListener('change', e => { state.sort = e.target.value; render(); });
+  document.getElementById('onlyNew').addEventListener('change', e => { state.onlyNew = e.target.checked; render(); });
+  document.getElementById('hideHigh').addEventListener('change', e => { state.hideHigh = e.target.checked; render(); });
+  document.getElementById('onlyRemote').addEventListener('change', e => { state.onlyRemote = e.target.checked; render(); });
+  document.getElementById('radius').addEventListener('change', e => { state.radius = +e.target.value; render(); });
+  document.getElementById('home').textContent = DATA.home || 'home';
+  document.getElementById('q').addEventListener('input', e => { state.q = e.target.value; render(); });
+
+  // sources footer
+  document.getElementById('sources').innerHTML = (DATA.sources || []).map(s =>
+    `<li class="${s.ok === 0 && s.failed > 0 ? 'src-bad' : ''}">${esc(s.name)}: ${s.found} found${s.failed ? `, ${s.failed} searches failed` : ''}</li>`
+  ).join('') || '<li>No sources ran.</li>';
+
+  render();
+})();
+</script>
+</body>
+</html>
