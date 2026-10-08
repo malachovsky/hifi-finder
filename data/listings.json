@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:50:18+00:00",
+ "generated": "2026-10-08T21:51:18+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -19,23 +19,23 @@
  "listings": [
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196129405/sony-ta-f770es.php",
+   "url": "https://elektro.bazos.sk/inzerat/196311134/sony-ta-f770es.php",
    "title": "Sony TA-F770ES",
    "model": "TA-F770ES",
    "brand": "Sony",
    "category": "Amplifier",
    "tier": 1,
-   "price": 699.0,
+   "price": 649.0,
    "currency": "EUR",
-   "price_eur": 699.0,
+   "price_eur": 649.0,
    "reference_eur": 700.0,
-   "deal_pct": 0,
-   "deal_label": "Fair price",
-   "score": 19,
+   "deal_pct": 7,
+   "deal_label": "Good price",
+   "score": 26,
    "score_parts": [
     [
      "Price",
-     0
+     7
     ],
     [
      "Wish list",
@@ -48,14 +48,14 @@
    ],
    "location": "Dunajská Streda 929 01",
    "distance_km": 140,
-   "posted": "2026-10-03T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/405/196129405.jpg",
+   "posted": "2026-10-08T12:00:00+00:00",
+   "first_seen": "2026-10-08T21:51:18+00:00",
+   "image": "https://www.bazos.sk/img/1t/134/196311134.jpg",
    "photo_count": 1,
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -223,7 +223,7 @@
    "tier": 2,
    "price": 9700.0,
    "currency": "CZK",
-   "price_eur": 397.1,
+   "price_eur": 397.49,
    "reference_eur": 370.0,
    "deal_pct": -7,
    "deal_label": "Fair price",
@@ -409,15 +409,15 @@
    "tier": 3,
    "price": 30000.0,
    "currency": "CZK",
-   "price_eur": 1228.15,
+   "price_eur": 1229.36,
    "reference_eur": 250.0,
-   "deal_pct": -391,
+   "deal_pct": -392,
    "deal_label": "Above market",
-   "score": -385,
+   "score": -386,
    "score_parts": [
     [
      "Price",
-     -391
+     -392
     ],
     [
      "Remote included",
@@ -456,7 +456,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 859.7,
+   "price_eur": 860.55,
    "reference_eur": 600.0,
    "deal_pct": -43,
    "deal_label": "Above market",
@@ -505,7 +505,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1023.46,
+   "price_eur": 1024.46,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -695,7 +695,7 @@
    "tier": 2,
    "price": 60000.0,
    "currency": "CZK",
-   "price_eur": 2456.3,
+   "price_eur": 2458.71,
    "reference_eur": 750.0,
    "deal_pct": -228,
    "deal_label": "Above market",
@@ -736,53 +736,6 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/222341671/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
-   "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 22500.0,
-   "currency": "CZK",
-   "price_eur": 921.11,
-   "reference_eur": 750.0,
-   "deal_pct": -23,
-   "deal_label": "Above market",
-   "score": -5,
-   "score_parts": [
-    [
-     "Price",
-     -23
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Uherské Hradiště 686 05",
-   "distance_km": 126,
-   "posted": "2026-08-09T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/671/222341671.jpg",
-   "photo_count": 6,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
    "auction": false
   },
   {
@@ -838,7 +791,7 @@
    "tier": 3,
    "price": 10000.0,
    "currency": "CZK",
-   "price_eur": 409.38,
+   "price_eur": 409.79,
    "reference_eur": 450.0,
    "deal_pct": 9,
    "deal_label": "Good price",
@@ -928,7 +881,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 491.26,
+   "price_eur": 491.74,
    "reference_eur": 380.0,
    "deal_pct": -29,
    "deal_label": "Above market",
@@ -975,7 +928,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.09,
+   "price_eur": 4.1,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1020,7 +973,7 @@
    "tier": 1,
    "price": 26900.0,
    "currency": "CZK",
-   "price_eur": 1101.24,
+   "price_eur": 1102.32,
    "reference_eur": 420.0,
    "deal_pct": -162,
    "deal_label": "Above market",
@@ -1105,6 +1058,51 @@
     "Price looks unusually low, check the listing"
    ],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196319306/sony.php",
+   "title": "Sony",
+   "model": "TC-K611S",
+   "brand": "Sony",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 220.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -1,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Distance",
+     9
+    ]
+   ],
+   "location": "Spišská Nová Ves 052 01",
+   "distance_km": 106,
+   "posted": "2026-10-08T12:00:00+00:00",
+   "first_seen": "2026-10-08T21:51:18+00:00",
+   "image": "https://www.bazos.sk/img/1t/306/196319306.jpg",
+   "photo_count": 1,
+   "photo_kind": "single",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
+   ],
+   "auction": false
   }
  ],
  "sources": [
@@ -1112,13 +1110,13 @@
    "name": "Bazoš.sk",
    "ok": 22,
    "failed": 0,
-   "found": 11
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
    "ok": 22,
    "failed": 0,
-   "found": 12
+   "found": 11
   },
   {
    "name": "Kleinanzeigen",
