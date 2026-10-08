@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T21:48:15+00:00",
+ "generated": "2026-10-08T11:50:18+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -967,57 +967,6 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224419927/sony-cdp-x333es-hi-end-stereo-cd-player-do.php",
-   "title": "SONY CDP-X333ES Hi-End Stereo CD Player REZERVACE 20.10.",
-   "model": "CDP-X333ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 2,
-   "price": 9999.0,
-   "currency": "CZK",
-   "price_eur": 409.34,
-   "reference_eur": 170.0,
-   "deal_pct": -141,
-   "deal_label": "Above market",
-   "score": -130,
-   "score_parts": [
-    [
-     "Price",
-     -141
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -8
-    ]
-   ],
-   "location": "Praha 8 181 00",
-   "distance_km": 375,
-   "posted": "2026-09-29T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/927/224419927.jpg?t=1791204139",
-   "photo_count": 12,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/222919112/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
    "model": "CDP-X333ES",
@@ -1169,7 +1118,7 @@
    "name": "Bazoš.cz",
    "ok": 22,
    "failed": 0,
-   "found": 13
+   "found": 12
   },
   {
    "name": "Kleinanzeigen",
