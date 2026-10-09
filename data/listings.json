@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T21:51:18+00:00",
+ "generated": "2026-10-09T11:42:06+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -55,7 +55,7 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1097,7 +1097,7 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "No price given"
