@@ -153,6 +153,18 @@ footer h2 { font: 600 1.15rem "Barlow Condensed", sans-serif; color: var(--ink);
 .sources { display: flex; flex-wrap: wrap; gap: .3rem 1.5rem; margin: 0 0 1rem; padding: 0; list-style: none; }
 .src-bad { color: var(--high); }
 
+.summary { margin: 0 0 1.5rem; }
+.summary-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
+.summary-head button {
+  font: 500 .85rem "IBM Plex Sans", sans-serif; color: var(--ink);
+  background: var(--plate-raised); border: 1px solid var(--rule); border-radius: 6px; padding: .35rem .8rem; cursor: pointer;
+}
+.summary-scroll { overflow-x: auto; }
+.summary table { width: 100%; border-collapse: collapse; color: var(--ink); font-size: .85rem; }
+.summary th, .summary td { text-align: left; padding: .3rem .6rem .3rem 0; border-bottom: 1px solid var(--rule); }
+.summary th { font-weight: 600; }
+.summary td.num, .summary th.num { text-align: right; white-space: nowrap; }
+
 @media (max-width: 640px) {
   .unit { grid-template-columns: 64px minmax(0, 1fr); }
   .thumb { width: 64px; height: 52px; }
@@ -206,6 +218,18 @@ footer h2 { font: 600 1.15rem "Barlow Condensed", sans-serif; color: var(--ink);
 </main>
 
 <footer class="wrap">
+  <section class="summary" aria-labelledby="summary-title">
+    <div class="summary-head">
+      <h2 id="summary-title">All components</h2>
+      <button type="button" id="copySummary">Copy as text</button>
+    </div>
+    <div class="summary-scroll">
+      <table>
+        <thead><tr><th>Component</th><th class="num">Price</th><th class="num">Distance</th></tr></thead>
+        <tbody id="summaryRows"></tbody>
+      </table>
+    </div>
+  </section>
   <h2>Sources this run</h2>
   <ul class="sources" id="sources"></ul>
   <p>Best match adds up: how far the price is below the reference price in config.yaml, a boost for wish-list models, a bonus for own photos and an included remote, a penalty for stock photos or a missing remote, and a bonus that fades with distance. Open “Match score” on any listing to see its breakdown. Distances are straight-line. Czech prices are converted at the ECB rate of the day.</p>
@@ -358,6 +382,28 @@ footer h2 { font: 600 1.15rem "Barlow Condensed", sans-serif; color: var(--ink);
   document.getElementById('sources').innerHTML = (DATA.sources || []).map(s =>
     `<li class="${s.ok === 0 && s.failed > 0 ? 'src-bad' : ''}">${esc(s.name)}: ${s.found} found${s.failed ? `, ${s.failed} searches failed` : ''}</li>`
   ).join('') || '<li>No sources ran.</li>';
+
+  // plain table of every listing, for copying elsewhere
+  const summary = [...L].sort(sorters.match).map(l => [
+    l.title,
+    l.price_eur != null ? eur(l.price_eur) : 'No price',
+    l.distance_km != null ? `${l.distance_km} km` : 'Unknown',
+  ]);
+  document.getElementById('summaryRows').innerHTML = summary.map(r =>
+    `<tr><td>${esc(r[0])}</td><td class="num">${esc(r[1])}</td><td class="num">${esc(r[2])}</td></tr>`
+  ).join('') || '<tr><td colspan="3">No listings.</td></tr>';
+  document.getElementById('copySummary').addEventListener('click', async e => {
+    const cell = v => String(v).replace(/\|/g, '/');
+    const text = ['| Component | Price | Distance |', '| --- | --- | --- |',
+      ...summary.map(r => `| ${r.map(cell).join(' | ')} |`)].join('\n');
+    try {
+      await navigator.clipboard.writeText(text);
+      e.target.textContent = 'Copied';
+    } catch {
+      e.target.textContent = 'Copy failed, select the table instead';
+    }
+    setTimeout(() => { e.target.textContent = 'Copy as text'; }, 2000);
+  });
 
   render();
 })();
