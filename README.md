@@ -1,6 +1,6 @@
 # Hi-fi watch
 
-Searches Bazoš.sk, Bazoš.cz, Kleinanzeigen.de and eBay (DE/AT) for the amplifiers, CD players and tape decks in `config.yaml`, scores every listing against a reference price, and publishes a sorted page to GitHub Pages twice a day. No server, no AI subscription, free to run.
+Searches Bazoš.sk, Bazoš.cz, Kleinanzeigen.de, the VintageHifi.cz shop and eBay (DE/AT) for the amplifiers, CD players and tape decks in `config.yaml`, scores every listing against a reference price, and publishes a sorted page to GitHub Pages twice a day. No server, no AI subscription, free to run.
 
 ## How it works
 
@@ -10,7 +10,7 @@ Searches Bazoš.sk, Bazoš.cz, Kleinanzeigen.de and eBay (DE/AT) for the amplifi
 4. For every new matching listing it opens the detail page (Bazoš) and checks:
    - **Photos**: how many the seller uploaded, whether the same picture appears in another seller's listing, and (optionally) whether Claude thinks the main photo is a catalogue or stock image.
    - **Remote control**: reads the title and description for "s DO", "bez DO", "s diaľkovým ovládaním", "chýba ovládač", "mit/ohne Fernbedienung", remote model codes like RM-S703, and spec lines like "Remote control: No" (meaning the model never had one, so no penalty).
-   - **Distance**: Bazoš pages carry the seller's map pin; other sites are located by postal code (GeoNames). Distance is straight-line from your home in `config.yaml`.
+   - **Distance**: Bazoš pages carry the seller's map pin; other sites are located by postal code (GeoNames). VintageHifi.cz is a shop that ships, so its listings get no distance score. Distance is straight-line from your home in `config.yaml`.
    Results are cached, so each listing is only opened once.
 5. Everything is combined into a **Best match** score: price vs. reference, wish-list tier, own photos, remote, distance. Every listing on the page has a "Match score" line you can open to see exactly how it was scored.
 6. `data/seen.json` is committed back to the repo, so the page can mark new listings and price drops.
@@ -60,7 +60,7 @@ To change the schedule, edit the `cron` line in `.github/workflows/update.yml` (
 
 ## Things to know
 
-- **Scrapers break sometimes.** Bazoš and Kleinanzeigen don't offer an API, so the script reads their search pages. If a site changes its HTML, that source will start returning 0 results; the footer of the page shows found and failed counts per source. The CSS selectors are at the top of each `fetch_` function in `watch.py`. When a source fails completely, the previous listings from that source are kept and marked "Not rechecked".
+- **Scrapers break sometimes.** Bazoš, Kleinanzeigen and VintageHifi.cz don't offer an API, so the script reads their search pages. If a site changes its HTML, that source will start returning 0 results; the footer of the page shows found and failed counts per source. The CSS selectors are at the top of each `fetch_` function in `watch.py`. When a source fails completely, the previous listings from that source are kept and marked "Not rechecked".
 - **Kleinanzeigen often blocks cloud servers**, including GitHub's. If it keeps failing, run the script from a home machine or Raspberry Pi with cron instead, or disable it.
 - **Be polite.** The script waits 2–4 seconds between requests and runs only twice a day. Check each site's terms if you plan to increase that.
 - **GitHub may pause schedules** in repos with no activity for 60 days. If the page stops updating, re-enable the workflow in the Actions tab.

@@ -350,6 +350,42 @@ def fetch_kleinanzeigen(session, query: str):
     return out
 
 
+VINTAGEHIFI = "https://www.vintagehifi.cz"
+VINTAGEHIFI_SEARCH = f"{VINTAGEHIFI}/1364688365/e-search"  # shop id in the path; see SearchAction on the homepage
+
+
+def fetch_vintagehifi(session, query: str):
+    """vintagehifi.cz is a dealer e-shop: fixed CZK prices, shipping, no listing dates."""
+    r = session.get(VINTAGEHIFI_SEARCH, params={"q": query}, timeout=25)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    out = []
+    for prod in soup.select("div[data-selector='product'][data-id]"):
+        link = prod.select_one("a[data-selector='name']")
+        if not link or not link.get("href"):
+            continue
+        if not prod.select_one(".in-stock"):
+            continue
+        try:
+            price = float(prod.get("data-price") or "") or None
+        except ValueError:
+            price = None
+        img = prod.select_one("img")
+        out.append({
+            "source": "VintageHifi.cz", "country": "CZ", "kind": "vintagehifi",
+            "url": urljoin(VINTAGEHIFI, link["href"]),
+            "title": clean(link),
+            "description": "",
+            "price": price,
+            "currency": "CZK",
+            "location": "E-shop (shipping)",
+            "posted": None,
+            "image": urljoin(VINTAGEHIFI, img["src"]) if img and img.get("src") else None,
+            "auction": False,
+        })
+    return out
+
+
 def ebay_token(client_id: str, client_secret: str) -> str:
     r = requests.post("https://api.ebay.com/identity/v1/oauth2/token", auth=(client_id, client_secret),
                       data={"grant_type": "client_credentials",
@@ -401,6 +437,8 @@ def build_fetchers(cfg: dict, session):
         fetchers["Bazoš.cz"] = lambda q: fetch_bazos(session, "www.bazos.cz", "Bazoš.cz", "CZK", "CZ", q)
     if src.get("kleinanzeigen", {}).get("enabled"):
         fetchers["Kleinanzeigen"] = lambda q: fetch_kleinanzeigen(session, q)
+    if src.get("vintagehifi_cz", {}).get("enabled"):
+        fetchers["VintageHifi.cz"] = lambda q: fetch_vintagehifi(session, q)
     ebay_cfg = src.get("ebay", {})
     if ebay_cfg.get("enabled"):
         cid, secret = os.getenv("EBAY_CLIENT_ID"), os.getenv("EBAY_CLIENT_SECRET")
@@ -441,6 +479,18 @@ def fetch_bazos_detail(session, url: str) -> dict:
     }
 
 
+def fetch_vintagehifi_detail(session, url: str) -> dict:
+    r = session.get(url, timeout=25)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    og_img = soup.select_one('meta[property="og:image"]')
+    main = og_img.get("content") if og_img else None
+    pid = (re.search(r"_vyr_(\d+)_", main or "") or [None, None])[1]
+    photos = set(re.findall(rf"/fotos/(_vyr_{pid}_\d+|_vyrp\d+_{pid}\d\d)\.", r.text)) if pid else set()
+    desc = clean(soup.select_one("#detail-anchor-description"))
+    return {"description": desc, "photo_count": len(photos), "main_image": main}
+
+
 def enrich(listings: list[dict], cfg: dict, session, cache: dict, offline: bool = False) -> None:
     """Adds remote status, photo verdict and distance. Results are cached per URL across runs."""
     home = cfg.get("home") or {}
@@ -454,6 +504,12 @@ def enrich(listings: list[dict], cfg: dict, session, cache: dict, offline: bool 
             if l["kind"] == "bazos":
                 try:
                     d.update(fetch_bazos_detail(session, l["url"]))
+                    pause(cfg)
+                except Exception as exc:  # noqa: BLE001
+                    log.warning("Detail page failed %s: %s", l["url"], exc)
+            elif l["kind"] == "vintagehifi":
+                try:
+                    d.update(fetch_vintagehifi_detail(session, l["url"]))
                     pause(cfg)
                 except Exception as exc:  # noqa: BLE001
                     log.warning("Detail page failed %s: %s", l["url"], exc)

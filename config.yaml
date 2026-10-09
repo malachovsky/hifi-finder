@@ -56,6 +56,8 @@ sources:
     enabled: true
   kleinanzeigen:
     enabled: true                # may be blocked from GitHub's servers; failures are logged, not fatal
+  vintagehifi_cz:
+    enabled: true                # Czech used hi-fi e-shop: fixed prices, ships, so no distance score
   ebay:
     enabled: false                # needs EBAY_CLIENT_ID and EBAY_CLIENT_SECRET (free developer account)
     marketplaces: [EBAY_DE, EBAY_AT]
@@ -131,6 +133,13 @@ models:
     reference_eur: 600
     aliases: [PM8006, PM-8006]
     queries: [Marantz PM8006]
+  - id: PM-7000
+    brand: Marantz
+    category: Amplifier
+    tier: 2
+    reference_eur: 300
+    aliases: [PM-7000, PM7000]
+    queries: [Marantz PM7000, Marantz PM-7000]
   - id: PM6007
     brand: Marantz
     category: Amplifier
