@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T11:00:04+00:00",
+ "generated": "2026-10-10T20:30:38+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -308,6 +308,49 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196187793/sony-ta-630esd.php",
+   "title": "Sony ta 630esd",
+   "model": "TA-F630ESD",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 320.0,
+   "currency": "EUR",
+   "price_eur": 320.0,
+   "reference_eur": 350.0,
+   "deal_pct": 9,
+   "deal_label": "Good price",
+   "score": 26,
+   "score_parts": [
+    [
+     "Price",
+     9
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Lučenec 986 01",
+   "distance_km": 72,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/793/196187793.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "not_made",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224231630/sony-rm-s702.php",
    "title": "SONY RM-S702 a 703, RM-D991 a 997",
@@ -594,7 +637,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1112,12 +1155,12 @@
    "distance_km": 160,
    "posted": "2026-10-10T12:00:00+00:00",
    "first_seen": "2026-10-10T11:00:04+00:00",
-   "image": "https://www.bazos.sk/img/1t/189/196362189.jpg?t=1791623834",
+   "image": "https://www.bazos.sk/img/1t/189/196362189.jpg?t=1791635545",
    "photo_count": 2,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1210,49 +1253,6 @@
    "first_seen": "2026-10-07T16:39:36+00:00",
    "image": "https://www.bazos.sk/img/1t/998/194987998.jpg",
    "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223282227/denon-pma-900hne.php",
-   "title": "Denon PMA-900HNE",
-   "model": "PMA-900HNE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 10000.0,
-   "currency": "CZK",
-   "price_eur": 410.36,
-   "reference_eur": 450.0,
-   "deal_pct": 9,
-   "deal_label": "Good price",
-   "score": 18,
-   "score_parts": [
-    [
-     "Price",
-     9
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     3
-    ]
-   ],
-   "location": "Brno 638 00",
-   "distance_km": 192,
-   "posted": "2026-09-01T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/227/223282227.jpg",
-   "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
@@ -1401,53 +1401,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
-   "title": "Tape deck Sony TC-KA6ES - plně funkční.",
-   "model": "TC-KA6ES",
-   "brand": "Sony",
-   "category": "Tape deck",
-   "tier": 1,
-   "price": 26900.0,
-   "currency": "CZK",
-   "price_eur": 1103.86,
-   "reference_eur": 420.0,
-   "deal_pct": -163,
-   "deal_label": "Above market",
-   "score": -143,
-   "score_parts": [
-    [
-     "Price",
-     -163
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     2
-    ]
-   ],
-   "location": "Šumperk 789 63",
-   "distance_km": 215,
-   "posted": "2026-09-13T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/615/223742615.jpg?t=1789285800",
-   "photo_count": 12,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.sk",
    "url": "https://hudba.bazos.sk/inzerat/195224064/mc-kazety-pre-zberatela.php",
    "title": "MC KAZETY PRE ZBERATEĽA",
@@ -1545,15 +1498,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
-   "found": 14
+   "ok": 24,
+   "failed": 0,
+   "found": 15
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
-   "failed": 0,
-   "found": 17
+   "ok": 22,
+   "failed": 2,
+   "found": 15
   },
   {
    "name": "Kleinanzeigen",
