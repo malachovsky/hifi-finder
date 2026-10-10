@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T07:13:01+00:00",
+ "generated": "2026-10-10T11:00:04+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -308,49 +308,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196187793/sony-ta-630esd.php",
-   "title": "Sony ta 630esd",
-   "model": "TA-F630ESD",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 320.0,
-   "currency": "EUR",
-   "price_eur": 320.0,
-   "reference_eur": 350.0,
-   "deal_pct": 9,
-   "deal_label": "Good price",
-   "score": 26,
-   "score_parts": [
-    [
-     "Price",
-     9
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Lučenec 986 01",
-   "distance_km": 72,
-   "posted": "2026-10-05T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/793/196187793.jpg",
-   "photo_count": 10,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "not_made",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224231630/sony-rm-s702.php",
    "title": "SONY RM-S702 a 703, RM-D991 a 997",
@@ -597,7 +554,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196339347/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/196364400/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -630,14 +587,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-10-09T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/347/196339347.jpg",
+   "posted": "2026-10-10T12:00:00+00:00",
+   "first_seen": "2026-10-10T11:00:04+00:00",
+   "image": "https://www.bazos.sk/img/1t/400/196364400.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1066,7 +1023,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
@@ -1116,6 +1073,53 @@
    "notes": [
     "Price looks unusually low, check the listing"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196362189/denon-pma-1700ne.php",
+   "title": "DENON PMA -1700NE",
+   "model": "PMA-1700NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 850.0,
+   "currency": "EUR",
+   "price_eur": 850.0,
+   "reference_eur": 950.0,
+   "deal_pct": 11,
+   "deal_label": "Good price",
+   "score": 27,
+   "score_parts": [
+    [
+     "Price",
+     11
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 821 08",
+   "distance_km": 160,
+   "posted": "2026-10-10T12:00:00+00:00",
+   "first_seen": "2026-10-10T11:00:04+00:00",
+   "image": "https://www.bazos.sk/img/1t/189/196362189.jpg?t=1791623834",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -1169,6 +1173,49 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/194987998/predam-denon-pma-900hne.php",
+   "title": "Predám Denon PMA-900HNE",
+   "model": "PMA-900HNE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 500.0,
+   "currency": "EUR",
+   "price_eur": 500.0,
+   "reference_eur": 450.0,
+   "deal_pct": -11,
+   "deal_label": "Fair price",
+   "score": 6,
+   "score_parts": [
+    [
+     "Price",
+     -11
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Banská Bystrica 976 61",
+   "distance_km": 73,
+   "posted": "2026-08-27T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/998/194987998.jpg",
+   "photo_count": 3,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -1498,9 +1545,9 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 22,
-   "failed": 2,
-   "found": 13
+   "ok": 23,
+   "failed": 1,
+   "found": 14
   },
   {
    "name": "Bazoš.cz",
