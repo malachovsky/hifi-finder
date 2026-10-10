@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T14:44:28+00:00",
+ "generated": "2026-10-10T07:13:01+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -637,7 +637,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -688,7 +688,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -735,7 +735,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "No price given"
@@ -784,7 +784,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -835,7 +835,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -882,7 +882,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -925,7 +925,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -972,7 +972,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1023,9 +1023,54 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
+   "title": "Elac FS 78",
+   "model": "PM6007",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 730.0,
+   "currency": "EUR",
+   "price_eur": 730.0,
+   "reference_eur": 330.0,
+   "deal_pct": -121,
+   "deal_label": "Above market",
+   "score": -104,
+   "score_parts": [
+    [
+     "Price",
+     -121
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Lučenec 986 01",
+   "distance_km": 72,
+   "posted": "2026-10-10T12:00:00+00:00",
+   "first_seen": "2026-10-10T07:13:01+00:00",
+   "image": "https://www.bazos.sk/img/1t/834/196355834.jpg",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
    "auction": false
   },
   {
@@ -1124,49 +1169,6 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/194987998/predam-denon-pma-900hne.php",
-   "title": "Predám Denon PMA-900HNE",
-   "model": "PMA-900HNE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 500.0,
-   "currency": "EUR",
-   "price_eur": 500.0,
-   "reference_eur": 450.0,
-   "deal_pct": -11,
-   "deal_label": "Fair price",
-   "score": 6,
-   "score_parts": [
-    [
-     "Price",
-     -11
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Banská Bystrica 976 61",
-   "distance_km": 73,
-   "posted": "2026-08-27T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/998/194987998.jpg",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
    "auction": false
   },
   {
