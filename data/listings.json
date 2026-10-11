@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T20:30:38+00:00",
+ "generated": "2026-10-11T11:17:13+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -597,7 +597,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196364400/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/196394356/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -630,14 +630,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-10-10T12:00:00+00:00",
-   "first_seen": "2026-10-10T11:00:04+00:00",
-   "image": "https://www.bazos.sk/img/1t/400/196364400.jpg",
+   "posted": "2026-10-11T12:00:00+00:00",
+   "first_seen": "2026-10-11T11:17:13+00:00",
+   "image": "https://www.bazos.sk/img/1t/356/196394356.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -931,104 +931,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224840952/marantz-pm-7000-sberatelsky-stav.php",
-   "title": "MARANTZ PM-7000 – Sběratelský stav",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 328.29,
-   "reference_eur": 300.0,
-   "deal_pct": -9,
-   "deal_label": "Fair price",
-   "score": -15,
-   "score_parts": [
-    [
-     "Price",
-     -9
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     4
-    ]
-   ],
-   "location": "Břeclav 693 01",
-   "distance_km": 177,
-   "posted": "2026-10-09T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/952/224840952.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/222818745/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
-   "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 6300.0,
-   "currency": "CZK",
-   "price_eur": 258.53,
-   "reference_eur": 300.0,
-   "deal_pct": 14,
-   "deal_label": "Good price",
-   "score": 5,
-   "score_parts": [
-    [
-     "Price",
-     14
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "No remote",
-     -8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -12
-    ]
-   ],
-   "location": "Cheb 351 35",
-   "distance_km": 518,
-   "posted": "2026-08-21T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/745/222818745.jpg?t=1789157919",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
    "title": "Elac FS 78",
@@ -1262,6 +1164,49 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223282227/denon-pma-900hne.php",
+   "title": "Denon PMA-900HNE",
+   "model": "PMA-900HNE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 10000.0,
+   "currency": "CZK",
+   "price_eur": 410.36,
+   "reference_eur": 450.0,
+   "deal_pct": 9,
+   "deal_label": "Good price",
+   "score": 18,
+   "score_parts": [
+    [
+     "Price",
+     9
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     3
+    ]
+   ],
+   "location": "Brno 638 00",
+   "distance_km": 192,
+   "posted": "2026-09-01T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.cz/img/1t/227/223282227.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/195275070/sony-cdp-xa30es.php",
    "title": "SONY CDP-XA30ES",
@@ -1401,28 +1346,28 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/195224064/mc-kazety-pre-zberatela.php",
-   "title": "MC KAZETY PRE ZBERATEĽA",
-   "model": "TC-K711S",
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
+   "title": "Tape deck Sony TC-KA6ES - plně funkční.",
+   "model": "TC-KA6ES",
    "brand": "Sony",
    "category": "Tape deck",
-   "tier": 2,
-   "price": 13.0,
-   "currency": "EUR",
-   "price_eur": 13.0,
-   "reference_eur": 300.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 2,
+   "tier": 1,
+   "price": 26900.0,
+   "currency": "CZK",
+   "price_eur": 1103.86,
+   "reference_eur": 420.0,
+   "deal_pct": -163,
+   "deal_label": "Above market",
+   "score": -143,
    "score_parts": [
     [
-     "Price unknown",
-     -15
+     "Price",
+     -163
     ],
     [
      "Wish list",
-     5
+     12
     ],
     [
      "Own photos",
@@ -1430,23 +1375,21 @@
     ],
     [
      "Distance",
-     6
+     2
     ]
    ],
-   "location": "Prešov 080 01",
-   "distance_km": 156,
-   "posted": "2026-09-04T12:00:00+00:00",
+   "location": "Šumperk 789 63",
+   "distance_km": 215,
+   "posted": "2026-09-13T12:00:00+00:00",
    "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/064/195224064.jpg?t=1788683354",
-   "photo_count": 14,
+   "image": "https://www.bazos.cz/img/1t/615/223742615.jpg?t=1789285800",
+   "photo_count": 12,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": false,
    "price_drop_eur": null,
-   "notes": [
-    "Price looks unusually low, check the listing"
-   ],
+   "notes": [],
    "auction": false
   },
   {
@@ -1500,7 +1443,7 @@
    "name": "Bazoš.sk",
    "ok": 24,
    "failed": 0,
-   "found": 15
+   "found": 14
   },
   {
    "name": "Bazoš.cz",
