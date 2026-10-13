@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T23:31:56+00:00",
+ "generated": "2026-10-13T12:30:22+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -550,7 +550,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196432673/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/196464977/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -583,14 +583,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-10-12T12:00:00+00:00",
-   "first_seen": "2026-10-12T12:50:54+00:00",
-   "image": "https://www.bazos.sk/img/1t/673/196432673.jpg",
+   "posted": "2026-10-13T12:00:00+00:00",
+   "first_seen": "2026-10-13T12:30:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/977/196464977.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1351,6 +1351,57 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223379824/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
+   "title": "SONY ESPRIT CDP-X222ES+DO",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 5990.0,
+   "currency": "CZK",
+   "price_eur": 245.58,
+   "reference_eur": 120.0,
+   "deal_pct": -105,
+   "deal_label": "Above market",
+   "score": -94,
+   "score_parts": [
+    [
+     "Price",
+     -105
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Praha 6 160 00",
+   "distance_km": 377,
+   "posted": "2026-09-04T12:00:00+00:00",
+   "first_seen": "2026-10-13T12:30:22+00:00",
+   "image": "https://www.bazos.cz/img/1t/824/223379824.jpg?t=1791885304",
+   "photo_count": 9,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
    "title": "Tape deck Sony TC-KA6ES - plně funkční.",
    "model": "TC-KA6ES",
@@ -1400,15 +1451,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 12
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
-   "found": 16
+   "ok": 24,
+   "failed": 0,
+   "found": 17
   },
   {
    "name": "Kleinanzeigen",
