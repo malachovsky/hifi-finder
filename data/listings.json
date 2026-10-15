@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T20:29:56+00:00",
+ "generated": "2026-10-15T09:39:44+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -308,6 +308,49 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196187793/sony-ta-630esd.php",
+   "title": "Sony ta 630esd",
+   "model": "TA-F630ESD",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 320.0,
+   "currency": "EUR",
+   "price_eur": 320.0,
+   "reference_eur": 350.0,
+   "deal_pct": 9,
+   "deal_label": "Good price",
+   "score": 26,
+   "score_parts": [
+    [
+     "Price",
+     9
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Lučenec 986 01",
+   "distance_km": 72,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/793/196187793.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "not_made",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224231630/sony-rm-s702.php",
    "title": "SONY RM-S702 a 703, RM-D991 a 997",
@@ -547,7 +590,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1029,6 +1072,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196524162/denon-pma1600ne.php",
+   "title": "Denon PMA1600NE",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 849.0,
+   "currency": "EUR",
+   "price_eur": 849.0,
+   "reference_eur": 750.0,
+   "deal_pct": -13,
+   "deal_label": "Fair price",
+   "score": 12,
+   "score_parts": [
+    [
+     "Price",
+     -13
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Senec 900 42",
+   "distance_km": 157,
+   "posted": "2026-10-15T12:00:00+00:00",
+   "first_seen": "2026-10-15T09:39:44+00:00",
+   "image": "https://www.bazos.sk/img/1t/162/196524162.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224700441/denon-pma-1600ne-dnp-800ne-canton-reference-9-k.php",
    "title": "Denon PMA-1600NE + DNP-800NE + Canton Reference 9 K",
@@ -1410,7 +1504,7 @@
    "name": "Bazoš.sk",
    "ok": 23,
    "failed": 1,
-   "found": 11
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
