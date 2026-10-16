@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T20:11:57+00:00",
+ "generated": "2026-10-16T09:32:55+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -641,7 +641,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1553,14 +1553,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 24,
-   "failed": 0,
+   "ok": 22,
+   "failed": 2,
    "found": 14
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 17
   },
   {
