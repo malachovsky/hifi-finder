@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T09:03:26+00:00",
+ "generated": "2026-10-17T19:04:06+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -698,6 +698,200 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224686701/originalni-obaly-reprosoustav-a-komponentu.php",
+   "title": "Originální obaly od hifi komponentů a reprosoustav",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": null,
+   "currency": "CZK",
+   "price_eur": null,
+   "reference_eur": 300.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -12,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Příbram 261 01",
+   "distance_km": 388,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/701/224686701.jpg",
+   "photo_count": 14,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224669833/zesilovac-marantz-pm7000.php",
+   "title": "Zesilovač Marantz PM7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8000.0,
+   "currency": "CZK",
+   "price_eur": 328.91,
+   "reference_eur": 300.0,
+   "deal_pct": -10,
+   "deal_label": "Fair price",
+   "score": 0,
+   "score_parts": [
+    [
+     "Price",
+     -10
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -1
+    ]
+   ],
+   "location": "Chrudim 539 01",
+   "distance_km": 262,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/833/224669833.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223619706/zesilovac-marantz-pm7000.php",
+   "title": "Zesilovač Marantz PM7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8900.0,
+   "currency": "CZK",
+   "price_eur": 365.91,
+   "reference_eur": 300.0,
+   "deal_pct": -22,
+   "deal_label": "Above market",
+   "score": -12,
+   "score_parts": [
+    [
+     "Price",
+     -22
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -9
+    ]
+   ],
+   "location": "Česká Lípa 470 01",
+   "distance_km": 396,
+   "posted": "2026-09-10T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/706/223619706.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/222700707/prodam-kvalitni-sestavu.php",
+   "title": "Prodám kvalitní sestavu",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 10500.0,
+   "currency": "CZK",
+   "price_eur": 431.69,
+   "reference_eur": 300.0,
+   "deal_pct": -44,
+   "deal_label": "Above market",
+   "score": -39,
+   "score_parts": [
+    [
+     "Price",
+     -44
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -6
+    ]
+   ],
+   "location": "Benešov 259 01",
+   "distance_km": 342,
+   "posted": "2026-08-25T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/707/222700707.jpg?t=1787044964",
+   "photo_count": 9,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "VintageHifi.cz",
    "url": "https://www.vintagehifi.cz/marantz-pm-7000",
    "title": "Marantz PM-7000",
@@ -1265,15 +1459,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 13
   },
   {
    "name": "Bazoš.cz",
-   "ok": 21,
-   "failed": 3,
-   "found": 12
+   "ok": 24,
+   "failed": 0,
+   "found": 16
   },
   {
    "name": "Kleinanzeigen",
