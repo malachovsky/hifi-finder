@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T19:04:06+00:00",
+ "generated": "2026-10-18T09:22:09+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -845,53 +845,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/222700707/prodam-kvalitni-sestavu.php",
-   "title": "Prodám kvalitní sestavu",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 10500.0,
-   "currency": "CZK",
-   "price_eur": 431.69,
-   "reference_eur": 300.0,
-   "deal_pct": -44,
-   "deal_label": "Above market",
-   "score": -39,
-   "score_parts": [
-    [
-     "Price",
-     -44
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -6
-    ]
-   ],
-   "location": "Benešov 259 01",
-   "distance_km": 342,
-   "posted": "2026-08-25T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/707/222700707.jpg?t=1787044964",
-   "photo_count": 9,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "VintageHifi.cz",
    "url": "https://www.vintagehifi.cz/marantz-pm-7000",
    "title": "Marantz PM-7000",
@@ -1074,51 +1027,6 @@
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195338582/hi-fi-polica-pre-zosilnovac-marantz-trieda-pm.php",
-   "title": "Hi-Fi-polica pre zosilňovač Marantz trieda PM",
-   "model": "PM6007",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 20.0,
-   "currency": "EUR",
-   "price_eur": 20.0,
-   "reference_eur": 330.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 0,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     9
-    ]
-   ],
-   "location": "Nitra 951 41",
-   "distance_km": 93,
-   "posted": "2026-09-08T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/582/195338582.jpg?t=1791785353",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": 10,
-   "notes": [
-    "Price looks unusually low, check the listing"
    ],
    "auction": false
   },
@@ -1461,13 +1369,13 @@
    "name": "Bazoš.sk",
    "ok": 24,
    "failed": 0,
-   "found": 13
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
    "ok": 24,
    "failed": 0,
-   "found": 16
+   "found": 15
   },
   {
    "name": "Kleinanzeigen",
