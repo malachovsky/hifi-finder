@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T10:34:16+00:00",
+ "generated": "2026-10-19T21:22:18+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -223,7 +223,7 @@
    "tier": 2,
    "price": 9700.0,
    "currency": "CZK",
-   "price_eur": 398.8,
+   "price_eur": 398.47,
    "reference_eur": 370.0,
    "deal_pct": -8,
    "deal_label": "Fair price",
@@ -462,7 +462,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 863.38,
+   "price_eur": 862.67,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -511,7 +511,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.83,
+   "price_eur": 1026.99,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -590,7 +590,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -654,17 +654,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 2,
-   "price": 1249.0,
+   "price": 1199.0,
    "currency": "EUR",
-   "price_eur": 1249.0,
+   "price_eur": 1199.0,
    "reference_eur": 300.0,
-   "deal_pct": -316,
+   "deal_pct": -300,
    "deal_label": "Above market",
-   "score": -292,
+   "score": -276,
    "score_parts": [
     [
      "Price",
-     -316
+     -300
     ],
     [
      "Wish list",
@@ -687,13 +687,13 @@
    "distance_km": 165,
    "posted": "2026-09-08T12:00:00+00:00",
    "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1788885939",
+   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
    "photo_count": 7,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 50,
    "notes": [],
    "auction": false
   },
@@ -756,7 +756,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.91,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -803,7 +803,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.91,
+   "price_eur": 365.61,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -854,7 +854,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.91,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -897,7 +897,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.91,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -944,7 +944,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 259.01,
+   "price_eur": 258.8,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -1028,6 +1028,57 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
+   "title": "DENON PMA-1600NE-integrovaný zosilňovač (TOP STAV)",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 750.0,
+   "deal_pct": 13,
+   "deal_label": "Good price",
+   "score": 38,
+   "score_parts": [
+    [
+     "Price",
+     13
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Prešov 080 01",
+   "distance_km": 156,
+   "posted": "2026-10-19T12:00:00+00:00",
+   "first_seen": "2026-10-19T21:22:18+00:00",
+   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -1130,7 +1181,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 493.36,
+   "price_eur": 492.95,
    "reference_eur": 380.0,
    "deal_pct": -30,
    "deal_label": "Above market",
@@ -1222,7 +1273,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.27,
+   "price_eur": 246.07,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1273,7 +1324,7 @@
    "tier": 1,
    "price": 26900.0,
    "currency": "CZK",
-   "price_eur": 1105.95,
+   "price_eur": 1105.04,
    "reference_eur": 420.0,
    "deal_pct": -163,
    "deal_label": "Above market",
@@ -1314,9 +1365,9 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
-   "found": 12
+   "ok": 24,
+   "failed": 0,
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
