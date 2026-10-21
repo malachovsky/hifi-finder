@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:52:46+00:00",
+ "generated": "2026-10-21T20:27:57+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -17,49 +17,6 @@
   "distance_min_factor": -0.8
  },
  "listings": [
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196311134/sony-ta-f770es.php",
-   "title": "Sony TA-F770ES",
-   "model": "TA-F770ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 1,
-   "price": 649.0,
-   "currency": "EUR",
-   "price_eur": 649.0,
-   "reference_eur": 700.0,
-   "deal_pct": 7,
-   "deal_label": "Good price",
-   "score": 26,
-   "score_parts": [
-    [
-     "Price",
-     7
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Dunajská Streda 929 01",
-   "distance_km": 140,
-   "posted": "2026-10-08T12:00:00+00:00",
-   "first_seen": "2026-10-08T21:51:18+00:00",
-   "image": "https://www.bazos.sk/img/1t/134/196311134.jpg",
-   "photo_count": 1,
-   "photo_kind": "single",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
   {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/195228514/predam-krasny-sony-ta-fa5es-s-originalnym-do.php",
@@ -223,7 +180,7 @@
    "tier": 2,
    "price": 9700.0,
    "currency": "CZK",
-   "price_eur": 398.7,
+   "price_eur": 399.8,
    "reference_eur": 370.0,
    "deal_pct": -8,
    "deal_label": "Fair price",
@@ -462,7 +419,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 863.17,
+   "price_eur": 865.55,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -511,15 +468,15 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.58,
+   "price_eur": 1030.42,
    "reference_eur": 600.0,
-   "deal_pct": -71,
+   "deal_pct": -72,
    "deal_label": "Above market",
-   "score": -67,
+   "score": -68,
    "score_parts": [
     [
      "Price",
-     -71
+     -72
     ],
     [
      "Wish list",
@@ -756,7 +713,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.83,
+   "price_eur": 329.73,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -803,7 +760,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.82,
+   "price_eur": 366.83,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -854,7 +811,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.83,
+   "price_eur": 329.73,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -889,6 +846,57 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
+   "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 6300.0,
+   "currency": "CZK",
+   "price_eur": 259.67,
+   "reference_eur": 300.0,
+   "deal_pct": 13,
+   "deal_label": "Good price",
+   "score": 4,
+   "score_parts": [
+    [
+     "Price",
+     13
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Cheb 351 35",
+   "distance_km": 518,
+   "posted": "2026-10-21T12:00:00+00:00",
+   "first_seen": "2026-10-21T20:27:57+00:00",
+   "image": "https://www.bazos.cz/img/1t/559/225404559.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224840952/marantz-pm-7000-sberatelsky-stav.php",
    "title": "MARANTZ PM-7000 – Sběratelský stav",
    "model": "PM-7000",
@@ -897,7 +905,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.83,
+   "price_eur": 329.73,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -1177,7 +1185,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 493.24,
+   "price_eur": 494.6,
    "reference_eur": 380.0,
    "deal_pct": -30,
    "deal_label": "Above market",
@@ -1224,7 +1232,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.11,
+   "price_eur": 4.12,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1269,15 +1277,15 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.21,
+   "price_eur": 246.89,
    "reference_eur": 120.0,
-   "deal_pct": -105,
+   "deal_pct": -106,
    "deal_label": "Above market",
-   "score": -94,
+   "score": -95,
    "score_parts": [
     [
      "Price",
-     -105
+     -106
     ],
     [
      "Wish list",
@@ -1320,15 +1328,15 @@
    "tier": 1,
    "price": 26900.0,
    "currency": "CZK",
-   "price_eur": 1105.68,
+   "price_eur": 1108.73,
    "reference_eur": 420.0,
-   "deal_pct": -163,
+   "deal_pct": -164,
    "deal_label": "Above market",
-   "score": -143,
+   "score": -144,
    "score_parts": [
     [
      "Price",
-     -163
+     -164
     ],
     [
      "Wish list",
@@ -1363,13 +1371,13 @@
    "name": "Bazoš.sk",
    "ok": 24,
    "failed": 0,
-   "found": 14
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
-   "failed": 0,
-   "found": 13
+   "ok": 23,
+   "failed": 1,
+   "found": 14
   },
   {
    "name": "Kleinanzeigen",
