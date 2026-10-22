@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:27:57+00:00",
+ "generated": "2026-10-22T09:52:35+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -507,7 +507,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196687731/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/196745408/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -540,14 +540,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-10-20T12:00:00+00:00",
-   "first_seen": "2026-10-20T20:19:19+00:00",
-   "image": "https://www.bazos.sk/img/1t/731/196687731.jpg",
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T09:52:35+00:00",
+   "image": "https://www.bazos.sk/img/1t/408/196745408.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -802,49 +802,6 @@
    "auction": false
   },
   {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
-   "title": "Marantz PM-7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 329.73,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -20,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ]
-   ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
    "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
@@ -890,7 +847,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1073,56 +1030,13 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-21T12:00:00+00:00",
+   "posted": "2026-10-22T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196624791/predam-denon-pma-900hne.php",
-   "title": "Predám Denon PMA-900HNE",
-   "model": "PMA-900HNE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 450.0,
-   "currency": "EUR",
-   "price_eur": 450.0,
-   "reference_eur": 450.0,
-   "deal_pct": 0,
-   "deal_label": "Fair price",
-   "score": 17,
-   "score_parts": [
-    [
-     "Price",
-     0
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Banská Bystrica 976 61",
-   "distance_km": 73,
-   "posted": "2026-10-18T12:00:00+00:00",
-   "first_seen": "2026-10-18T19:16:53+00:00",
-   "image": "https://www.bazos.sk/img/1t/791/196624791.jpg?t=1792339980",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1364,6 +1278,51 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "VintageHifi.cz",
+   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
+   "title": "Marantz PM-7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8000.0,
+   "currency": "CZK",
+   "price_eur": 329.73,
+   "reference_eur": 300.0,
+   "deal_pct": -10,
+   "deal_label": "Fair price",
+   "score": -20,
+   "score_parts": [
+    [
+     "Price",
+     -10
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ]
+   ],
+   "location": "E-shop (shipping)",
+   "distance_km": null,
+   "posted": null,
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [
+    "Not rechecked this run (source unavailable)"
+   ],
+   "auction": false
   }
  ],
  "sources": [
@@ -1371,25 +1330,25 @@
    "name": "Bazoš.sk",
    "ok": 24,
    "failed": 0,
-   "found": 13
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 14
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 0
   },
   {
    "name": "VintageHifi.cz",
-   "ok": 24,
-   "failed": 0,
-   "found": 1
+   "ok": 0,
+   "failed": 24,
+   "found": 0
   }
  ],
  "models": [
