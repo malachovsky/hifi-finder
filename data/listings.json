@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T20:26:16+00:00",
+ "generated": "2026-10-23T09:46:51+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -1073,7 +1073,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-22T12:00:00+00:00",
+   "posted": "2026-10-23T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
    "photo_count": 8,
@@ -1131,7 +1131,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
