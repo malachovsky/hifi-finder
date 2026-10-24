@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T09:20:09+00:00",
+ "generated": "2026-10-24T19:17:42+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -55,7 +55,7 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1181,6 +1181,51 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
+   "title": "Sony CDP-X333ES a CDP-X222ES",
+   "model": "CDP-X333ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 100.0,
+   "currency": "CZK",
+   "price_eur": 4.11,
+   "reference_eur": 170.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -3,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Frýdek - Místek 739 44",
+   "distance_km": 127,
+   "posted": "2026-10-24T12:00:00+00:00",
+   "first_seen": "2026-10-24T19:17:42+00:00",
+   "image": "https://www.bazos.cz/img/1t/329/225511329.jpg",
+   "photo_count": 1,
+   "photo_kind": "single",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Sold together with other items, price covers the set"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/223379824/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
    "title": "SONY ESPRIT CDP-X222ES+DO",
    "model": "CDP-X222ES",
@@ -1281,15 +1326,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 13
   },
   {
    "name": "Bazoš.cz",
    "ok": 23,
    "failed": 1,
-   "found": 12
+   "found": 13
   },
   {
    "name": "Kleinanzeigen",
