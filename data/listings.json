@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T19:17:42+00:00",
+ "generated": "2026-10-25T09:37:05+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -1116,7 +1116,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-24T12:00:00+00:00",
+   "posted": "2026-10-25T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
    "photo_count": 8,
@@ -1217,7 +1217,7 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Sold together with other items, price covers the set"
@@ -1326,8 +1326,8 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 13
   },
   {
