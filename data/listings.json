@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:28:01+00:00",
+ "generated": "2026-10-26T10:48:57+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -210,6 +210,49 @@
    "remote": "yes",
    "is_new": false,
    "price_drop_eur": 78,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196865833/sony-ta-f630esd-esprit.php",
+   "title": "Sony TA-F630ESD Nový DA prevodník",
+   "model": "TA-F630ESD",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 380.0,
+   "currency": "EUR",
+   "price_eur": 380.0,
+   "reference_eur": 350.0,
+   "deal_pct": -9,
+   "deal_label": "Fair price",
+   "score": 12,
+   "score_parts": [
+    [
+     "Price",
+     -9
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     15
+    ]
+   ],
+   "location": "Banská Bystrica 974 05",
+   "distance_km": 2,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T10:48:57+00:00",
+   "image": "https://www.bazos.sk/img/1t/833/196865833.jpg",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "not_made",
+   "is_new": true,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -496,57 +539,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195860458/marantz-pm7000.php",
-   "title": "Marantz PM7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 200.0,
-   "currency": "EUR",
-   "price_eur": 200.0,
-   "reference_eur": 300.0,
-   "deal_pct": 33,
-   "deal_label": "Great price",
-   "score": 54,
-   "score_parts": [
-    [
-     "Price",
-     33
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     2
-    ]
-   ],
-   "location": "Snina 069 01",
-   "distance_km": 222,
-   "posted": "2026-09-24T12:00:00+00:00",
-   "first_seen": "2026-10-15T20:11:57+00:00",
-   "image": "https://www.bazos.sk/img/1t/458/195860458.jpg?t=1792083524",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -794,104 +786,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
-   "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 6300.0,
-   "currency": "CZK",
-   "price_eur": 258.97,
-   "reference_eur": 300.0,
-   "deal_pct": 14,
-   "deal_label": "Good price",
-   "score": 5,
-   "score_parts": [
-    [
-     "Price",
-     14
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "No remote",
-     -8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -12
-    ]
-   ],
-   "location": "Cheb 351 35",
-   "distance_km": 518,
-   "posted": "2026-10-21T12:00:00+00:00",
-   "first_seen": "2026-10-21T20:27:57+00:00",
-   "image": "https://www.bazos.cz/img/1t/559/225404559.jpg",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224840952/marantz-pm-7000-sberatelsky-stav.php",
-   "title": "MARANTZ PM-7000 – Sběratelský stav",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 328.85,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -16,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     4
-    ]
-   ],
-   "location": "Břeclav 693 01",
-   "distance_km": 177,
-   "posted": "2026-10-09T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/952/224840952.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
    "title": "Elac FS 78",
@@ -1022,7 +916,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-25T12:00:00+00:00",
+   "posted": "2026-10-26T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
    "photo_count": 8,
@@ -1089,14 +983,14 @@
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
-   "model": "CDP-X222ES",
+   "model": "CDP-X333ES",
    "brand": "Sony",
    "category": "CD player",
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
    "price_eur": 4.11,
-   "reference_eur": 120.0,
+   "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
    "score": -3,
@@ -1128,6 +1022,57 @@
    "notes": [
     "Sold together with other items, price covers the set"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225590083/sony-cdp-x222es-dalkovy-ovladac.php",
+   "title": "Sony CDP-X222ES + dálkový ovladač",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 6000.0,
+   "currency": "CZK",
+   "price_eur": 246.64,
+   "reference_eur": 120.0,
+   "deal_pct": -106,
+   "deal_label": "Above market",
+   "score": -93,
+   "score_parts": [
+    [
+     "Price",
+     -106
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -6
+    ]
+   ],
+   "location": "České Budějovice 370 01",
+   "distance_km": 345,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T10:48:57+00:00",
+   "image": "https://www.bazos.cz/img/1t/083/225590083.jpg",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -1238,9 +1183,9 @@
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
-   "found": 13
+   "ok": 22,
+   "failed": 2,
+   "found": 12
   },
   {
    "name": "Kleinanzeigen",
