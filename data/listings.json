@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T10:48:57+00:00",
+ "generated": "2026-10-26T21:26:49+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -55,6 +55,57 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195228514/predam-krasny-sony-ta-fa5es-s-originalnym-do.php",
+   "title": "🔥Predám krásny Sony TA-FA5ES s originálnym DO",
+   "model": "TA-FA5ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 798.0,
+   "currency": "EUR",
+   "price_eur": 798.0,
+   "reference_eur": 750.0,
+   "deal_pct": -6,
+   "deal_label": "Fair price",
+   "score": 25,
+   "score_parts": [
+    [
+     "Price",
+     -6
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     12
+    ]
+   ],
+   "location": "Liptovský Mikuláš 031 01",
+   "distance_km": 52,
+   "posted": "2026-09-04T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/514/195228514.jpg?t=1789763021",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -172,7 +223,7 @@
    "tier": 2,
    "price": 7800.0,
    "currency": "CZK",
-   "price_eur": 320.63,
+   "price_eur": 320.08,
    "reference_eur": 370.0,
    "deal_pct": 13,
    "deal_label": "Good price",
@@ -209,7 +260,7 @@
    "photo_reason": "Same photo in another seller's listing",
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": 78,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -251,7 +302,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "not_made",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -297,55 +348,6 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224231630/sony-rm-s702.php",
-   "title": "SONY RM-S702 a 703, RM-D991 a 997",
-   "model": "TA-F590ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": null,
-   "currency": "CZK",
-   "price_eur": null,
-   "reference_eur": 250.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 13,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     14
-    ]
-   ],
-   "location": "Slovensko 987 65",
-   "distance_km": 18,
-   "posted": "2026-09-24T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/630/224231630.jpg",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
    "auction": false
   },
   {
@@ -411,7 +413,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 863.24,
+   "price_eur": 861.75,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -444,7 +446,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 2,
+   "price_drop_eur": 1,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -460,7 +462,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.66,
+   "price_eur": 1025.89,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -493,7 +495,58 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": 2,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
+   "title": "MARANTZ PM7000N silver",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 300.0,
+   "deal_pct": -116,
+   "deal_label": "Above market",
+   "score": -84,
+   "score_parts": [
+    [
+     "Price",
+     -116
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Martin 036 01",
+   "distance_km": 40,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T21:26:49+00:00",
+   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -597,6 +650,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
+   "title": "Marantz PM7000N + CD6007",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 25000.0,
+   "currency": "CZK",
+   "price_eur": 1025.89,
+   "reference_eur": 300.0,
+   "deal_pct": -242,
+   "deal_label": "Above market",
+   "score": -224,
+   "score_parts": [
+    [
+     "Price",
+     -242
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Ostrava 702 00",
+   "distance_km": 139,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T21:26:49+00:00",
+   "image": "https://www.bazos.cz/img/1t/344/225613344.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224686701/originalni-obaly-reprosoustav-a-komponentu.php",
    "title": "Originální obaly od hifi komponentů a reprosoustav",
    "model": "PM-7000",
@@ -654,15 +754,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.85,
+   "price_eur": 328.29,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": 0,
+   "score": 1,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -701,7 +801,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.85,
+   "price_eur": 365.22,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -738,7 +838,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": 1,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -752,15 +852,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.85,
+   "price_eur": 328.29,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": -20,
+   "score": -19,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -776,6 +876,104 @@
    "posted": null,
    "first_seen": "2026-10-09T14:44:28+00:00",
    "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
+   "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 6300.0,
+   "currency": "CZK",
+   "price_eur": 258.53,
+   "reference_eur": 300.0,
+   "deal_pct": 14,
+   "deal_label": "Good price",
+   "score": 5,
+   "score_parts": [
+    [
+     "Price",
+     14
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Cheb 351 35",
+   "distance_km": 518,
+   "posted": "2026-10-21T12:00:00+00:00",
+   "first_seen": "2026-10-21T20:27:57+00:00",
+   "image": "https://www.bazos.cz/img/1t/559/225404559.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224840952/marantz-pm-7000-sberatelsky-stav.php",
+   "title": "MARANTZ PM-7000 – Sběratelský stav",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8000.0,
+   "currency": "CZK",
+   "price_eur": 328.29,
+   "reference_eur": 300.0,
+   "deal_pct": -9,
+   "deal_label": "Fair price",
+   "score": -15,
+   "score_parts": [
+    [
+     "Price",
+     -9
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     4
+    ]
+   ],
+   "location": "Břeclav 693 01",
+   "distance_km": 177,
+   "posted": "2026-10-09T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/952/224840952.jpg",
    "photo_count": 6,
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
@@ -828,53 +1026,6 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196670920/denon-pma-1700ne-audioquest-rocket-22.php",
-   "title": "DENON PMA 1700NE , AUDIOQUEST ROCKET 22",
-   "model": "PMA-1700NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 869.0,
-   "currency": "EUR",
-   "price_eur": 869.0,
-   "reference_eur": 950.0,
-   "deal_pct": 9,
-   "deal_label": "Good price",
-   "score": 25,
-   "score_parts": [
-    [
-     "Price",
-     9
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 821 08",
-   "distance_km": 160,
-   "posted": "2026-10-20T12:00:00+00:00",
-   "first_seen": "2026-10-20T09:50:41+00:00",
-   "image": "https://www.bazos.sk/img/1t/920/196670920.jpg?t=1792512320",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
    "auction": false
   },
   {
@@ -989,7 +1140,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.11,
+   "price_eur": 4.1,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1034,15 +1185,15 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.64,
+   "price_eur": 246.21,
    "reference_eur": 120.0,
-   "deal_pct": -106,
+   "deal_pct": -105,
    "deal_label": "Above market",
-   "score": -93,
+   "score": -92,
    "score_parts": [
     [
      "Price",
-     -106
+     -105
     ],
     [
      "Wish list",
@@ -1070,7 +1221,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1085,7 +1236,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.23,
+   "price_eur": 245.8,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1136,7 +1287,7 @@
    "tier": 1,
    "price": 26900.0,
    "currency": "CZK",
-   "price_eur": 1105.77,
+   "price_eur": 1103.86,
    "reference_eur": 420.0,
    "deal_pct": -163,
    "deal_label": "Above market",
@@ -1169,7 +1320,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   }
@@ -1179,13 +1330,13 @@
    "name": "Bazoš.sk",
    "ok": 23,
    "failed": 1,
-   "found": 11
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
-   "ok": 22,
-   "failed": 2,
-   "found": 12
+   "ok": 24,
+   "failed": 0,
+   "found": 14
   },
   {
    "name": "Kleinanzeigen",
