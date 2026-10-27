@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T21:26:49+00:00",
+ "generated": "2026-10-27T10:15:05+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -500,155 +500,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
-   "title": "MARANTZ PM7000N silver",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 649.0,
-   "currency": "EUR",
-   "price_eur": 649.0,
-   "reference_eur": 300.0,
-   "deal_pct": -116,
-   "deal_label": "Above market",
-   "score": -84,
-   "score_parts": [
-    [
-     "Price",
-     -116
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     13
-    ]
-   ],
-   "location": "Martin 036 01",
-   "distance_km": 40,
-   "posted": "2026-10-26T12:00:00+00:00",
-   "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": true,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196842932/marantz-pm7000n.php",
-   "title": "Marantz PM7000N",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 600.0,
-   "currency": "EUR",
-   "price_eur": 600.0,
-   "reference_eur": 300.0,
-   "deal_pct": -100,
-   "deal_label": "Above market",
-   "score": -78,
-   "score_parts": [
-    [
-     "Price",
-     -100
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Žilina 010 01",
-   "distance_km": 62,
-   "posted": "2026-10-25T12:00:00+00:00",
-   "first_seen": "2026-10-25T19:28:01+00:00",
-   "image": "https://www.bazos.sk/img/1t/932/196842932.jpg",
-   "photo_count": 10,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
-   "title": "Marantz PM7000N + Canton Ergo 609 DC",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 1199.0,
-   "currency": "EUR",
-   "price_eur": 1199.0,
-   "reference_eur": 300.0,
-   "deal_pct": -300,
-   "deal_label": "Above market",
-   "score": -276,
-   "score_parts": [
-    [
-     "Price",
-     -300
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-09-08T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 50,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
    "title": "Marantz PM7000N + CD6007",
@@ -690,7 +541,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1067,7 +918,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-26T12:00:00+00:00",
+   "posted": "2026-10-27T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
    "photo_count": 8,
@@ -1177,7 +1028,7 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225590083/sony-cdp-x222es-dalkovy-ovladac.php",
+   "url": "https://elektro.bazos.cz/inzerat/225633482/sony-cdp-x222es-dalkovy-ovladac.php",
    "title": "Sony CDP-X222ES + dálkový ovladač",
    "model": "CDP-X222ES",
    "brand": "Sony",
@@ -1214,14 +1065,14 @@
    ],
    "location": "České Budějovice 370 01",
    "distance_km": 345,
-   "posted": "2026-10-26T12:00:00+00:00",
-   "first_seen": "2026-10-26T10:48:57+00:00",
-   "image": "https://www.bazos.cz/img/1t/083/225590083.jpg",
+   "posted": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-10-27T10:15:05+00:00",
+   "image": "https://www.bazos.cz/img/1t/482/225633482.jpg",
    "photo_count": 5,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1330,18 +1181,18 @@
    "name": "Bazoš.sk",
    "ok": 23,
    "failed": 1,
-   "found": 12
+   "found": 9
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 14
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 0
   },
   {
