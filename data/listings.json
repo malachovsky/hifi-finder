@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:15:05+00:00",
+ "generated": "2026-10-27T21:08:35+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -223,7 +223,7 @@
    "tier": 2,
    "price": 7800.0,
    "currency": "CZK",
-   "price_eur": 320.08,
+   "price_eur": 320.35,
    "reference_eur": 370.0,
    "deal_pct": 13,
    "deal_label": "Good price",
@@ -413,7 +413,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 861.75,
+   "price_eur": 862.49,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -446,7 +446,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 1,
+   "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -462,7 +462,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1025.89,
+   "price_eur": 1026.78,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -495,7 +495,156 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 2,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196919196/marantz-pm7000n.php",
+   "title": "Marantz PM7000N",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 600.0,
+   "currency": "EUR",
+   "price_eur": 600.0,
+   "reference_eur": 300.0,
+   "deal_pct": -100,
+   "deal_label": "Above market",
+   "score": -78,
+   "score_parts": [
+    [
+     "Price",
+     -100
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Žilina 010 01",
+   "distance_km": 62,
+   "posted": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-10-27T21:08:35+00:00",
+   "image": "https://www.bazos.sk/img/1t/196/196919196.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
+   "title": "MARANTZ PM7000N silver",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 300.0,
+   "deal_pct": -116,
+   "deal_label": "Above market",
+   "score": -84,
+   "score_parts": [
+    [
+     "Price",
+     -116
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Martin 036 01",
+   "distance_km": 40,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T21:26:49+00:00",
+   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
+   "title": "Marantz PM7000N + Canton Ergo 609 DC",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 1199.0,
+   "currency": "EUR",
+   "price_eur": 1199.0,
+   "reference_eur": 300.0,
+   "deal_pct": -300,
+   "deal_label": "Above market",
+   "score": -276,
+   "score_parts": [
+    [
+     "Price",
+     -300
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 851 01",
+   "distance_km": 165,
+   "posted": "2026-09-08T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": 50,
    "notes": [],
    "auction": false
   },
@@ -509,7 +658,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1025.89,
+   "price_eur": 1026.78,
    "reference_eur": 300.0,
    "deal_pct": -242,
    "deal_label": "Above market",
@@ -605,15 +754,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.29,
+   "price_eur": 328.57,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": 1,
+   "score": 0,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -652,7 +801,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.22,
+   "price_eur": 365.53,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -703,15 +852,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.29,
+   "price_eur": 328.57,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": -19,
+   "score": -20,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -746,7 +895,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.53,
+   "price_eur": 258.75,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -797,15 +946,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.29,
+   "price_eur": 328.57,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": -15,
+   "score": -16,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -882,7 +1031,7 @@
   {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
-   "title": "DENON PMA-1600NE-integrovaný zosilňovač (TOP STAV)",
+   "title": "DENON PMA-1600NE-integrovaný zosilňovač - Rezervované",
    "model": "PMA-1600NE",
    "brand": "Denon",
    "category": "Amplifier",
@@ -920,7 +1069,7 @@
    "distance_km": 156,
    "posted": "2026-10-27T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
-   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1792432889",
+   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
@@ -991,7 +1140,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.1,
+   "price_eur": 4.11,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1036,7 +1185,7 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.21,
+   "price_eur": 246.43,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1072,7 +1221,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1087,7 +1236,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 245.8,
+   "price_eur": 246.02,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1127,53 +1276,6 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
-   "title": "Tape deck Sony TC-KA6ES - plně funkční.",
-   "model": "TC-KA6ES",
-   "brand": "Sony",
-   "category": "Tape deck",
-   "tier": 1,
-   "price": 26900.0,
-   "currency": "CZK",
-   "price_eur": 1103.86,
-   "reference_eur": 420.0,
-   "deal_pct": -163,
-   "deal_label": "Above market",
-   "score": -143,
-   "score_parts": [
-    [
-     "Price",
-     -163
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     2
-    ]
-   ],
-   "location": "Šumperk 789 63",
-   "distance_km": 215,
-   "posted": "2026-09-13T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/615/223742615.jpg?t=1789285800",
-   "photo_count": 12,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": 2,
-   "notes": [],
-   "auction": false
   }
  ],
  "sources": [
@@ -1181,18 +1283,18 @@
    "name": "Bazoš.sk",
    "ok": 23,
    "failed": 1,
-   "found": 9
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
    "ok": 23,
    "failed": 1,
-   "found": 14
+   "found": 13
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 0
   },
   {
