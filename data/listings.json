@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T21:08:35+00:00",
+ "generated": "2026-10-28T11:03:50+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -541,7 +541,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1067,7 +1067,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-27T12:00:00+00:00",
+   "posted": "2026-10-28T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
@@ -1276,6 +1276,53 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
+   "title": "Tape deck Sony TC-KA6ES - plně funkční.",
+   "model": "TC-KA6ES",
+   "brand": "Sony",
+   "category": "Tape deck",
+   "tier": 1,
+   "price": 26900.0,
+   "currency": "CZK",
+   "price_eur": 1104.81,
+   "reference_eur": 420.0,
+   "deal_pct": -163,
+   "deal_label": "Above market",
+   "score": -143,
+   "score_parts": [
+    [
+     "Price",
+     -163
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     2
+    ]
+   ],
+   "location": "Šumperk 789 63",
+   "distance_km": 215,
+   "posted": "2026-09-13T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.cz/img/1t/615/223742615.jpg?t=1789285800",
+   "photo_count": 12,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
@@ -1289,12 +1336,12 @@
    "name": "Bazoš.cz",
    "ok": 23,
    "failed": 1,
-   "found": 13
+   "found": 14
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 0
   },
   {
