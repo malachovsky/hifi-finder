@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T11:03:50+00:00",
+ "generated": "2026-10-28T21:31:51+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -62,57 +62,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195228514/predam-krasny-sony-ta-fa5es-s-originalnym-do.php",
-   "title": "🔥Predám krásny Sony TA-FA5ES s originálnym DO",
-   "model": "TA-FA5ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 798.0,
-   "currency": "EUR",
-   "price_eur": 798.0,
-   "reference_eur": 750.0,
-   "deal_pct": -6,
-   "deal_label": "Fair price",
-   "score": 25,
-   "score_parts": [
-    [
-     "Price",
-     -6
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     12
-    ]
-   ],
-   "location": "Liptovský Mikuláš 031 01",
-   "distance_km": 52,
-   "posted": "2026-09-04T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/514/195228514.jpg?t=1789763021",
-   "photo_count": 10,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196209540/sony-ta-fa30es-spickovy-zosilnovac-zo-serie-es-bez-do.php",
    "title": "Sony TA-FA30ES – špičkový zosilňovač zo série ES (bez DO",
    "model": "TA-FA30ES",
@@ -157,108 +106,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195908522/sony-ta-fa30es-w.php",
-   "title": "SONY TA-FA30ES",
-   "model": "TA-FA30ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 320.0,
-   "currency": "EUR",
-   "price_eur": 320.0,
-   "reference_eur": 370.0,
-   "deal_pct": 14,
-   "deal_label": "Good price",
-   "score": 19,
-   "score_parts": [
-    [
-     "Price",
-     14
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Košice-okolie 044 02",
-   "distance_km": 128,
-   "posted": "2026-09-26T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/522/195908522.jpg?t=1792922890",
-   "photo_count": 7,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 60,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223164911/sony-ta-fa30es.php",
-   "title": "SONY TA-FA30ES",
-   "model": "TA-FA30ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 7800.0,
-   "currency": "CZK",
-   "price_eur": 320.35,
-   "reference_eur": 370.0,
-   "deal_pct": 13,
-   "deal_label": "Good price",
-   "score": 25,
-   "score_parts": [
-    [
-     "Price",
-     13
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     14
-    ]
-   ],
-   "location": "Slovensko 987 65",
-   "distance_km": 18,
-   "posted": "2026-08-30T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/911/223164911.jpg?t=1792922863",
-   "photo_count": 9,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -413,7 +260,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 862.49,
+   "price_eur": 861.82,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -462,7 +309,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1026.78,
+   "price_eur": 1025.98,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -500,155 +347,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196919196/marantz-pm7000n.php",
-   "title": "Marantz PM7000N",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 600.0,
-   "currency": "EUR",
-   "price_eur": 600.0,
-   "reference_eur": 300.0,
-   "deal_pct": -100,
-   "deal_label": "Above market",
-   "score": -78,
-   "score_parts": [
-    [
-     "Price",
-     -100
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Žilina 010 01",
-   "distance_km": 62,
-   "posted": "2026-10-27T12:00:00+00:00",
-   "first_seen": "2026-10-27T21:08:35+00:00",
-   "image": "https://www.bazos.sk/img/1t/196/196919196.jpg",
-   "photo_count": 10,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
-   "title": "MARANTZ PM7000N silver",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 649.0,
-   "currency": "EUR",
-   "price_eur": 649.0,
-   "reference_eur": 300.0,
-   "deal_pct": -116,
-   "deal_label": "Above market",
-   "score": -84,
-   "score_parts": [
-    [
-     "Price",
-     -116
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     13
-    ]
-   ],
-   "location": "Martin 036 01",
-   "distance_km": 40,
-   "posted": "2026-10-26T12:00:00+00:00",
-   "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
-   "title": "Marantz PM7000N + Canton Ergo 609 DC",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 1199.0,
-   "currency": "EUR",
-   "price_eur": 1199.0,
-   "reference_eur": 300.0,
-   "deal_pct": -300,
-   "deal_label": "Above market",
-   "score": -276,
-   "score_parts": [
-    [
-     "Price",
-     -300
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-09-08T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 50,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
    "title": "Marantz PM7000N + CD6007",
@@ -658,7 +356,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1026.78,
+   "price_eur": 1025.98,
    "reference_eur": 300.0,
    "deal_pct": -242,
    "deal_label": "Above market",
@@ -754,15 +452,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.57,
+   "price_eur": 328.31,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": 0,
+   "score": 1,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -801,7 +499,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.53,
+   "price_eur": 365.25,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -852,15 +550,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.57,
+   "price_eur": 328.31,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": -20,
+   "score": -19,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -895,7 +593,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.75,
+   "price_eur": 258.55,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -946,15 +644,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.57,
+   "price_eur": 328.31,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": -16,
+   "score": -15,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -1140,7 +838,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.11,
+   "price_eur": 4.1,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1177,6 +875,57 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225687649/sony-cdp-x222es-plne-funkcni-espritovyy-cd-prehravac.php",
+   "title": "SONY CDP-X222ES, plně funkční espritovyý CD přehrávač",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 8500.0,
+   "currency": "CZK",
+   "price_eur": 348.83,
+   "reference_eur": 120.0,
+   "deal_pct": -191,
+   "deal_label": "Above market",
+   "score": -185,
+   "score_parts": [
+    [
+     "Price",
+     -191
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     3
+    ]
+   ],
+   "location": "Brno 602 00",
+   "distance_km": 193,
+   "posted": "2026-10-28T12:00:00+00:00",
+   "first_seen": "2026-10-28T21:31:51+00:00",
+   "image": "https://www.bazos.cz/img/1t/649/225687649.jpg?t=1793186366",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225633482/sony-cdp-x222es-dalkovy-ovladac.php",
    "title": "Sony CDP-X222ES + dálkový ovladač",
    "model": "CDP-X222ES",
@@ -1185,7 +934,7 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.43,
+   "price_eur": 246.23,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1236,7 +985,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.02,
+   "price_eur": 245.82,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1287,7 +1036,7 @@
    "tier": 1,
    "price": 26900.0,
    "currency": "CZK",
-   "price_eur": 1104.81,
+   "price_eur": 1103.95,
    "reference_eur": 420.0,
    "deal_pct": -163,
    "deal_label": "Above market",
@@ -1328,20 +1077,20 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
-   "found": 12
+   "ok": 22,
+   "failed": 2,
+   "found": 7
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 14
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 0
   },
   {
