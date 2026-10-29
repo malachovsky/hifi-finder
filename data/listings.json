@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T21:31:51+00:00",
+ "generated": "2026-10-29T11:20:41+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -55,6 +55,57 @@
    "photo_kind": "single",
    "photo_reason": null,
    "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195228514/predam-krasny-sony-ta-fa5es-s-originalnym-do.php",
+   "title": "🔥Predám krásny Sony TA-FA5ES s originálnym DO",
+   "model": "TA-FA5ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 798.0,
+   "currency": "EUR",
+   "price_eur": 798.0,
+   "reference_eur": 750.0,
+   "deal_pct": -6,
+   "deal_label": "Fair price",
+   "score": 25,
+   "score_parts": [
+    [
+     "Price",
+     -6
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     12
+    ]
+   ],
+   "location": "Liptovský Mikuláš 031 01",
+   "distance_km": 52,
+   "posted": "2026-09-04T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/514/195228514.jpg?t=1789763021",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -343,6 +394,155 @@
    "remote": null,
    "is_new": false,
    "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196919196/marantz-pm7000n.php",
+   "title": "Marantz PM7000N",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 600.0,
+   "currency": "EUR",
+   "price_eur": 600.0,
+   "reference_eur": 300.0,
+   "deal_pct": -100,
+   "deal_label": "Above market",
+   "score": -78,
+   "score_parts": [
+    [
+     "Price",
+     -100
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Žilina 010 01",
+   "distance_km": 62,
+   "posted": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-10-27T21:08:35+00:00",
+   "image": "https://www.bazos.sk/img/1t/196/196919196.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
+   "title": "MARANTZ PM7000N silver",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 300.0,
+   "deal_pct": -116,
+   "deal_label": "Above market",
+   "score": -84,
+   "score_parts": [
+    [
+     "Price",
+     -116
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Martin 036 01",
+   "distance_km": 40,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T21:26:49+00:00",
+   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
+   "title": "Marantz PM7000N + Canton Ergo 609 DC",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 1199.0,
+   "currency": "EUR",
+   "price_eur": 1199.0,
+   "reference_eur": 300.0,
+   "deal_pct": -300,
+   "deal_label": "Above market",
+   "score": -276,
+   "score_parts": [
+    [
+     "Price",
+     -300
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 851 01",
+   "distance_km": 165,
+   "posted": "2026-09-08T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": 50,
    "notes": [],
    "auction": false
   },
@@ -765,61 +965,10 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-28T12:00:00+00:00",
+   "posted": "2026-10-29T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196748497/sony-es.php",
-   "title": "Sony ES",
-   "model": "CDP-XA30ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 1,
-   "price": 1190.0,
-   "currency": "EUR",
-   "price_eur": 1190.0,
-   "reference_eur": 380.0,
-   "deal_pct": -213,
-   "deal_label": "Above market",
-   "score": -181,
-   "score_parts": [
-    [
-     "Price",
-     -213
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     6
-    ]
-   ],
-   "location": "Dunajská Streda 931 01",
-   "distance_km": 157,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-22T20:26:16+00:00",
-   "image": "https://www.bazos.sk/img/1t/497/196748497.jpg",
-   "photo_count": 14,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
@@ -919,7 +1068,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1077,14 +1226,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 22,
-   "failed": 2,
-   "found": 7
+   "ok": 23,
+   "failed": 1,
+   "found": 10
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 14
   },
   {
