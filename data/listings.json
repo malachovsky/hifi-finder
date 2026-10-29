@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T11:20:41+00:00",
+ "generated": "2026-10-29T21:36:34+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -106,57 +106,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196209540/sony-ta-fa30es-spickovy-zosilnovac-zo-serie-es-bez-do.php",
-   "title": "Sony TA-FA30ES – špičkový zosilňovač zo série ES (bez DO",
-   "model": "TA-FA30ES",
-   "brand": "Sony",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 350.0,
-   "currency": "EUR",
-   "price_eur": 350.0,
-   "reference_eur": 370.0,
-   "deal_pct": 5,
-   "deal_label": "Good price",
-   "score": 19,
-   "score_parts": [
-    [
-     "Price",
-     5
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "No remote",
-     -8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Levice 934 05",
-   "distance_km": 71,
-   "posted": "2026-10-05T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.sk/img/1t/540/196209540.jpg?t=1791204305",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "no",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -311,7 +260,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 861.82,
+   "price_eur": 862.92,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -360,7 +309,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1025.98,
+   "price_eur": 1027.28,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -556,7 +505,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1025.98,
+   "price_eur": 1027.28,
    "reference_eur": 300.0,
    "deal_pct": -242,
    "deal_label": "Above market",
@@ -652,15 +601,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.31,
+   "price_eur": 328.73,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": 1,
+   "score": 0,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -699,7 +648,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.25,
+   "price_eur": 365.71,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -750,15 +699,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.31,
+   "price_eur": 328.73,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": -19,
+   "score": -20,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -793,7 +742,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.55,
+   "price_eur": 258.88,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -844,15 +793,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.31,
+   "price_eur": 328.73,
    "reference_eur": 300.0,
-   "deal_pct": -9,
+   "deal_pct": -10,
    "deal_label": "Fair price",
-   "score": -15,
+   "score": -16,
    "score_parts": [
     [
      "Price",
-     -9
+     -10
     ],
     [
      "Wish list",
@@ -879,51 +828,6 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
-   "title": "Elac FS 78",
-   "model": "PM6007",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 730.0,
-   "currency": "EUR",
-   "price_eur": 730.0,
-   "reference_eur": 330.0,
-   "deal_pct": -121,
-   "deal_label": "Above market",
-   "score": -104,
-   "score_parts": [
-    [
-     "Price",
-     -121
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Lučenec 986 01",
-   "distance_km": 72,
-   "posted": "2026-10-10T12:00:00+00:00",
-   "first_seen": "2026-10-10T07:13:01+00:00",
-   "image": "https://www.bazos.sk/img/1t/834/196355834.jpg",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Description mentions a fault, read it first"
-   ],
    "auction": false
   },
   {
@@ -978,6 +882,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196748497/sony-es.php",
+   "title": "Sony ES",
+   "model": "CDP-XA30ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 1,
+   "price": 1190.0,
+   "currency": "EUR",
+   "price_eur": 1190.0,
+   "reference_eur": 380.0,
+   "deal_pct": -213,
+   "deal_label": "Above market",
+   "score": -181,
+   "score_parts": [
+    [
+     "Price",
+     -213
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Dunajská Streda 931 01",
+   "distance_km": 157,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-10-22T20:26:16+00:00",
+   "image": "https://www.bazos.sk/img/1t/497/196748497.jpg",
+   "photo_count": 14,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
@@ -987,7 +942,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.1,
+   "price_eur": 4.11,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1032,7 +987,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 348.83,
+   "price_eur": 349.28,
    "reference_eur": 120.0,
    "deal_pct": -191,
    "deal_label": "Above market",
@@ -1083,7 +1038,7 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.23,
+   "price_eur": 246.55,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1134,7 +1089,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 245.82,
+   "price_eur": 246.14,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1174,67 +1129,20 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223742615/tape-deck-sony-tc-ka6es-plne-funkcni.php",
-   "title": "Tape deck Sony TC-KA6ES - plně funkční.",
-   "model": "TC-KA6ES",
-   "brand": "Sony",
-   "category": "Tape deck",
-   "tier": 1,
-   "price": 26900.0,
-   "currency": "CZK",
-   "price_eur": 1103.95,
-   "reference_eur": 420.0,
-   "deal_pct": -163,
-   "deal_label": "Above market",
-   "score": -143,
-   "score_parts": [
-    [
-     "Price",
-     -163
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     2
-    ]
-   ],
-   "location": "Šumperk 789 63",
-   "distance_km": 215,
-   "posted": "2026-09-13T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/615/223742615.jpg?t=1789285800",
-   "photo_count": 12,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 23,
-   "failed": 1,
-   "found": 10
+   "ok": 22,
+   "failed": 2,
+   "found": 9
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
-   "found": 14
+   "ok": 22,
+   "failed": 2,
+   "found": 13
   },
   {
    "name": "Kleinanzeigen",
