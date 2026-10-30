@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T21:36:34+00:00",
+ "generated": "2026-10-30T11:12:58+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -113,6 +113,57 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196209540/sony-ta-fa30es-spickovy-zosilnovac-zo-serie-es-bez-do.php",
+   "title": "Sony TA-FA30ES – špičkový zosilňovač zo série ES (bez DO",
+   "model": "TA-FA30ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 350.0,
+   "currency": "EUR",
+   "price_eur": 350.0,
+   "reference_eur": 370.0,
+   "deal_pct": 5,
+   "deal_label": "Good price",
+   "score": 19,
+   "score_parts": [
+    [
+     "Price",
+     5
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Levice 934 05",
+   "distance_km": 71,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/540/196209540.jpg?t=1791204305",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196865833/sony-ta-f630esd-esprit.php",
    "title": "Sony TA-F630ESD Nový DA prevodník",
    "model": "TA-F630ESD",
@@ -195,59 +246,6 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224978672/marantz-pm7005.php",
-   "title": "Marantz PM7005 (Made in Japan)",
-   "model": "PM8006",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": null,
-   "currency": "CZK",
-   "price_eur": null,
-   "reference_eur": 600.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 4,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     0
-    ]
-   ],
-   "location": "Rychnov nad Kněžnou 517 54",
-   "distance_km": 256,
-   "posted": "2026-10-12T12:00:00+00:00",
-   "first_seen": "2026-10-12T12:50:54+00:00",
-   "image": "https://www.bazos.cz/img/1t/672/224978672.jpg",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
    "auction": false
   },
   {
@@ -832,6 +830,51 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
+   "title": "Elac FS 78",
+   "model": "PM6007",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 730.0,
+   "currency": "EUR",
+   "price_eur": 730.0,
+   "reference_eur": 330.0,
+   "deal_pct": -121,
+   "deal_label": "Above market",
+   "score": -104,
+   "score_parts": [
+    [
+     "Price",
+     -121
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Lučenec 986 01",
+   "distance_km": 72,
+   "posted": "2026-10-10T12:00:00+00:00",
+   "first_seen": "2026-10-10T07:13:01+00:00",
+   "image": "https://www.bazos.sk/img/1t/834/196355834.jpg",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
    "title": "DENON PMA-1600NE-integrovaný zosilňovač - Rezervované",
    "model": "PMA-1600NE",
@@ -869,7 +912,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-29T12:00:00+00:00",
+   "posted": "2026-10-30T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
@@ -1134,15 +1177,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 22,
-   "failed": 2,
-   "found": 9
+   "ok": 24,
+   "failed": 0,
+   "found": 11
   },
   {
    "name": "Bazoš.cz",
-   "ok": 22,
-   "failed": 2,
-   "found": 13
+   "ok": 24,
+   "failed": 0,
+   "found": 12
   },
   {
    "name": "Kleinanzeigen",
