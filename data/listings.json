@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:12:58+00:00",
+ "generated": "2026-10-30T21:23:42+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -258,7 +258,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 862.92,
+   "price_eur": 862.32,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -307,7 +307,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.28,
+   "price_eur": 1026.57,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -346,7 +346,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196919196/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/197012638/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -379,14 +379,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-10-27T12:00:00+00:00",
-   "first_seen": "2026-10-27T21:08:35+00:00",
-   "image": "https://www.bazos.sk/img/1t/196/196919196.jpg",
+   "posted": "2026-10-30T12:00:00+00:00",
+   "first_seen": "2026-10-30T21:23:42+00:00",
+   "image": "https://www.bazos.sk/img/1t/638/197012638.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -450,17 +450,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 2,
-   "price": 1199.0,
+   "price": 1099.0,
    "currency": "EUR",
-   "price_eur": 1199.0,
+   "price_eur": 1099.0,
    "reference_eur": 300.0,
-   "deal_pct": -300,
+   "deal_pct": -266,
    "deal_label": "Above market",
-   "score": -276,
+   "score": -242,
    "score_parts": [
     [
      "Price",
-     -300
+     -266
     ],
     [
      "Wish list",
@@ -483,13 +483,13 @@
    "distance_km": 165,
    "posted": "2026-09-08T12:00:00+00:00",
    "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1792424284",
+   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1793375404",
    "photo_count": 7,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": 50,
+   "price_drop_eur": 100,
    "notes": [],
    "auction": false
   },
@@ -503,7 +503,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.28,
+   "price_eur": 1026.57,
    "reference_eur": 300.0,
    "deal_pct": -242,
    "deal_label": "Above market",
@@ -599,15 +599,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.73,
+   "price_eur": 328.5,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": 0,
+   "score": 1,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -646,7 +646,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.71,
+   "price_eur": 365.46,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -697,15 +697,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.73,
+   "price_eur": 328.5,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": -20,
+   "score": -19,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -740,7 +740,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.88,
+   "price_eur": 258.7,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -791,15 +791,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.73,
+   "price_eur": 328.5,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": -16,
+   "score": -15,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -1030,7 +1030,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 349.28,
+   "price_eur": 349.03,
    "reference_eur": 120.0,
    "deal_pct": -191,
    "deal_label": "Above market",
@@ -1081,7 +1081,7 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.55,
+   "price_eur": 246.38,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1132,7 +1132,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.14,
+   "price_eur": 245.97,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1183,8 +1183,8 @@
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
-   "failed": 0,
+   "ok": 23,
+   "failed": 1,
    "found": 12
   },
   {
