@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T21:23:42+00:00",
+ "generated": "2026-10-31T10:45:08+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -386,7 +386,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -528,9 +528,9 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-10-26T12:00:00+00:00",
+   "posted": "2026-10-31T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.cz/img/1t/344/225613344.jpg",
+   "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793437575",
    "photo_count": 2,
    "photo_kind": "own",
    "photo_reason": null,
@@ -912,7 +912,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-30T12:00:00+00:00",
+   "posted": "2026-10-31T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
@@ -1183,8 +1183,8 @@
   },
   {
    "name": "Bazoš.cz",
-   "ok": 23,
-   "failed": 1,
+   "ok": 24,
+   "failed": 0,
    "found": 12
   },
   {
