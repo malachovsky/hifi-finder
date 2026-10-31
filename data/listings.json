@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T10:45:08+00:00",
+ "generated": "2026-10-31T20:24:28+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -250,6 +250,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225816007/marantz-pm8006-stereo-zesilovac.php",
+   "title": "Marantz PM8006 - Stereo zesilovač",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 25000.0,
+   "currency": "CZK",
+   "price_eur": 1026.57,
+   "reference_eur": 600.0,
+   "deal_pct": -71,
+   "deal_label": "Above market",
+   "score": -67,
+   "score_parts": [
+    [
+     "Price",
+     -71
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Praha 8 184 00",
+   "distance_km": 374,
+   "posted": "2026-10-31T12:00:00+00:00",
+   "first_seen": "2026-10-31T20:24:28+00:00",
+   "image": "https://www.bazos.cz/img/1t/007/225816007.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224740820/marantz-pm8006-v-zaruce.php",
    "title": "MARANTZ PM8006 V ZÁRUCE",
    "model": "PM8006",
@@ -295,53 +342,6 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223711753/marantz-pm8006-stereo-zesilovac.php",
-   "title": "Marantz PM8006 - Stereo zesilovač",
-   "model": "PM8006",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 25000.0,
-   "currency": "CZK",
-   "price_eur": 1026.57,
-   "reference_eur": 600.0,
-   "deal_pct": -71,
-   "deal_label": "Above market",
-   "score": -67,
-   "score_parts": [
-    [
-     "Price",
-     -71
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -7
-    ]
-   ],
-   "location": "Praha 8 184 00",
-   "distance_km": 374,
-   "posted": "2026-09-12T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/753/223711753.jpg",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
    "auction": false
   },
   {
