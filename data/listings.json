@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T20:24:28+00:00",
+ "generated": "2026-11-01T10:49:22+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -290,7 +290,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -528,7 +528,7 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-10-31T12:00:00+00:00",
+   "posted": "2026-11-01T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
    "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793437575",
    "photo_count": 2,
@@ -912,61 +912,10 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-10-31T12:00:00+00:00",
+   "posted": "2026-11-01T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196748497/sony-es.php",
-   "title": "Sony ES",
-   "model": "CDP-XA30ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 1,
-   "price": 1190.0,
-   "currency": "EUR",
-   "price_eur": 1190.0,
-   "reference_eur": 380.0,
-   "deal_pct": -213,
-   "deal_label": "Above market",
-   "score": -181,
-   "score_parts": [
-    [
-     "Price",
-     -213
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     6
-    ]
-   ],
-   "location": "Dunajská Streda 931 01",
-   "distance_km": 157,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-10-22T20:26:16+00:00",
-   "image": "https://www.bazos.sk/img/1t/497/196748497.jpg",
-   "photo_count": 14,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
@@ -1172,30 +1121,361 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -481,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/197013851/technics-sl-1200-mk7-limited.php",
+   "title": "Technics sl 1200 mk7 limited",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 4000.0,
+   "currency": "EUR",
+   "price_eur": 4000.0,
+   "reference_eur": 750.0,
+   "deal_pct": -433,
+   "deal_label": "Above market",
+   "score": -414,
+   "score_parts": [
+    [
+     "Price",
+     -433
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Nové Zámky 940 02",
+   "distance_km": 109,
+   "posted": "2026-10-30T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1793454586",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196993924/technics-sl-1200-m7l-mk7-limited-2-kusy.php",
+   "title": "Technics SL-1200 M7L - MK7 Limited 2 kusy",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 5000.0,
+   "currency": "EUR",
+   "price_eur": 5000.0,
+   "reference_eur": 750.0,
+   "deal_pct": -567,
+   "deal_label": "Above market",
+   "score": -571,
+   "score_parts": [
+    [
+     "Price",
+     -567
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Bratislava 831 07",
+   "distance_km": 155,
+   "posted": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/924/196993924.jpg",
+   "photo_count": 2,
+   "photo_kind": "stock",
+   "photo_reason": "Professional studio photo, clean white background, manufacturer lighting",
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225806573/technics-sl-1200m7g-nove-nerozbalene.php",
+   "title": "Technics SL-1200M7G - nové, nerozbalené",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 45000.0,
+   "currency": "CZK",
+   "price_eur": 1847.82,
+   "reference_eur": 750.0,
+   "deal_pct": -146,
+   "deal_label": "Above market",
+   "score": -140,
+   "score_parts": [
+    [
+     "Price",
+     -146
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -5
+    ]
+   ],
+   "location": "Tábor 390 02",
+   "distance_km": 333,
+   "posted": "2026-10-31T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.cz/img/1t/573/225806573.jpg",
+   "photo_count": 3,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225668828/minoradna-hifi-sestava.php",
+   "title": "Mimořádná kompletní hifi sestava",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 185000.0,
+   "currency": "CZK",
+   "price_eur": 7596.6,
+   "reference_eur": 750.0,
+   "deal_pct": -913,
+   "deal_label": "Above market",
+   "score": -909,
+   "score_parts": [
+    [
+     "Price",
+     -913
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Jablonec nad Nisou 466 04",
+   "distance_km": 362,
+   "posted": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.cz/img/1t/828/225668828.jpg?t=1793139893",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://hudba.bazos.cz/inzerat/224730921/technics-sl-1200m7ger-55th-anniversary-red-novy-sealed.php",
+   "title": "Technics SL-1200M7GER 55th Anniversary RED – NOVÝ SEALED",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 44900.0,
+   "currency": "CZK",
+   "price_eur": 1843.72,
+   "reference_eur": 750.0,
+   "deal_pct": -146,
+   "deal_label": "Above market",
+   "score": -142,
+   "score_parts": [
+    [
+     "Price",
+     -146
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Praha 10 100 00",
+   "distance_km": 368,
+   "posted": "2026-10-06T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.cz/img/1t/921/224730921.jpg",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224459589/gramofon-technics-sl-1200.php",
+   "title": "Gramofon Technics SL 1200",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 45000.0,
+   "currency": "CZK",
+   "price_eur": 1847.82,
+   "reference_eur": 750.0,
+   "deal_pct": -146,
+   "deal_label": "Above market",
+   "score": -129,
+   "score_parts": [
+    [
+     "Price",
+     -146
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Karviná 735 31",
+   "distance_km": 142,
+   "posted": "2026-09-30T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.cz/img/1t/589/224459589.jpg?t=1792391121",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 24,
+   "ok": 30,
    "failed": 0,
-   "found": 11
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
-   "ok": 24,
+   "ok": 30,
    "failed": 0,
-   "found": 12
+   "found": 16
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 24,
+   "ok": 30,
    "failed": 0,
    "found": 0
   },
   {
    "name": "VintageHifi.cz",
-   "ok": 24,
+   "ok": 30,
    "failed": 0,
    "found": 1
   }
@@ -1340,6 +1620,27 @@
    "category": "Tape deck",
    "tier": 2,
    "reference_eur": 220
+  },
+  {
+   "id": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "reference_eur": 500
+  },
+  {
+   "id": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "reference_eur": 750
+  },
+  {
+   "id": "AT-LP140XP",
+   "brand": "Audio-Technica",
+   "category": "Turntable",
+   "tier": 2,
+   "reference_eur": 250
   }
  ]
 }
