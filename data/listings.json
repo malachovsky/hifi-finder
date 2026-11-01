@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T10:49:22+00:00",
+ "generated": "2026-11-01T11:43:54+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -925,6 +925,53 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195275070/sony-cdp-xa30es.php",
+   "title": "SONY CDP-XA30ES",
+   "model": "CDP-XA30ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 1,
+   "price": 299.0,
+   "currency": "EUR",
+   "price_eur": 299.0,
+   "reference_eur": 380.0,
+   "deal_pct": 21,
+   "deal_label": "Good price",
+   "score": 24,
+   "score_parts": [
+    [
+     "Price",
+     21
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Dunajská Streda 931 01",
+   "distance_km": 157,
+   "posted": "2026-09-06T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/070/195275070.jpg?t=1793531188",
+   "photo_count": 15,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": 181,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
@@ -1164,7 +1211,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1211,7 +1258,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
@@ -1260,7 +1307,7 @@
    "photo_kind": "stock",
    "photo_reason": "Professional studio photo, clean white background, manufacturer lighting",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1307,7 +1354,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1354,7 +1401,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1401,7 +1448,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1448,7 +1495,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1459,7 +1506,7 @@
    "name": "Bazoš.sk",
    "ok": 30,
    "failed": 0,
-   "found": 13
+   "found": 14
   },
   {
    "name": "Bazoš.cz",
