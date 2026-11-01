@@ -241,8 +241,8 @@ footer h2 { font: 600 1.15rem "Barlow Condensed", sans-serif; color: var(--ink);
   const DATA = JSON.parse(document.getElementById('data').textContent);
   const L = DATA.listings || [];
   const state = { cat: 'All', sort: 'match', onlyNew: false, hideHigh: false, onlyRemote: false, radius: 0, q: '' };
-  const CAT_LABEL = { 'Amplifier': 'Amplifiers', 'CD player': 'CD players', 'Tape deck': 'Tape decks' };
-  const CAT_SINGULAR = { 'Amplifier': 'amplifier', 'CD player': 'CD player', 'Tape deck': 'tape deck' };
+  const CAT_LABEL = { 'Amplifier': 'Amplifiers', 'CD player': 'CD players', 'Tape deck': 'Tape decks', 'Turntable': 'Turntables' };
+  const CAT_SINGULAR = { 'Amplifier': 'amplifier', 'CD player': 'CD player', 'Tape deck': 'tape deck', 'Turntable': 'turntable' };
   const VERDICT = { 'Great price': 'v-great', 'Good price': 'v-good', 'Fair price': 'v-fair', 'Above market': 'v-high' };
 
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
