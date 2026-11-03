@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T12:39:48+00:00",
+ "generated": "2026-11-03T22:13:15+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -70,7 +70,7 @@
    "tier": 2,
    "price": 10000.0,
    "currency": "CZK",
-   "price_eur": 410.66,
+   "price_eur": 410.8,
    "reference_eur": 450.0,
    "deal_pct": 9,
    "deal_label": "Good price",
@@ -258,7 +258,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1026.65,
+   "price_eur": 1026.99,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -305,7 +305,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 862.39,
+   "price_eur": 862.67,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -345,6 +345,155 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197140157/marantz-pm7000n.php",
+   "title": "Marantz PM7000N",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 580.0,
+   "currency": "EUR",
+   "price_eur": 580.0,
+   "reference_eur": 300.0,
+   "deal_pct": -93,
+   "deal_label": "Above market",
+   "score": -71,
+   "score_parts": [
+    [
+     "Price",
+     -93
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Žilina 010 01",
+   "distance_km": 62,
+   "posted": "2026-11-03T12:00:00+00:00",
+   "first_seen": "2026-11-03T22:13:15+00:00",
+   "image": "https://www.bazos.sk/img/1t/157/197140157.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
+   "title": "MARANTZ PM7000N silver",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 300.0,
+   "deal_pct": -116,
+   "deal_label": "Above market",
+   "score": -84,
+   "score_parts": [
+    [
+     "Price",
+     -116
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Martin 036 01",
+   "distance_km": 40,
+   "posted": "2026-10-26T12:00:00+00:00",
+   "first_seen": "2026-10-26T21:26:49+00:00",
+   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
+   "title": "Marantz PM7000N + Canton Ergo 609 DC",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 1099.0,
+   "currency": "EUR",
+   "price_eur": 1099.0,
+   "reference_eur": 300.0,
+   "deal_pct": -266,
+   "deal_label": "Above market",
+   "score": -242,
+   "score_parts": [
+    [
+     "Price",
+     -266
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 851 01",
+   "distance_km": 165,
+   "posted": "2026-09-08T12:00:00+00:00",
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1793375404",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": 100,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
    "title": "Marantz PM7000N + CD6007",
@@ -354,7 +503,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 944.52,
+   "price_eur": 944.83,
    "reference_eur": 300.0,
    "deal_pct": -215,
    "deal_label": "Above market",
@@ -387,7 +536,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 82,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -450,7 +599,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.53,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -497,7 +646,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.49,
+   "price_eur": 365.61,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -548,7 +697,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.53,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -591,7 +740,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.72,
+   "price_eur": 258.8,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -642,7 +791,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.53,
+   "price_eur": 328.64,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -830,7 +979,7 @@
    "tier": 2,
    "price": 6000.0,
    "currency": "CZK",
-   "price_eur": 246.4,
+   "price_eur": 246.48,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -866,7 +1015,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -881,7 +1030,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 349.06,
+   "price_eur": 349.18,
    "reference_eur": 120.0,
    "deal_pct": -191,
    "deal_label": "Above market",
@@ -1075,7 +1224,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1847.97,
+   "price_eur": 1848.58,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1122,7 +1271,7 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7597.22,
+   "price_eur": 7599.72,
    "reference_eur": 750.0,
    "deal_pct": -913,
    "deal_label": "Above market",
@@ -1169,7 +1318,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1843.87,
+   "price_eur": 1844.47,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1216,7 +1365,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1847.97,
+   "price_eur": 1848.58,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1252,6 +1401,53 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/197145221/predam-2ks-gramofonov-technics-1210-mk7-vid-foto.php",
+   "title": "predam 2ks gramofonov Technics 1210 MK7, vid foto",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 2100.0,
+   "currency": "EUR",
+   "price_eur": 2100.0,
+   "reference_eur": 750.0,
+   "deal_pct": -180,
+   "deal_label": "Above market",
+   "score": -164,
+   "score_parts": [
+    [
+     "Price",
+     -180
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 831 02",
+   "distance_km": 160,
+   "posted": "2026-11-03T12:00:00+00:00",
+   "first_seen": "2026-11-03T22:13:15+00:00",
+   "image": "https://www.bazos.sk/img/1t/221/197145221.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
@@ -1259,7 +1455,7 @@
    "name": "Bazoš.sk",
    "ok": 29,
    "failed": 1,
-   "found": 9
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
