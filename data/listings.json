@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T22:13:15+00:00",
+ "generated": "2026-11-04T12:48:54+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -19,7 +19,7 @@
  "listings": [
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196801233/sony-ta-f770es.php",
+   "url": "https://elektro.bazos.sk/inzerat/197164381/sony-ta-f770es.php",
    "title": "Sony TA-F770ES",
    "model": "TA-F770ES",
    "brand": "Sony",
@@ -31,7 +31,7 @@
    "reference_eur": 700.0,
    "deal_pct": 0,
    "deal_label": "Fair price",
-   "score": 19,
+   "score": 25,
    "score_parts": [
     [
      "Price",
@@ -42,20 +42,24 @@
      12
     ],
     [
+     "Own photos",
+     6
+    ],
+    [
      "Distance",
      7
     ]
    ],
    "location": "Dunajská Streda 929 01",
    "distance_km": 140,
-   "posted": "2026-10-24T12:00:00+00:00",
-   "first_seen": "2026-10-24T09:20:09+00:00",
-   "image": "https://www.bazos.sk/img/1t/233/196801233.jpg?t=1792935515",
-   "photo_count": 1,
-   "photo_kind": "single",
+   "posted": "2026-11-04T12:00:00+00:00",
+   "first_seen": "2026-11-04T12:48:54+00:00",
+   "image": "https://www.bazos.sk/img/1t/381/197164381.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -386,7 +390,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -528,7 +532,7 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-11-03T12:00:00+00:00",
+   "posted": "2026-11-04T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
    "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793641438",
    "photo_count": 2,
@@ -912,13 +916,60 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-11-03T12:00:00+00:00",
+   "posted": "2026-11-04T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
+   "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 18900.0,
+   "currency": "CZK",
+   "price_eur": 776.4,
+   "reference_eur": 750.0,
+   "deal_pct": -4,
+   "deal_label": "Fair price",
+   "score": 14,
+   "score_parts": [
+    [
+     "Price",
+     -4
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Uherské Hradiště 686 05",
+   "distance_km": 126,
+   "posted": "2026-11-01T12:00:00+00:00",
+   "first_seen": "2026-11-01T20:58:34+00:00",
+   "image": "https://www.bazos.cz/img/1t/270/225867270.jpg?t=1793553495",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -967,6 +1018,57 @@
    "notes": [
     "Sold together with other items, price covers the set"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225973394/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
+   "title": "SONY ESPRIT CDP-X222ES+DO",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 5990.0,
+   "currency": "CZK",
+   "price_eur": 246.07,
+   "reference_eur": 120.0,
+   "deal_pct": -105,
+   "deal_label": "Above market",
+   "score": -94,
+   "score_parts": [
+    [
+     "Price",
+     -105
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Praha 6 160 00",
+   "distance_km": 377,
+   "posted": "2026-11-04T12:00:00+00:00",
+   "first_seen": "2026-11-04T12:48:54+00:00",
+   "image": "https://www.bazos.cz/img/1t/394/225973394.jpg",
+   "photo_count": 9,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -1410,9 +1512,9 @@
    "brand": "Technics",
    "category": "Turntable",
    "tier": 2,
-   "price": 2100.0,
+   "price": 2099.0,
    "currency": "EUR",
-   "price_eur": 2100.0,
+   "price_eur": 2099.0,
    "reference_eur": 750.0,
    "deal_pct": -180,
    "deal_label": "Above market",
@@ -1439,12 +1541,12 @@
    "distance_km": 160,
    "posted": "2026-11-03T12:00:00+00:00",
    "first_seen": "2026-11-03T22:13:15+00:00",
-   "image": "https://www.bazos.sk/img/1t/221/197145221.jpg",
+   "image": "https://www.bazos.sk/img/1t/221/197145221.jpg?t=1793794114",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1453,15 +1555,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 29,
-   "failed": 1,
+   "ok": 30,
+   "failed": 0,
    "found": 13
   },
   {
    "name": "Bazoš.cz",
-   "ok": 29,
-   "failed": 1,
-   "found": 16
+   "ok": 30,
+   "failed": 0,
+   "found": 18
   },
   {
    "name": "Kleinanzeigen",
