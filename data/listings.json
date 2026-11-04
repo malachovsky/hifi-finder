@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T12:48:54+00:00",
+ "generated": "2026-11-04T22:28:44+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -59,7 +59,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -74,7 +74,7 @@
    "tier": 2,
    "price": 10000.0,
    "currency": "CZK",
-   "price_eur": 410.8,
+   "price_eur": 411.37,
    "reference_eur": 450.0,
    "deal_pct": 9,
    "deal_label": "Good price",
@@ -262,7 +262,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1026.99,
+   "price_eur": 1028.43,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -309,7 +309,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 862.67,
+   "price_eur": 863.88,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -507,7 +507,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 944.83,
+   "price_eur": 946.15,
    "reference_eur": 300.0,
    "deal_pct": -215,
    "deal_label": "Above market",
@@ -603,7 +603,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.64,
+   "price_eur": 329.1,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -650,7 +650,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.61,
+   "price_eur": 366.12,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -701,7 +701,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.64,
+   "price_eur": 329.1,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -744,7 +744,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 258.8,
+   "price_eur": 259.16,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -795,7 +795,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.64,
+   "price_eur": 329.1,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -938,7 +938,7 @@
    "tier": 2,
    "price": 18900.0,
    "currency": "CZK",
-   "price_eur": 776.4,
+   "price_eur": 777.49,
    "reference_eur": 750.0,
    "deal_pct": -4,
    "deal_label": "Fair price",
@@ -1030,7 +1030,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.07,
+   "price_eur": 246.41,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1066,57 +1066,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225941758/sony-cdp-x222es.php",
-   "title": "Sony CDP-X222ES + dálkový ovladač",
-   "model": "CDP-X222ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 2,
-   "price": 6000.0,
-   "currency": "CZK",
-   "price_eur": 246.48,
-   "reference_eur": 120.0,
-   "deal_pct": -105,
-   "deal_label": "Above market",
-   "score": -92,
-   "score_parts": [
-    [
-     "Price",
-     -105
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -6
-    ]
-   ],
-   "location": "České Budějovice 370 01",
-   "distance_km": 345,
-   "posted": "2026-11-03T12:00:00+00:00",
-   "first_seen": "2026-11-03T12:39:48+00:00",
-   "image": "https://www.bazos.cz/img/1t/758/225941758.jpg?t=1793696451",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1132,7 +1081,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 349.18,
+   "price_eur": 349.66,
    "reference_eur": 120.0,
    "deal_pct": -191,
    "deal_label": "Above market",
@@ -1277,17 +1226,17 @@
    "brand": "Technics",
    "category": "Turntable",
    "tier": 2,
-   "price": 5000.0,
+   "price": 4800.0,
    "currency": "EUR",
-   "price_eur": 5000.0,
+   "price_eur": 4800.0,
    "reference_eur": 750.0,
-   "deal_pct": -567,
+   "deal_pct": -540,
    "deal_label": "Above market",
-   "score": -571,
+   "score": -544,
    "score_parts": [
     [
      "Price",
-     -567
+     -540
     ],
     [
      "Wish list",
@@ -1306,13 +1255,13 @@
    "distance_km": 155,
    "posted": "2026-10-29T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/924/196993924.jpg?t=1793547620",
+   "image": "https://www.bazos.sk/img/1t/924/196993924.jpg?t=1793828695",
    "photo_count": 2,
    "photo_kind": "stock",
    "photo_reason": "Professional studio photo, clean white background, manufacturer lighting",
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 200,
    "notes": [],
    "auction": false
   },
@@ -1326,15 +1275,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1848.58,
+   "price_eur": 1851.17,
    "reference_eur": 750.0,
-   "deal_pct": -146,
+   "deal_pct": -147,
    "deal_label": "Above market",
-   "score": -140,
+   "score": -141,
    "score_parts": [
     [
      "Price",
-     -146
+     -147
     ],
     [
      "Wish list",
@@ -1373,15 +1322,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7599.72,
+   "price_eur": 7610.35,
    "reference_eur": 750.0,
-   "deal_pct": -913,
+   "deal_pct": -915,
    "deal_label": "Above market",
-   "score": -909,
+   "score": -911,
    "score_parts": [
     [
      "Price",
-     -913
+     -915
     ],
     [
      "Wish list",
@@ -1420,7 +1369,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1844.47,
+   "price_eur": 1847.05,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1467,15 +1416,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1848.58,
+   "price_eur": 1851.17,
    "reference_eur": 750.0,
-   "deal_pct": -146,
+   "deal_pct": -147,
    "deal_label": "Above market",
-   "score": -129,
+   "score": -130,
    "score_parts": [
     [
      "Price",
-     -146
+     -147
     ],
     [
      "Wish list",
@@ -1561,9 +1510,9 @@
   },
   {
    "name": "Bazoš.cz",
-   "ok": 30,
-   "failed": 0,
-   "found": 18
+   "ok": 29,
+   "failed": 1,
+   "found": 17
   },
   {
    "name": "Kleinanzeigen",
