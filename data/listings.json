@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T22:28:44+00:00",
+ "generated": "2026-11-05T12:57:39+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -350,7 +350,7 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197140157/marantz-pm7000n.php",
+   "url": "https://elektro.bazos.sk/inzerat/197207561/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
    "brand": "Marantz",
@@ -383,14 +383,14 @@
    ],
    "location": "Žilina 010 01",
    "distance_km": 62,
-   "posted": "2026-11-03T12:00:00+00:00",
-   "first_seen": "2026-11-03T22:13:15+00:00",
-   "image": "https://www.bazos.sk/img/1t/157/197140157.jpg",
+   "posted": "2026-11-05T12:00:00+00:00",
+   "first_seen": "2026-11-05T12:57:39+00:00",
+   "image": "https://www.bazos.sk/img/1t/561/197207561.jpg",
    "photo_count": 10,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -532,7 +532,7 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-11-04T12:00:00+00:00",
+   "posted": "2026-11-05T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
    "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793641438",
    "photo_count": 2,
@@ -916,7 +916,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-11-04T12:00:00+00:00",
+   "posted": "2026-11-05T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
@@ -1504,14 +1504,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 30,
-   "failed": 0,
+   "ok": 29,
+   "failed": 1,
    "found": 13
   },
   {
    "name": "Bazoš.cz",
-   "ok": 29,
-   "failed": 1,
+   "ok": 30,
+   "failed": 0,
    "found": 17
   },
   {
