@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T22:35:47+00:00",
+ "generated": "2026-11-06T12:45:11+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -110,7 +110,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -485,7 +485,7 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-11-05T12:00:00+00:00",
+   "posted": "2026-11-06T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
    "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793641438",
    "photo_count": 2,
@@ -831,57 +831,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
-   "title": "DENON PMA-1600NE-integrovaný zosilňovač - Rezervované",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 649.0,
-   "currency": "EUR",
-   "price_eur": 649.0,
-   "reference_eur": 750.0,
-   "deal_pct": 13,
-   "deal_label": "Good price",
-   "score": 38,
-   "score_parts": [
-    [
-     "Price",
-     13
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     6
-    ]
-   ],
-   "location": "Prešov 080 01",
-   "distance_km": 156,
-   "posted": "2026-11-05T12:00:00+00:00",
-   "first_seen": "2026-10-19T21:22:18+00:00",
-   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
    "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
@@ -1070,53 +1019,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
-   "title": "2 x TECHNICS SL-1210 MK5",
-   "model": "SL-1200/1210 MK2-MK6",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 3000.0,
-   "currency": "EUR",
-   "price_eur": 3000.0,
-   "reference_eur": 500.0,
-   "deal_pct": -500,
-   "deal_label": "Above market",
-   "score": -481,
-   "score_parts": [
-    [
-     "Price",
-     -500
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Galanta 925 01",
-   "distance_km": 122,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1452,14 +1354,61 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -481,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 30,
-   "failed": 0,
-   "found": 13
+   "ok": 28,
+   "failed": 2,
+   "found": 12
   },
   {
    "name": "Bazoš.cz",
