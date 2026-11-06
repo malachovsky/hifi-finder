@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T12:45:11+00:00",
+ "generated": "2026-11-06T21:57:39+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -262,15 +262,15 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1029.27,
+   "price_eur": 1026.69,
    "reference_eur": 600.0,
-   "deal_pct": -72,
+   "deal_pct": -71,
    "deal_label": "Above market",
-   "score": -68,
+   "score": -67,
    "score_parts": [
     [
      "Price",
-     -72
+     -71
     ],
     [
      "Wish list",
@@ -295,7 +295,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 3,
    "notes": [],
    "auction": false
   },
@@ -309,7 +309,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 864.59,
+   "price_eur": 862.42,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -342,7 +342,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -460,15 +460,15 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 946.93,
+   "price_eur": 944.56,
    "reference_eur": 300.0,
-   "deal_pct": -216,
+   "deal_pct": -215,
    "deal_label": "Above market",
-   "score": -198,
+   "score": -197,
    "score_parts": [
     [
      "Price",
-     -216
+     -215
     ],
     [
      "Wish list",
@@ -493,7 +493,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   },
@@ -556,7 +556,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 329.37,
+   "price_eur": 328.54,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -603,7 +603,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 366.42,
+   "price_eur": 365.5,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -645,49 +645,6 @@
    "auction": false
   },
   {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
-   "title": "Marantz PM-7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 329.37,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -20,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ]
-   ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
    "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
@@ -697,7 +654,7 @@
    "tier": 2,
    "price": 6300.0,
    "currency": "CZK",
-   "price_eur": 259.38,
+   "price_eur": 258.73,
    "reference_eur": 300.0,
    "deal_pct": 14,
    "deal_label": "Good price",
@@ -748,7 +705,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 329.37,
+   "price_eur": 328.54,
    "reference_eur": 300.0,
    "deal_pct": -10,
    "deal_label": "Fair price",
@@ -831,6 +788,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
+   "title": "DENON PMA-1600NE-integrovaný zosilňovač - Rezervované",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 649.0,
+   "currency": "EUR",
+   "price_eur": 649.0,
+   "reference_eur": 750.0,
+   "deal_pct": 13,
+   "deal_label": "Good price",
+   "score": 38,
+   "score_parts": [
+    [
+     "Price",
+     13
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Prešov 080 01",
+   "distance_km": 156,
+   "posted": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-10-19T21:22:18+00:00",
+   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
    "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
@@ -840,15 +848,15 @@
    "tier": 2,
    "price": 18900.0,
    "currency": "CZK",
-   "price_eur": 778.13,
+   "price_eur": 776.18,
    "reference_eur": 750.0,
-   "deal_pct": -4,
+   "deal_pct": -3,
    "deal_label": "Fair price",
-   "score": 14,
+   "score": 15,
    "score_parts": [
     [
      "Price",
-     -4
+     -3
     ],
     [
      "Wish list",
@@ -873,7 +881,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   },
@@ -887,7 +895,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.12,
+   "price_eur": 4.11,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -932,15 +940,15 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.61,
+   "price_eur": 246.0,
    "reference_eur": 120.0,
-   "deal_pct": -106,
+   "deal_pct": -105,
    "deal_label": "Above market",
-   "score": -95,
+   "score": -94,
    "score_parts": [
     [
      "Price",
-     -106
+     -105
     ],
     [
      "Wish list",
@@ -983,15 +991,15 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 349.95,
+   "price_eur": 349.08,
    "reference_eur": 120.0,
-   "deal_pct": -192,
+   "deal_pct": -191,
    "deal_label": "Above market",
-   "score": -186,
+   "score": -185,
    "score_parts": [
     [
      "Price",
-     -192
+     -191
     ],
     [
      "Wish list",
@@ -1019,6 +1027,53 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -481,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1130,15 +1185,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1852.69,
+   "price_eur": 1848.05,
    "reference_eur": 750.0,
-   "deal_pct": -147,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -141,
+   "score": -140,
    "score_parts": [
     [
      "Price",
-     -147
+     -146
     ],
     [
      "Wish list",
@@ -1163,7 +1218,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 5,
    "notes": [],
    "auction": false
   },
@@ -1177,15 +1232,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7616.62,
+   "price_eur": 7597.54,
    "reference_eur": 750.0,
-   "deal_pct": -916,
+   "deal_pct": -913,
    "deal_label": "Above market",
-   "score": -912,
+   "score": -909,
    "score_parts": [
     [
      "Price",
-     -916
+     -913
     ],
     [
      "Wish list",
@@ -1210,7 +1265,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 19,
    "notes": [],
    "auction": false
   },
@@ -1224,7 +1279,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1848.57,
+   "price_eur": 1843.94,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1257,7 +1312,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 5,
    "notes": [],
    "auction": false
   },
@@ -1271,15 +1326,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1852.69,
+   "price_eur": 1848.05,
    "reference_eur": 750.0,
-   "deal_pct": -147,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -130,
+   "score": -129,
    "score_parts": [
     [
      "Price",
-     -147
+     -146
     ],
     [
      "Wish list",
@@ -1304,7 +1359,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 5,
    "notes": [],
    "auction": false
   },
@@ -1356,59 +1411,57 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
-   "title": "2 x TECHNICS SL-1210 MK5",
-   "model": "SL-1200/1210 MK2-MK6",
-   "brand": "Technics",
-   "category": "Turntable",
+   "source": "VintageHifi.cz",
+   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
+   "title": "Marantz PM-7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
    "tier": 2,
-   "price": 3000.0,
-   "currency": "EUR",
-   "price_eur": 3000.0,
-   "reference_eur": 500.0,
-   "deal_pct": -500,
-   "deal_label": "Above market",
-   "score": -481,
+   "price": 8000.0,
+   "currency": "CZK",
+   "price_eur": 329.37,
+   "reference_eur": 300.0,
+   "deal_pct": -10,
+   "deal_label": "Fair price",
+   "score": -20,
    "score_parts": [
     [
      "Price",
-     -500
+     -10
     ],
     [
      "Wish list",
      5
     ],
     [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
+     "Stock photo",
+     -15
     ]
    ],
-   "location": "Galanta 925 01",
-   "distance_km": 122,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
+   "location": "E-shop (shipping)",
+   "distance_km": null,
+   "posted": null,
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
    "remote": null,
    "is_new": false,
    "price_drop_eur": null,
-   "notes": [],
+   "notes": [
+    "Not rechecked this run (source unavailable)"
+   ],
    "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 28,
-   "failed": 2,
-   "found": 12
+   "ok": 30,
+   "failed": 0,
+   "found": 13
   },
   {
    "name": "Bazoš.cz",
@@ -1424,9 +1477,9 @@
   },
   {
    "name": "VintageHifi.cz",
-   "ok": 30,
-   "failed": 0,
-   "found": 1
+   "ok": 0,
+   "failed": 30,
+   "found": 0
   }
  ],
  "models": [
