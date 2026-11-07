@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T11:33:29+00:00",
+ "generated": "2026-11-07T11:44:14+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -298,7 +298,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -543,7 +543,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1219,7 +1219,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1266,7 +1266,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Price looks unusually low, check the listing"
@@ -1315,7 +1315,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1366,7 +1366,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first",
@@ -1420,7 +1420,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1471,7 +1471,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1518,7 +1518,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1569,7 +1569,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1620,7 +1620,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1667,7 +1667,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1714,7 +1714,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2101,14 +2101,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 38,
-   "failed": 0,
+   "ok": 37,
+   "failed": 1,
    "found": 22
   },
   {
    "name": "Bazoš.cz",
-   "ok": 37,
-   "failed": 1,
+   "ok": 38,
+   "failed": 0,
    "found": 20
   },
   {
