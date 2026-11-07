@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T21:57:39+00:00",
+ "generated": "2026-11-07T11:33:29+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -253,6 +253,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197212634/marantz-model-50.php",
+   "title": "Marantz Model 50",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 1300.0,
+   "currency": "EUR",
+   "price_eur": 1300.0,
+   "reference_eur": 600.0,
+   "deal_pct": -117,
+   "deal_label": "Above market",
+   "score": -86,
+   "score_parts": [
+    [
+     "Price",
+     -117
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     12
+    ]
+   ],
+   "location": "Martin 038 61",
+   "distance_km": 45,
+   "posted": "2026-11-05T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/634/197212634.jpg?t=1794047274",
+   "photo_count": 1,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225816007/marantz-pm8006-stereo-zesilovac.php",
    "title": "Marantz PM8006 - Stereo zesilovač",
@@ -452,6 +503,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226113574/marantz-pm7000n.php",
+   "title": "Marantz PM7000N",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 16000.0,
+   "currency": "CZK",
+   "price_eur": 657.08,
+   "reference_eur": 300.0,
+   "deal_pct": -119,
+   "deal_label": "Above market",
+   "score": -116,
+   "score_parts": [
+    [
+     "Price",
+     -119
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Praha - východ 250 70",
+   "distance_km": 379,
+   "posted": "2026-11-07T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
    "title": "Marantz PM7000N + CD6007",
    "model": "PM-7000",
@@ -485,7 +583,7 @@
    ],
    "location": "Ostrava 702 00",
    "distance_km": 139,
-   "posted": "2026-11-06T12:00:00+00:00",
+   "posted": "2026-11-07T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
    "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793641438",
    "photo_count": 2,
@@ -639,6 +737,49 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "VintageHifi.cz",
+   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
+   "title": "Marantz PM-7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8000.0,
+   "currency": "CZK",
+   "price_eur": 328.54,
+   "reference_eur": 300.0,
+   "deal_pct": -10,
+   "deal_label": "Fair price",
+   "score": -20,
+   "score_parts": [
+    [
+     "Price",
+     -10
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ]
+   ],
+   "location": "E-shop (shipping)",
+   "distance_km": null,
+   "posted": null,
+   "first_seen": "2026-10-09T14:44:28+00:00",
+   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -826,7 +967,7 @@
    ],
    "location": "Prešov 080 01",
    "distance_km": 156,
-   "posted": "2026-11-06T12:00:00+00:00",
+   "posted": "2026-11-07T12:00:00+00:00",
    "first_seen": "2026-10-19T21:22:18+00:00",
    "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
    "photo_count": 8,
@@ -1028,6 +1169,552 @@
    "photo_reason": null,
    "remote": "no",
    "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196432080/Zostava-YAMAHA-Hifi-domace-kino.php",
+   "title": "Zostava YAMAHA Hifi -domáce kino",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 590.0,
+   "currency": "EUR",
+   "price_eur": 590.0,
+   "reference_eur": 100.0,
+   "deal_pct": -490,
+   "deal_label": "Above market",
+   "score": -466,
+   "score_parts": [
+    [
+     "Price",
+     -490
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 851 01",
+   "distance_km": 165,
+   "posted": "2026-10-12T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/080/196432080.jpg",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195728893/yamaha-kx-390-tape-deck-mint-excelent.php",
+   "title": "Yamaha KX-390 Tape Deck MINT / EXCELENT",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 1.0,
+   "currency": "EUR",
+   "price_eur": 1.0,
+   "reference_eur": 100.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": 1,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 841 05",
+   "distance_km": 167,
+   "posted": "2026-09-20T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/893/195728893.jpg?t=1789911018",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Price looks unusually low, check the listing"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195465729/kazetovy-radiomagnetofon-so-zarukou.php",
+   "title": "Kazetový magnetofón so zárukou",
+   "model": "DRM-540 / DRM-550",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 99.0,
+   "currency": "EUR",
+   "price_eur": 99.0,
+   "reference_eur": 100.0,
+   "deal_pct": 1,
+   "deal_label": "Fair price",
+   "score": 25,
+   "score_parts": [
+    [
+     "Price",
+     1
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Banská Štiavnica 969 01",
+   "distance_km": 36,
+   "posted": "2026-09-12T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/729/195465729.jpg?t=1793026698",
+   "photo_count": 1,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/197056705/yamaha-zostava.php",
+   "title": "Yamaha zostava",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 100.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -1,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Námestovo 029 51",
+   "distance_km": 73,
+   "posted": "2026-11-01T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/705/197056705.jpg",
+   "photo_count": 7,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first",
+    "No price given"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197019545/yamaha-kx-393-cassette-deck.php",
+   "title": "Yamaha KX 393 cassette deck",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 50.0,
+   "currency": "EUR",
+   "price_eur": 50.0,
+   "reference_eur": 100.0,
+   "deal_pct": 50,
+   "deal_label": "Great price",
+   "score": 80,
+   "score_parts": [
+    [
+     "Price",
+     50
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Tvrdošín 027 44",
+   "distance_km": 73,
+   "posted": "2026-10-30T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/545/197019545.jpg?t=1793651513",
+   "photo_count": 3,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196591190/yamaha-receiver-rx-496rds-deck-kx-393-cdx-396.php",
+   "title": "YAMAHA (Receiver RX-496RDS + Deck KX-393 + CDX-396)",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 280.0,
+   "currency": "EUR",
+   "price_eur": 280.0,
+   "reference_eur": 100.0,
+   "deal_pct": -180,
+   "deal_label": "Above market",
+   "score": -151,
+   "score_parts": [
+    [
+     "Price",
+     -180
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     10
+    ]
+   ],
+   "location": "Nitra 949 01",
+   "distance_km": 91,
+   "posted": "2026-10-24T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/190/196591190.jpg?t=1792240934",
+   "photo_count": 11,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223754818/yamaha-kx-393-stereo-cassette-deck.php",
+   "title": "Yamaha KX-393 – Stereo Cassette Deck",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 2690.0,
+   "currency": "CZK",
+   "price_eur": 110.47,
+   "reference_eur": 100.0,
+   "deal_pct": -10,
+   "deal_label": "Fair price",
+   "score": -3,
+   "score_parts": [
+    [
+     "Price",
+     -10
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -4
+    ]
+   ],
+   "location": "Kutná Hora 284 01",
+   "distance_km": 312,
+   "posted": "2026-09-13T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.cz/img/1t/818/223754818.jpg?t=1792819513",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197228012/yamaha-51-domace-kino-a-hifi-receiver-cd-kazetovy-deck.php",
+   "title": "YAMAHA 5.1 domáce kino a HiFi – receiver, CD, kazetový deck",
+   "model": "KX-490 / KX-493",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 420.0,
+   "currency": "EUR",
+   "price_eur": 420.0,
+   "reference_eur": 120.0,
+   "deal_pct": -250,
+   "deal_label": "Above market",
+   "score": -219,
+   "score_parts": [
+    [
+     "Price",
+     -250
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     12
+    ]
+   ],
+   "location": "Martin 038 61",
+   "distance_km": 45,
+   "posted": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/012/197228012.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/223865985/yamaha-kx-580-dolby-s.php",
+   "title": "YAMAHA KX 580 dolby S",
+   "model": "KX-580",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 1,
+   "price": 7499.0,
+   "currency": "CZK",
+   "price_eur": 307.97,
+   "reference_eur": 150.0,
+   "deal_pct": -105,
+   "deal_label": "Above market",
+   "score": -72,
+   "score_parts": [
+    [
+     "Price",
+     -105
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Ostrava 700 30",
+   "distance_km": 135,
+   "posted": "2026-09-15T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.cz/img/1t/985/223865985.jpg?t=1792519384",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196784444/cassette-deck-denon-drs-810-sampan-champagne.php",
+   "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
+   "model": "DRS-810",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 550.0,
+   "currency": "EUR",
+   "price_eur": 550.0,
+   "reference_eur": 250.0,
+   "deal_pct": -120,
+   "deal_label": "Above market",
+   "score": -142,
+   "score_parts": [
+    [
+     "Price",
+     -120
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Zahraničie 123 45",
+   "distance_km": 1306,
+   "posted": "2026-10-23T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/444/196784444.jpg",
+   "photo_count": 9,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224475738/cassette-deck-denon-drs-810-sampan-champagne-r.php",
+   "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
+   "model": "DRS-810",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 12999.0,
+   "currency": "CZK",
+   "price_eur": 533.84,
+   "reference_eur": 250.0,
+   "deal_pct": -114,
+   "deal_label": "Above market",
+   "score": -115,
+   "score_parts": [
+    [
+     "Price",
+     -114
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     9
+    ]
+   ],
+   "location": "Uherské Hradiště 687 71",
+   "distance_km": 103,
+   "posted": "2026-09-30T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.cz/img/1t/738/224475738.jpg?t=1793781981",
+   "photo_count": 9,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1409,77 +2096,32 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
-  },
-  {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
-   "title": "Marantz PM-7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 329.37,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -20,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ]
-   ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Not rechecked this run (source unavailable)"
-   ],
-   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 30,
+   "ok": 38,
    "failed": 0,
-   "found": 13
+   "found": 22
   },
   {
    "name": "Bazoš.cz",
-   "ok": 30,
-   "failed": 0,
-   "found": 16
+   "ok": 37,
+   "failed": 1,
+   "found": 20
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 30,
+   "ok": 38,
    "failed": 0,
    "found": 0
   },
   {
    "name": "VintageHifi.cz",
-   "ok": 0,
-   "failed": 30,
-   "found": 0
+   "ok": 38,
+   "failed": 0,
+   "found": 1
   }
  ],
  "models": [
@@ -1603,25 +2245,53 @@
    "reference_eur": 120
   },
   {
-   "id": "TC-KA6ES",
-   "brand": "Sony",
+   "id": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "reference_eur": 100
+  },
+  {
+   "id": "KX-490 / KX-493",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "reference_eur": 120
+  },
+  {
+   "id": "KX-580",
+   "brand": "Yamaha",
    "category": "Tape deck",
    "tier": 1,
-   "reference_eur": 420
+   "reference_eur": 150
   },
   {
-   "id": "TC-K711S",
-   "brand": "Sony",
+   "id": "DRS-610",
+   "brand": "Denon",
    "category": "Tape deck",
    "tier": 2,
-   "reference_eur": 300
+   "reference_eur": 140
   },
   {
-   "id": "TC-K611S",
-   "brand": "Sony",
+   "id": "DRM-540 / DRM-550",
+   "brand": "Denon",
    "category": "Tape deck",
    "tier": 2,
-   "reference_eur": 220
+   "reference_eur": 100
+  },
+  {
+   "id": "DRM-740 / DRM-800",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "reference_eur": 170
+  },
+  {
+   "id": "DRS-810",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "reference_eur": 250
   },
   {
    "id": "SL-1200/1210 MK2-MK6",
