@@ -202,27 +202,55 @@ models:
     queries: [CDP-X222ES]
 
   # ---- Tape decks ----
-  - id: TC-KA6ES
-    brand: Sony
+  - id: KX-390 / KX-393
+    brand: Yamaha
+    category: Tape deck
+    tier: 2
+    reference_eur: 100
+    aliases: [KX-390, KX-393]
+    queries: [Yamaha KX-390, Yamaha KX-393]
+  - id: KX-490 / KX-493
+    brand: Yamaha
+    category: Tape deck
+    tier: 2
+    reference_eur: 120
+    aliases: [KX-490, KX-493]
+    queries: [Yamaha KX-490, Yamaha KX-493]
+  - id: KX-580
+    brand: Yamaha
     category: Tape deck
     tier: 1
-    reference_eur: 420
-    aliases: [TC-KA6ES, KA6ES]
-    queries: [TC-KA6ES]
-  - id: TC-K711S
-    brand: Sony
+    reference_eur: 150
+    aliases: [KX-580]
+    queries: [Yamaha KX-580]
+  - id: DRS-610
+    brand: Denon
     category: Tape deck
     tier: 2
-    reference_eur: 300
-    aliases: [TC-K711S, K711S]
-    queries: [TC-K711S]
-  - id: TC-K611S
-    brand: Sony
+    reference_eur: 140
+    aliases: [DRS-610]
+    queries: [Denon DRS-610]
+  - id: DRM-540 / DRM-550
+    brand: Denon
     category: Tape deck
     tier: 2
-    reference_eur: 220
-    aliases: [TC-K611S, K611S]
-    queries: [TC-K611S]
+    reference_eur: 100
+    aliases: [DRM-540, DRM-550]
+    queries: [Denon DRM-540, Denon DRM-550]
+  - id: DRM-740 / DRM-800
+    brand: Denon
+    category: Tape deck
+    tier: 2
+    reference_eur: 170
+    aliases: [DRM-740, DRM-800]
+    queries: [Denon DRM-740, Denon DRM-800]
+  - id: DRS-810
+    brand: Denon
+    category: Tape deck
+    tier: 2
+    reference_eur: 250
+    aliases: [DRS-810]
+    queries: [Denon DRS-810]
 
   # ---- Turntables (DJ only: the hi-fi SL-1200G/GR/GAE are not matched) ----
   # Aliases list every DJ mark, so a bare "SL-1200" title (model unknown) is skipped.
