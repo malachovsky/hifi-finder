@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T11:44:14+00:00",
+ "generated": "2026-11-07T20:41:42+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -451,298 +451,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195354168/marantz-pm7000n-canton-ergo-609-dc.php",
-   "title": "Marantz PM7000N + Canton Ergo 609 DC",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 1099.0,
-   "currency": "EUR",
-   "price_eur": 1099.0,
-   "reference_eur": 300.0,
-   "deal_pct": -266,
-   "deal_label": "Above market",
-   "score": -242,
-   "score_parts": [
-    [
-     "Price",
-     -266
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-09-08T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.sk/img/1t/168/195354168.jpg?t=1793375404",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 100,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226113574/marantz-pm7000n.php",
-   "title": "Marantz PM7000N",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 16000.0,
-   "currency": "CZK",
-   "price_eur": 657.08,
-   "reference_eur": 300.0,
-   "deal_pct": -119,
-   "deal_label": "Above market",
-   "score": -116,
-   "score_parts": [
-    [
-     "Price",
-     -119
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -8
-    ]
-   ],
-   "location": "Praha - východ 250 70",
-   "distance_km": 379,
-   "posted": "2026-11-07T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225613344/marantz-pm7000n-cd6007.php",
-   "title": "Marantz PM7000N + CD6007",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 23000.0,
-   "currency": "CZK",
-   "price_eur": 944.56,
-   "reference_eur": 300.0,
-   "deal_pct": -215,
-   "deal_label": "Above market",
-   "score": -197,
-   "score_parts": [
-    [
-     "Price",
-     -215
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Ostrava 702 00",
-   "distance_km": 139,
-   "posted": "2026-11-07T12:00:00+00:00",
-   "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.cz/img/1t/344/225613344.jpg?t=1793641438",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": 2,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224686701/originalni-obaly-reprosoustav-a-komponentu.php",
-   "title": "Originální obaly od hifi komponentů a reprosoustav",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": null,
-   "currency": "CZK",
-   "price_eur": null,
-   "reference_eur": 300.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": -12,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -8
-    ]
-   ],
-   "location": "Příbram 261 01",
-   "distance_km": 388,
-   "posted": "2026-10-05T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/701/224686701.jpg?t=1792483753",
-   "photo_count": 14,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224669833/zesilovac-marantz-pm7000.php",
-   "title": "Zesilovač Marantz PM7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 328.54,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": 0,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -1
-    ]
-   ],
-   "location": "Chrudim 539 01",
-   "distance_km": 262,
-   "posted": "2026-10-05T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/833/224669833.jpg",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223619706/zesilovac-marantz-pm7000.php",
-   "title": "Zesilovač Marantz PM7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8900.0,
-   "currency": "CZK",
-   "price_eur": 365.5,
-   "reference_eur": 300.0,
-   "deal_pct": -22,
-   "deal_label": "Above market",
-   "score": -12,
-   "score_parts": [
-    [
-     "Price",
-     -22
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -9
-    ]
-   ],
-   "location": "Česká Lípa 470 01",
-   "distance_km": 396,
-   "posted": "2026-09-10T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/706/223619706.jpg",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "VintageHifi.cz",
    "url": "https://www.vintagehifi.cz/marantz-pm-7000",
    "title": "Marantz PM-7000",
@@ -788,7 +496,7 @@
   {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
-   "title": "Marantz PM 7000 – legendární hi-fi zesilovač",
+   "title": "Rezervace - Marantz PM 7000 – legendární hi-fi zesilovač",
    "model": "PM-7000",
    "brand": "Marantz",
    "category": "Amplifier",
@@ -826,7 +534,7 @@
    "distance_km": 518,
    "posted": "2026-10-21T12:00:00+00:00",
    "first_seen": "2026-10-21T20:27:57+00:00",
-   "image": "https://www.bazos.cz/img/1t/559/225404559.jpg",
+   "image": "https://www.bazos.cz/img/1t/559/225404559.jpg?t=1794071054",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
@@ -926,57 +634,6 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196661314/denon-pma-1600ne-integrovany-zosilnovac-top-stav.php",
-   "title": "DENON PMA-1600NE-integrovaný zosilňovač - Rezervované",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 649.0,
-   "currency": "EUR",
-   "price_eur": 649.0,
-   "reference_eur": 750.0,
-   "deal_pct": 13,
-   "deal_label": "Good price",
-   "score": 38,
-   "score_parts": [
-    [
-     "Price",
-     13
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     6
-    ]
-   ],
-   "location": "Prešov 080 01",
-   "distance_km": 156,
-   "posted": "2026-11-07T12:00:00+00:00",
-   "first_seen": "2026-10-19T21:22:18+00:00",
-   "image": "https://www.bazos.sk/img/1t/314/196661314.jpg?t=1793128453",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
    "auction": false
   },
   {
@@ -1575,57 +1232,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223865985/yamaha-kx-580-dolby-s.php",
-   "title": "YAMAHA KX 580 dolby S",
-   "model": "KX-580",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 1,
-   "price": 7499.0,
-   "currency": "CZK",
-   "price_eur": 307.97,
-   "reference_eur": 150.0,
-   "deal_pct": -105,
-   "deal_label": "Above market",
-   "score": -72,
-   "score_parts": [
-    [
-     "Price",
-     -105
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Ostrava 700 30",
-   "distance_km": 135,
-   "posted": "2026-09-15T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.cz/img/1t/985/223865985.jpg?t=1792519384",
-   "photo_count": 10,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196784444/cassette-deck-denon-drs-810-sampan-champagne.php",
    "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
@@ -1762,6 +1368,53 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://hudba.bazos.cz/inzerat/226124795/technics-sl-1210-mk2-2x.php",
+   "title": "Technics sl-1210 mk2 2x",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 49990.0,
+   "currency": "CZK",
+   "price_eur": 2052.98,
+   "reference_eur": 500.0,
+   "deal_pct": -311,
+   "deal_label": "Above market",
+   "score": -305,
+   "score_parts": [
+    [
+     "Price",
+     -311
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -5
+    ]
+   ],
+   "location": "Benešov 257 26",
+   "distance_km": 329,
+   "posted": "2026-11-07T12:00:00+00:00",
+   "first_seen": "2026-11-07T20:41:42+00:00",
+   "image": "https://www.bazos.cz/img/1t/795/226124795.jpg",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2101,15 +1754,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 37,
-   "failed": 1,
-   "found": 22
-  },
-  {
-   "name": "Bazoš.cz",
    "ok": 38,
    "failed": 0,
    "found": 20
+  },
+  {
+   "name": "Bazoš.cz",
+   "ok": 36,
+   "failed": 2,
+   "found": 15
   },
   {
    "name": "Kleinanzeigen",
