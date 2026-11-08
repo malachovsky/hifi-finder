@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T11:45:51+00:00",
+ "generated": "2026-11-08T20:58:18+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -294,7 +294,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -492,7 +492,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -597,6 +597,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226179919/marantz-pm7000n.php",
+   "title": "Marantz PM7000N",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 12000.0,
+   "currency": "CZK",
+   "price_eur": 492.81,
+   "reference_eur": 300.0,
+   "deal_pct": -64,
+   "deal_label": "Above market",
+   "score": -66,
+   "score_parts": [
+    [
+     "Price",
+     -64
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Nový Jičín 741 01",
+   "distance_km": 125,
+   "posted": "2026-11-08T12:00:00+00:00",
+   "first_seen": "2026-11-08T20:58:18+00:00",
+   "image": "https://www.bazos.cz/img/1t/919/226179919.jpg",
+   "photo_count": 1,
+   "photo_kind": "stock",
+   "photo_reason": "Professional studio background, perfect lighting, manufacturer branding",
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226121248/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
@@ -637,7 +684,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -837,49 +884,6 @@
    "auction": false
   },
   {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/marantz-pm-7000",
-   "title": "Marantz PM-7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 328.54,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -20,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ]
-   ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_256_01.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225404559/marantz-pm-7000-legendarni-hi-fi-zesilovac.php",
    "title": "Rezervace - Marantz PM 7000 – legendární hi-fi zesilovač",
@@ -925,53 +929,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224840952/marantz-pm-7000-sberatelsky-stav.php",
-   "title": "MARANTZ PM-7000 – Sběratelský stav",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8000.0,
-   "currency": "CZK",
-   "price_eur": 328.54,
-   "reference_eur": 300.0,
-   "deal_pct": -10,
-   "deal_label": "Fair price",
-   "score": -16,
-   "score_parts": [
-    [
-     "Price",
-     -10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     4
-    ]
-   ],
-   "location": "Břeclav 693 01",
-   "distance_km": 177,
-   "posted": "2026-10-09T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/952/224840952.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1521,23 +1478,23 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223754818/yamaha-kx-393-stereo-cassette-deck.php",
+   "url": "https://elektro.bazos.cz/inzerat/226178472/yamaha-kx-393-stereo-cassette-deck.php",
    "title": "Yamaha KX-393 – Stereo Cassette Deck",
    "model": "KX-390 / KX-393",
    "brand": "Yamaha",
    "category": "Tape deck",
    "tier": 2,
-   "price": 2690.0,
+   "price": 2490.0,
    "currency": "CZK",
-   "price_eur": 110.47,
+   "price_eur": 102.26,
    "reference_eur": 100.0,
-   "deal_pct": -10,
+   "deal_pct": -2,
    "deal_label": "Fair price",
-   "score": -3,
+   "score": 5,
    "score_parts": [
     [
      "Price",
-     -10
+     -2
     ],
     [
      "Wish list",
@@ -1554,14 +1511,14 @@
    ],
    "location": "Kutná Hora 284 01",
    "distance_km": 312,
-   "posted": "2026-09-13T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.cz/img/1t/818/223754818.jpg?t=1792819513",
+   "posted": "2026-11-08T12:00:00+00:00",
+   "first_seen": "2026-11-08T20:58:18+00:00",
+   "image": "https://www.bazos.cz/img/1t/472/226178472.jpg",
    "photo_count": 5,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2139,66 +2096,19 @@
    "price_drop_eur": 5,
    "notes": [],
    "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/197145221/predam-2ks-gramofonov-technics-1210-mk7-vid-foto.php",
-   "title": "predam 2ks gramofonov Technics 1210 MK7, vid foto",
-   "model": "SL-1200/1210 MK7",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 2099.0,
-   "currency": "EUR",
-   "price_eur": 2099.0,
-   "reference_eur": 750.0,
-   "deal_pct": -180,
-   "deal_label": "Above market",
-   "score": -164,
-   "score_parts": [
-    [
-     "Price",
-     -180
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 831 02",
-   "distance_km": 160,
-   "posted": "2026-11-03T12:00:00+00:00",
-   "first_seen": "2026-11-03T22:13:15+00:00",
-   "image": "https://www.bazos.sk/img/1t/221/197145221.jpg?t=1793794114",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 37,
-   "failed": 1,
-   "found": 22
+   "ok": 38,
+   "failed": 0,
+   "found": 21
   },
   {
    "name": "Bazoš.cz",
-   "ok": 38,
-   "failed": 0,
+   "ok": 36,
+   "failed": 2,
    "found": 22
   },
   {
@@ -2211,7 +2121,7 @@
    "name": "VintageHifi.cz",
    "ok": 38,
    "failed": 0,
-   "found": 1
+   "found": 0
   }
  ],
  "models": [
