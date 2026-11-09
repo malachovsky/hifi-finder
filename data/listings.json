@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T20:58:18+00:00",
+ "generated": "2026-11-09T13:40:42+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -287,7 +287,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-08T12:00:00+00:00",
+   "posted": "2026-11-09T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794084994",
    "photo_count": 16,
@@ -583,7 +583,7 @@
    ],
    "location": "Praha - východ 250 70",
    "distance_km": 379,
-   "posted": "2026-11-08T12:00:00+00:00",
+   "posted": "2026-11-09T12:00:00+00:00",
    "first_seen": "2026-11-07T11:33:29+00:00",
    "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
    "photo_count": 2,
@@ -637,7 +637,7 @@
    "photo_kind": "stock",
    "photo_reason": "Professional studio background, perfect lighting, manufacturer branding",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -827,57 +827,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/223619706/zesilovac-marantz-pm7000.php",
-   "title": "Zesilovač Marantz PM7000",
-   "model": "PM-7000",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 8900.0,
-   "currency": "CZK",
-   "price_eur": 365.5,
-   "reference_eur": 300.0,
-   "deal_pct": -22,
-   "deal_label": "Above market",
-   "score": -12,
-   "score_parts": [
-    [
-     "Price",
-     -22
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -9
-    ]
-   ],
-   "location": "Česká Lípa 470 01",
-   "distance_km": 396,
-   "posted": "2026-09-10T12:00:00+00:00",
-   "first_seen": "2026-10-09T14:44:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/706/223619706.jpg",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1518,7 +1467,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1821,17 +1770,17 @@
    "brand": "Technics",
    "category": "Turntable",
    "tier": 2,
-   "price": 4000.0,
+   "price": 2000.0,
    "currency": "EUR",
-   "price_eur": 4000.0,
+   "price_eur": 2000.0,
    "reference_eur": 750.0,
-   "deal_pct": -433,
+   "deal_pct": -167,
    "deal_label": "Above market",
-   "score": -414,
+   "score": -148,
    "score_parts": [
     [
      "Price",
-     -433
+     -167
     ],
     [
      "Wish list",
@@ -1850,13 +1799,13 @@
    "distance_km": 109,
    "posted": "2026-10-30T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1793454586",
+   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1794172134",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2000,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -2101,15 +2050,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 38,
-   "failed": 0,
+   "ok": 37,
+   "failed": 1,
    "found": 21
   },
   {
    "name": "Bazoš.cz",
    "ok": 36,
    "failed": 2,
-   "found": 22
+   "found": 21
   },
   {
    "name": "Kleinanzeigen",
