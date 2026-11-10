@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T00:34:43+00:00",
+ "generated": "2026-11-10T13:17:10+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -396,7 +396,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -648,6 +648,57 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226231430/zesilovac-marantz-pm7000.php",
+   "title": "Zesilovač Marantz PM7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8900.0,
+   "currency": "CZK",
+   "price_eur": 365.28,
+   "reference_eur": 300.0,
+   "deal_pct": -22,
+   "deal_label": "Above market",
+   "score": -12,
+   "score_parts": [
+    [
+     "Price",
+     -22
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -9
+    ]
+   ],
+   "location": "Česká Lípa 470 01",
+   "distance_km": 396,
+   "posted": "2026-11-10T12:00:00+00:00",
+   "first_seen": "2026-11-10T13:17:10+00:00",
+   "image": "https://www.bazos.cz/img/1t/430/226231430.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226179919/marantz-pm7000n.php",
    "title": "Marantz PM7000N",
    "model": "PM-7000",
@@ -701,17 +752,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 2,
-   "price": 15500.0,
+   "price": 15000.0,
    "currency": "CZK",
-   "price_eur": 636.16,
+   "price_eur": 615.64,
    "reference_eur": 300.0,
-   "deal_pct": -112,
+   "deal_pct": -105,
    "deal_label": "Above market",
-   "score": -94,
+   "score": -87,
    "score_parts": [
     [
      "Price",
-     -112
+     -105
     ],
     [
      "Wish list",
@@ -730,13 +781,13 @@
    "distance_km": 139,
    "posted": "2026-11-07T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
-   "image": "https://www.bazos.cz/img/1t/248/226121248.jpg",
+   "image": "https://www.bazos.cz/img/1t/248/226121248.jpg?t=1794302796",
    "photo_count": 1,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 21,
    "notes": [],
    "auction": false
   },
@@ -1128,153 +1179,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196432080/Zostava-YAMAHA-Hifi-domace-kino.php",
-   "title": "Zostava YAMAHA Hifi -domáce kino",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 590.0,
-   "currency": "EUR",
-   "price_eur": 590.0,
-   "reference_eur": 100.0,
-   "deal_pct": -490,
-   "deal_label": "Above market",
-   "score": -466,
-   "score_parts": [
-    [
-     "Price",
-     -490
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-10-12T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/080/196432080.jpg",
-   "photo_count": 6,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195728893/yamaha-kx-390-tape-deck-mint-excelent.php",
-   "title": "Yamaha KX-390 Tape Deck MINT / EXCELENT",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 1.0,
-   "currency": "EUR",
-   "price_eur": 1.0,
-   "reference_eur": 100.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 1,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 841 05",
-   "distance_km": 167,
-   "posted": "2026-09-20T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/893/195728893.jpg?t=1789911018",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Price looks unusually low, check the listing"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195465729/kazetovy-radiomagnetofon-so-zarukou.php",
-   "title": "Kazetový magnetofón so zárukou",
-   "model": "DRM-540 / DRM-550",
-   "brand": "Denon",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 99.0,
-   "currency": "EUR",
-   "price_eur": 99.0,
-   "reference_eur": 100.0,
-   "deal_pct": 1,
-   "deal_label": "Fair price",
-   "score": 25,
-   "score_parts": [
-    [
-     "Price",
-     1
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     13
-    ]
-   ],
-   "location": "Banská Štiavnica 969 01",
-   "distance_km": 36,
-   "posted": "2026-09-12T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/729/195465729.jpg?t=1793026698",
-   "photo_count": 1,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://hudba.bazos.sk/inzerat/197056705/yamaha-zostava.php",
    "title": "Yamaha zostava",
    "model": "KX-390 / KX-393",
@@ -1430,6 +1334,53 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/195465729/kazetovy-radiomagnetofon-so-zarukou.php",
+   "title": "Kazetový magnetofón so zárukou",
+   "model": "DRM-540 / DRM-550",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 99.0,
+   "currency": "EUR",
+   "price_eur": 99.0,
+   "reference_eur": 100.0,
+   "deal_pct": 1,
+   "deal_label": "Fair price",
+   "score": 25,
+   "score_parts": [
+    [
+     "Price",
+     1
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Banská Štiavnica 969 01",
+   "distance_km": 36,
+   "posted": "2026-09-12T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/729/195465729.jpg?t=1793026698",
+   "photo_count": 1,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226178472/yamaha-kx-393-stereo-cassette-deck.php",
    "title": "Yamaha KX-393 – Stereo Cassette Deck",
@@ -1579,6 +1530,53 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226245648/denon-drm-550-cassette-deckdolby-b-chx-prompx-filter.php",
+   "title": "DENON DRM-550 Cassette Deck/Dolby B-C/HX-Pro/MPX Filter",
+   "model": "DRM-540 / DRM-550",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 4800.0,
+   "currency": "CZK",
+   "price_eur": 197.0,
+   "reference_eur": 100.0,
+   "deal_pct": -97,
+   "deal_label": "Above market",
+   "score": -94,
+   "score_parts": [
+    [
+     "Price",
+     -97
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Praha 8 181 00",
+   "distance_km": 375,
+   "posted": "2026-11-10T12:00:00+00:00",
+   "first_seen": "2026-11-10T13:17:10+00:00",
+   "image": "https://www.bazos.cz/img/1t/648/226245648.jpg?t=1794300260",
+   "photo_count": 11,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196784444/cassette-deck-denon-drs-810-sampan-champagne.php",
    "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
@@ -1666,53 +1664,6 @@
    "photo_count": 9,
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
-   "title": "2 x TECHNICS SL-1210 MK5",
-   "model": "SL-1200/1210 MK2-MK6",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 3000.0,
-   "currency": "EUR",
-   "price_eur": 3000.0,
-   "reference_eur": 500.0,
-   "deal_pct": -500,
-   "deal_label": "Above market",
-   "score": -481,
-   "score_parts": [
-    [
-     "Price",
-     -500
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Galanta 925 01",
-   "distance_km": 122,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
    "remote": null,
    "is_new": false,
    "price_drop_eur": null,
@@ -2045,7 +1996,7 @@
    "photo_kind": "stock",
    "photo_reason": "Clean studio background, professional manufacturer press shot",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2096,25 +2047,72 @@
    "price_drop_eur": 1,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -481,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 38,
-   "failed": 0,
-   "found": 21
+   "ok": 36,
+   "failed": 2,
+   "found": 19
   },
   {
    "name": "Bazoš.cz",
    "ok": 37,
    "failed": 1,
-   "found": 22
+   "found": 24
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 38,
-   "failed": 0,
+   "ok": 37,
+   "failed": 1,
    "found": 0
   },
   {
