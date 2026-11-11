@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T12:29:31+00:00",
+ "generated": "2026-11-11T23:21:02+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -287,9 +287,9 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-11T12:00:00+00:00",
+   "posted": "2026-11-12T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
-   "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794084994",
+   "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794432043",
    "photo_count": 16,
    "photo_kind": "own",
    "photo_reason": null,
@@ -360,7 +360,7 @@
    "tier": 2,
    "price": 25999.0,
    "currency": "CZK",
-   "price_eur": 1068.29,
+   "price_eur": 1066.49,
    "reference_eur": 600.0,
    "deal_pct": -78,
    "deal_label": "Above market",
@@ -397,7 +397,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   },
@@ -411,7 +411,7 @@
    "tier": 2,
    "price": 25000.0,
    "currency": "CZK",
-   "price_eur": 1027.24,
+   "price_eur": 1025.51,
    "reference_eur": 600.0,
    "deal_pct": -71,
    "deal_label": "Above market",
@@ -444,7 +444,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   },
@@ -458,7 +458,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 862.88,
+   "price_eur": 861.43,
    "reference_eur": 600.0,
    "deal_pct": -44,
    "deal_label": "Above market",
@@ -491,7 +491,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 1,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -609,7 +609,7 @@
    "tier": 2,
    "price": 16000.0,
    "currency": "CZK",
-   "price_eur": 657.44,
+   "price_eur": 656.33,
    "reference_eur": 300.0,
    "deal_pct": -119,
    "deal_label": "Above market",
@@ -634,7 +634,7 @@
    ],
    "location": "Praha - východ 250 70",
    "distance_km": 379,
-   "posted": "2026-11-11T12:00:00+00:00",
+   "posted": "2026-11-12T12:00:00+00:00",
    "first_seen": "2026-11-07T11:33:29+00:00",
    "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
    "photo_count": 2,
@@ -642,7 +642,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 1,
    "notes": [],
    "auction": false
   },
@@ -656,7 +656,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 365.7,
+   "price_eur": 365.08,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -707,7 +707,7 @@
    "tier": 2,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 493.08,
+   "price_eur": 492.25,
    "reference_eur": 300.0,
    "deal_pct": -64,
    "deal_label": "Above market",
@@ -754,7 +754,7 @@
    "tier": 2,
    "price": 15000.0,
    "currency": "CZK",
-   "price_eur": 616.35,
+   "price_eur": 615.31,
    "reference_eur": 300.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -787,7 +787,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 1,
    "notes": [],
    "auction": false
   },
@@ -850,15 +850,15 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.72,
+   "price_eur": 328.16,
    "reference_eur": 300.0,
-   "deal_pct": -10,
+   "deal_pct": -9,
    "deal_label": "Fair price",
-   "score": 0,
+   "score": 1,
    "score_parts": [
     [
      "Price",
-     -10
+     -9
     ],
     [
      "Wish list",
@@ -885,6 +885,59 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197423807/predam-zosilnovac-marantz-pm-7000.php",
+   "title": "Predám zosilňovač marantz pm 7000",
+   "model": "PM-7000",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 300.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -2,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     10
+    ]
+   ],
+   "location": "Trenčín 911 05",
+   "distance_km": 84,
+   "posted": "2026-11-11T12:00:00+00:00",
+   "first_seen": "2026-11-11T23:21:02+00:00",
+   "image": "https://www.bazos.sk/img/1t/807/197423807.jpg?t=1794425876",
+   "photo_count": 1,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
+   ],
    "auction": false
   },
   {
@@ -942,15 +995,15 @@
    "tier": 2,
    "price": 18900.0,
    "currency": "CZK",
-   "price_eur": 776.6,
+   "price_eur": 775.29,
    "reference_eur": 750.0,
-   "deal_pct": -4,
+   "deal_pct": -3,
    "deal_label": "Fair price",
-   "score": 14,
+   "score": 15,
    "score_parts": [
     [
      "Price",
-     -4
+     -3
     ],
     [
      "Wish list",
@@ -975,7 +1028,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 1,
    "notes": [],
    "auction": false
   },
@@ -989,7 +1042,7 @@
    "tier": 2,
    "price": 100.0,
    "currency": "CZK",
-   "price_eur": 4.11,
+   "price_eur": 4.1,
    "reference_eur": 170.0,
    "deal_pct": null,
    "deal_label": null,
@@ -1034,7 +1087,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 246.13,
+   "price_eur": 245.71,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1085,7 +1138,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 349.26,
+   "price_eur": 348.68,
    "reference_eur": 120.0,
    "deal_pct": -191,
    "deal_label": "Above market",
@@ -1384,6 +1437,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226314230/deck-yamaha-kx-393.php",
+   "title": "Deck Yamaha KX-393",
+   "model": "KX-390 / KX-393",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 1400.0,
+   "currency": "CZK",
+   "price_eur": 57.43,
+   "reference_eur": 100.0,
+   "deal_pct": 43,
+   "deal_label": "Great price",
+   "score": 62,
+   "score_parts": [
+    [
+     "Price",
+     43
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Nový Jičín 742 73",
+   "distance_km": 116,
+   "posted": "2026-11-11T12:00:00+00:00",
+   "first_seen": "2026-11-11T23:21:02+00:00",
+   "image": "https://www.bazos.cz/img/1t/230/226314230.jpg",
+   "photo_count": 3,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226178472/yamaha-kx-393-stereo-cassette-deck.php",
    "title": "Yamaha KX-393 – Stereo Cassette Deck",
    "model": "KX-390 / KX-393",
@@ -1392,7 +1492,7 @@
    "tier": 2,
    "price": 2490.0,
    "currency": "CZK",
-   "price_eur": 102.31,
+   "price_eur": 102.14,
    "reference_eur": 100.0,
    "deal_pct": -2,
    "deal_label": "Fair price",
@@ -1490,7 +1590,7 @@
    "tier": 1,
    "price": 7499.0,
    "currency": "CZK",
-   "price_eur": 308.13,
+   "price_eur": 307.61,
    "reference_eur": 150.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1579,6 +1679,53 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/224475738/cassette-deck-denon-drs-810-sampan-champagne-r.php",
+   "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
+   "model": "DRS-810",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 12999.0,
+   "currency": "CZK",
+   "price_eur": 533.23,
+   "reference_eur": 250.0,
+   "deal_pct": -113,
+   "deal_label": "Above market",
+   "score": -114,
+   "score_parts": [
+    [
+     "Price",
+     -113
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     9
+    ]
+   ],
+   "location": "Uherské Hradiště 687 71",
+   "distance_km": 103,
+   "posted": "2026-09-30T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.cz/img/1t/738/224475738.jpg?t=1793781981",
+   "photo_count": 9,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
    "title": "2 x TECHNICS SL-1210 MK5",
@@ -1617,53 +1764,6 @@
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
    "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://hudba.bazos.cz/inzerat/226124795/technics-sl-1210-mk2-2x.php",
-   "title": "Technics sl-1210 mk2 2x",
-   "model": "SL-1200/1210 MK2-MK6",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 49990.0,
-   "currency": "CZK",
-   "price_eur": 2054.07,
-   "reference_eur": 500.0,
-   "deal_pct": -311,
-   "deal_label": "Above market",
-   "score": -305,
-   "score_parts": [
-    [
-     "Price",
-     -311
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -5
-    ]
-   ],
-   "location": "Benešov 257 26",
-   "distance_km": 329,
-   "posted": "2026-11-07T12:00:00+00:00",
-   "first_seen": "2026-11-07T20:41:42+00:00",
-   "image": "https://www.bazos.cz/img/1t/795/226124795.jpg",
-   "photo_count": 6,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
@@ -1778,15 +1878,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1849.04,
+   "price_eur": 1845.93,
    "reference_eur": 750.0,
-   "deal_pct": -147,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -141,
+   "score": -140,
    "score_parts": [
     [
      "Price",
-     -147
+     -146
     ],
     [
      "Wish list",
@@ -1803,7 +1903,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-11T12:00:00+00:00",
+   "posted": "2026-11-12T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -1811,7 +1911,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 3,
    "notes": [],
    "auction": false
   },
@@ -1825,15 +1925,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7601.59,
+   "price_eur": 7588.81,
    "reference_eur": 750.0,
-   "deal_pct": -914,
+   "deal_pct": -912,
    "deal_label": "Above market",
-   "score": -910,
+   "score": -908,
    "score_parts": [
     [
      "Price",
-     -914
+     -912
     ],
     [
      "Wish list",
@@ -1858,7 +1958,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 13,
    "notes": [],
    "auction": false
   },
@@ -1872,7 +1972,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1844.93,
+   "price_eur": 1841.82,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1905,7 +2005,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 3,
    "notes": [],
    "auction": false
   },
@@ -1919,15 +2019,15 @@
    "tier": 2,
    "price": 31700.0,
    "currency": "CZK",
-   "price_eur": 1302.54,
+   "price_eur": 1300.35,
    "reference_eur": 750.0,
-   "deal_pct": -74,
+   "deal_pct": -73,
    "deal_label": "Above market",
-   "score": -81,
+   "score": -80,
    "score_parts": [
     [
      "Price",
-     -74
+     -73
     ],
     [
      "Wish list",
@@ -1952,7 +2052,7 @@
    "photo_reason": "Clean studio background, professional manufacturer press shot",
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 2,
    "notes": [],
    "auction": false
   },
@@ -1966,15 +2066,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1849.04,
+   "price_eur": 1845.93,
    "reference_eur": 750.0,
-   "deal_pct": -147,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -130,
+   "score": -129,
    "score_parts": [
     [
      "Price",
-     -147
+     -146
     ],
     [
      "Wish list",
@@ -1999,7 +2099,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 3,
    "notes": [],
    "auction": false
   }
@@ -2009,13 +2109,13 @@
    "name": "Bazoš.sk",
    "ok": 38,
    "failed": 0,
-   "found": 20
+   "found": 21
   },
   {
    "name": "Bazoš.cz",
-   "ok": 37,
-   "failed": 1,
-   "found": 21
+   "ok": 38,
+   "failed": 0,
+   "found": 22
   },
   {
    "name": "Kleinanzeigen",
