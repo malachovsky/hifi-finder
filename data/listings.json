@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T23:21:02+00:00",
+ "generated": "2026-11-12T13:34:22+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -409,17 +409,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 2,
-   "price": 25000.0,
+   "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 1025.51,
+   "price_eur": 943.47,
    "reference_eur": 600.0,
-   "deal_pct": -71,
+   "deal_pct": -57,
    "deal_label": "Above market",
-   "score": -67,
+   "score": -53,
    "score_parts": [
     [
      "Price",
-     -71
+     -57
     ],
     [
      "Wish list",
@@ -438,13 +438,13 @@
    "distance_km": 374,
    "posted": "2026-10-31T12:00:00+00:00",
    "first_seen": "2026-10-31T20:24:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/007/225816007.jpg",
+   "image": "https://www.bazos.cz/img/1t/007/225816007.jpg?t=1794484063",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 2,
+   "price_drop_eur": 82,
    "notes": [],
    "auction": false
   },
@@ -933,7 +933,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "No price given"
@@ -1181,6 +1181,53 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197434101/kazetovy-radiomagnetofon-so-zarukou.php",
+   "title": "Kazetový magnetofón so zárukou",
+   "model": "DRM-540 / DRM-550",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 99.0,
+   "currency": "EUR",
+   "price_eur": 99.0,
+   "reference_eur": 100.0,
+   "deal_pct": 1,
+   "deal_label": "Fair price",
+   "score": 25,
+   "score_parts": [
+    [
+     "Price",
+     1
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     13
+    ]
+   ],
+   "location": "Banská Štiavnica 969 01",
+   "distance_km": 36,
+   "posted": "2026-11-12T12:00:00+00:00",
+   "first_seen": "2026-11-12T13:34:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/101/197434101.jpg",
+   "photo_count": 1,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196432080/Zostava-YAMAHA-Hifi-domace-kino.php",
    "title": "Zostava YAMAHA Hifi -domáce kino",
    "model": "KX-390 / KX-393",
@@ -1276,60 +1323,6 @@
    "price_drop_eur": null,
    "notes": [
     "Price looks unusually low, check the listing"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/197056705/yamaha-zostava.php",
-   "title": "Yamaha zostava",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": null,
-   "currency": "EUR",
-   "price_eur": null,
-   "reference_eur": 100.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": -1,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "No remote",
-     -8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Námestovo 029 51",
-   "distance_km": 73,
-   "posted": "2026-11-01T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/705/197056705.jpg",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Description mentions a fault, read it first",
-    "No price given"
    ],
    "auction": false
   },
@@ -1477,7 +1470,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
