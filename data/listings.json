@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T22:37:39+00:00",
+ "generated": "2026-11-13T12:54:05+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -287,7 +287,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-12T12:00:00+00:00",
+   "posted": "2026-11-13T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794513981",
    "photo_count": 16,
@@ -351,32 +351,32 @@
    "auction": false
   },
   {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226217890/marantz-pm8006-stereo-amplifier-dalkovy.php",
-   "title": "MARANTZ PM8006 STEREO AMPLIFIER + DALKOVY",
-   "model": "PM8006",
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197468142/marantz-pm-7000n.php",
+   "title": "Marantz PM 7000N",
+   "model": "PM-7000",
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 2,
-   "price": 25999.0,
-   "currency": "CZK",
-   "price_eur": 1066.45,
-   "reference_eur": 600.0,
-   "deal_pct": -78,
+   "price": 540.0,
+   "currency": "EUR",
+   "price_eur": 540.0,
+   "reference_eur": 300.0,
+   "deal_pct": -80,
    "deal_label": "Above market",
-   "score": -71,
+   "score": -65,
    "score_parts": [
     [
      "Price",
-     -78
+     -80
     ],
     [
      "Wish list",
      5
     ],
     [
-     "Remote included",
-     8
+     "No remote",
+     -8
     ],
     [
      "Own photos",
@@ -384,117 +384,21 @@
     ],
     [
      "Distance",
-     -12
+     12
     ]
    ],
-   "location": "Zahraničí 987 66",
-   "distance_km": 1306,
-   "posted": "2026-11-09T12:00:00+00:00",
-   "first_seen": "2026-11-10T00:34:43+00:00",
-   "image": "https://www.bazos.cz/img/1t/890/226217890.jpg",
-   "photo_count": 5,
+   "location": "Liptovský Mikuláš 031 01",
+   "distance_km": 52,
+   "posted": "2026-11-13T12:00:00+00:00",
+   "first_seen": "2026-11-13T12:54:05+00:00",
+   "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1794555047",
+   "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
+   "remote": "no",
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225816007/marantz-pm8006-stereo-zesilovac.php",
-   "title": "Marantz PM8006 - Stereo zesilovač",
-   "model": "PM8006",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 23000.0,
-   "currency": "CZK",
-   "price_eur": 943.43,
-   "reference_eur": 600.0,
-   "deal_pct": -57,
-   "deal_label": "Above market",
-   "score": -53,
-   "score_parts": [
-    [
-     "Price",
-     -57
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -7
-    ]
-   ],
-   "location": "Praha 8 184 00",
-   "distance_km": 374,
-   "posted": "2026-10-31T12:00:00+00:00",
-   "first_seen": "2026-10-31T20:24:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/007/225816007.jpg?t=1794484063",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/224740820/marantz-pm8006-v-zaruce.php",
-   "title": "MARANTZ PM8006 V ZÁRUCE",
-   "model": "PM8006",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 21000.0,
-   "currency": "CZK",
-   "price_eur": 861.4,
-   "reference_eur": 600.0,
-   "deal_pct": -44,
-   "deal_label": "Above market",
-   "score": -45,
-   "score_parts": [
-    [
-     "Price",
-     -44
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -12
-    ]
-   ],
-   "location": "Domažlice 344 01",
-   "distance_km": 461,
-   "posted": "2026-10-06T12:00:00+00:00",
-   "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/820/224740820.jpg",
-   "photo_count": 13,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Description mentions a fault, read it first"
-   ],
    "auction": false
   },
   {
@@ -634,7 +538,7 @@
    ],
    "location": "Praha - východ 250 70",
    "distance_km": 379,
-   "posted": "2026-11-12T12:00:00+00:00",
+   "posted": "2026-11-13T12:00:00+00:00",
    "first_seen": "2026-11-07T11:33:29+00:00",
    "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
    "photo_count": 2,
@@ -987,51 +891,6 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
-   "title": "Sony CDP-X333ES a CDP-X222ES",
-   "model": "CDP-X333ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 2,
-   "price": 100.0,
-   "currency": "CZK",
-   "price_eur": 4.1,
-   "reference_eur": 170.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": -3,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Frýdek - Místek 739 44",
-   "distance_km": 127,
-   "posted": "2026-10-24T12:00:00+00:00",
-   "first_seen": "2026-10-24T19:17:42+00:00",
-   "image": "https://www.bazos.cz/img/1t/329/225511329.jpg",
-   "photo_count": 1,
-   "photo_kind": "single",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Sold together with other items, price covers the set"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225973394/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
    "title": "SONY ESPRIT CDP-X222ES+DO",
    "model": "CDP-X222ES",
@@ -1133,6 +992,51 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
+   "title": "Sony CDP-X333ES a CDP-X222ES",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 100.0,
+   "currency": "CZK",
+   "price_eur": 4.1,
+   "reference_eur": 120.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": -3,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Frýdek - Místek 739 44",
+   "distance_km": 127,
+   "posted": "2026-10-24T12:00:00+00:00",
+   "first_seen": "2026-10-24T19:17:42+00:00",
+   "image": "https://www.bazos.cz/img/1t/329/225511329.jpg",
+   "photo_count": 1,
+   "photo_kind": "single",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [
+    "Sold together with other items, price covers the set"
+   ],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/197434101/kazetovy-radiomagnetofon-so-zarukou.php",
    "title": "Kazetový magnetofón so zárukou",
@@ -1181,106 +1085,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196432080/Zostava-YAMAHA-Hifi-domace-kino.php",
-   "title": "Zostava YAMAHA Hifi -domáce kino",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 590.0,
-   "currency": "EUR",
-   "price_eur": 590.0,
-   "reference_eur": 100.0,
-   "deal_pct": -490,
-   "deal_label": "Above market",
-   "score": -466,
-   "score_parts": [
-    [
-     "Price",
-     -490
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-10-12T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/080/196432080.jpg",
-   "photo_count": 6,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195728893/yamaha-kx-390-tape-deck-mint-excelent.php",
-   "title": "Yamaha KX-390 Tape Deck MINT / EXCELENT",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 1.0,
-   "currency": "EUR",
-   "price_eur": 1.0,
-   "reference_eur": 100.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 1,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 841 05",
-   "distance_km": 167,
-   "posted": "2026-09-20T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/893/195728893.jpg?t=1789911018",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Price looks unusually low, check the listing"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/197019545/yamaha-kx-393-cassette-deck.php",
    "title": "Yamaha KX 393 cassette deck",
    "model": "KX-390 / KX-393",
@@ -1320,7 +1124,7 @@
    "distance_km": 73,
    "posted": "2026-10-30T12:00:00+00:00",
    "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/545/197019545.jpg?t=1794134545",
+   "image": "https://www.bazos.sk/img/1t/545/197019545.jpg?t=1794566011",
    "photo_count": 3,
    "photo_kind": "own",
    "photo_reason": null,
@@ -1376,53 +1180,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226314230/deck-yamaha-kx-393.php",
-   "title": "Deck Yamaha KX-393",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 1400.0,
-   "currency": "CZK",
-   "price_eur": 57.43,
-   "reference_eur": 100.0,
-   "deal_pct": 43,
-   "deal_label": "Great price",
-   "score": 62,
-   "score_parts": [
-    [
-     "Price",
-     43
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Nový Jičín 742 73",
-   "distance_km": 116,
-   "posted": "2026-11-11T12:00:00+00:00",
-   "first_seen": "2026-11-11T23:21:02+00:00",
-   "image": "https://www.bazos.cz/img/1t/230/226314230.jpg",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1849,7 +1606,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-12T12:00:00+00:00",
+   "posted": "2026-11-13T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -2053,15 +1810,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 38,
-   "failed": 0,
-   "found": 21
+   "ok": 35,
+   "failed": 3,
+   "found": 20
   },
   {
    "name": "Bazoš.cz",
    "ok": 36,
    "failed": 2,
-   "found": 21
+   "found": 17
   },
   {
    "name": "Kleinanzeigen",
