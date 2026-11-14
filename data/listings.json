@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T22:24:25+00:00",
+ "generated": "2026-11-14T11:57:34+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -287,7 +287,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-13T12:00:00+00:00",
+   "posted": "2026-11-14T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794513981",
    "photo_count": 16,
@@ -400,7 +400,7 @@
   {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224740820/marantz-pm8006-v-zaruce.php",
-   "title": "MARANTZ PM8006 V ZÁRUCE",
+   "title": "MARANTZ PM8006 xx REZERVACE xx",
    "model": "PM8006",
    "brand": "Marantz",
    "category": "Amplifier",
@@ -434,7 +434,7 @@
    "distance_km": 461,
    "posted": "2026-10-06T12:00:00+00:00",
    "first_seen": "2026-10-07T16:39:36+00:00",
-   "image": "https://www.bazos.cz/img/1t/820/224740820.jpg",
+   "image": "https://www.bazos.cz/img/1t/820/224740820.jpg?t=1794643831",
    "photo_count": 13,
    "photo_kind": "own",
    "photo_reason": null,
@@ -634,7 +634,7 @@
    ],
    "location": "Praha - východ 250 70",
    "distance_km": 379,
-   "posted": "2026-11-13T12:00:00+00:00",
+   "posted": "2026-11-14T12:00:00+00:00",
    "first_seen": "2026-11-07T11:33:29+00:00",
    "image": "https://www.bazos.cz/img/1t/574/226113574.jpg?t=1794049202",
    "photo_count": 2,
@@ -935,6 +935,59 @@
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226410719/denon-pma-1600ne.php",
+   "title": "Denon PMA-1600NE",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": null,
+   "currency": "CZK",
+   "price_eur": null,
+   "reference_eur": 750.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": 7,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     3
+    ]
+   ],
+   "location": "Brno 621 00",
+   "distance_km": 196,
+   "posted": "2026-11-14T12:00:00+00:00",
+   "first_seen": "2026-11-14T11:57:34+00:00",
+   "image": "https://www.bazos.cz/img/1t/719/226410719.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
    ],
    "auction": false
   },
@@ -1281,57 +1334,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197019545/yamaha-kx-393-cassette-deck.php",
-   "title": "Yamaha KX 393 cassette deck",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 47.0,
-   "currency": "EUR",
-   "price_eur": 47.0,
-   "reference_eur": 100.0,
-   "deal_pct": 53,
-   "deal_label": "Great price",
-   "score": 83,
-   "score_parts": [
-    [
-     "Price",
-     53
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Tvrdošín 027 44",
-   "distance_km": 73,
-   "posted": "2026-10-30T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/545/197019545.jpg?t=1794566011",
-   "photo_count": 3,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 3,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196591190/yamaha-receiver-rx-496rds-deck-kx-393-cdx-396.php",
    "title": "YAMAHA (Receiver RX-496RDS + Deck KX-393 + CDX-396)",
    "model": "KX-390 / KX-393",
@@ -1626,6 +1628,53 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2-MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -481,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://hudba.bazos.sk/inzerat/197013851/technics-sl-1200-mk7-limited.php",
    "title": "Technics sl 1200 mk7 limited",
    "model": "SL-1200/1210 MK7",
@@ -1755,7 +1804,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-13T12:00:00+00:00",
+   "posted": "2026-11-14T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -1907,67 +1956,20 @@
    "price_drop_eur": 3,
    "notes": [],
    "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
-   "title": "2 x TECHNICS SL-1210 MK5",
-   "model": "SL-1200/1210 MK2-MK6",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 3000.0,
-   "currency": "EUR",
-   "price_eur": 3000.0,
-   "reference_eur": 500.0,
-   "deal_pct": -500,
-   "deal_label": "Above market",
-   "score": -481,
-   "score_parts": [
-    [
-     "Price",
-     -500
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Galanta 925 01",
-   "distance_km": 122,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 36,
-   "failed": 2,
-   "found": 21
+   "ok": 38,
+   "failed": 0,
+   "found": 20
   },
   {
    "name": "Bazoš.cz",
    "ok": 38,
    "failed": 0,
-   "found": 19
+   "found": 20
   },
   {
    "name": "Kleinanzeigen",
