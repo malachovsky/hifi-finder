@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T12:32:36+00:00",
+ "generated": "2026-11-15T21:29:31+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -1032,6 +1032,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226471425/spickovy-cd-prehravac-sony-cdp-x222es-top-stav.php",
+   "title": "Špičkový CD přehrávač Sony CDP-X222ES – TOP stav",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 7000.0,
+   "currency": "CZK",
+   "price_eur": 286.6,
+   "reference_eur": 120.0,
+   "deal_pct": -139,
+   "deal_label": "Above market",
+   "score": -145,
+   "score_parts": [
+    [
+     "Price",
+     -139
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     4
+    ]
+   ],
+   "location": "Břeclav 693 01",
+   "distance_km": 177,
+   "posted": "2026-11-15T12:00:00+00:00",
+   "first_seen": "2026-11-15T21:29:31+00:00",
+   "image": "https://www.bazos.cz/img/1t/425/226471425.jpg",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225973394/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
    "title": "SONY ESPRIT CDP-X222ES+DO",
    "model": "CDP-X222ES",
@@ -1128,6 +1175,49 @@
    "photo_reason": null,
    "remote": "no",
    "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "VintageHifi.cz",
+   "url": "https://www.vintagehifi.cz/sony-cdp-x222es",
+   "title": "Sony CDP-X222ES",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 7000.0,
+   "currency": "CZK",
+   "price_eur": 286.6,
+   "reference_eur": 120.0,
+   "deal_pct": -139,
+   "deal_label": "Above market",
+   "score": -149,
+   "score_parts": [
+    [
+     "Price",
+     -139
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ]
+   ],
+   "location": "E-shop (shipping)",
+   "distance_km": null,
+   "posted": null,
+   "first_seen": "2026-11-15T21:29:31+00:00",
+   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_375_01.webp",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1474,7 +1564,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1955,15 +2045,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 36,
-   "failed": 2,
+   "ok": 38,
+   "failed": 0,
    "found": 20
   },
   {
    "name": "Bazoš.cz",
-   "ok": 37,
-   "failed": 1,
-   "found": 20
+   "ok": 38,
+   "failed": 0,
+   "found": 21
   },
   {
    "name": "Kleinanzeigen",
@@ -1975,7 +2065,7 @@
    "name": "VintageHifi.cz",
    "ok": 38,
    "failed": 0,
-   "found": 0
+   "found": 1
   }
  ],
  "models": [
