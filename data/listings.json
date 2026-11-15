@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:09:02+00:00",
+ "generated": "2026-11-15T12:32:36+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -287,7 +287,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-14T12:00:00+00:00",
+   "posted": "2026-11-15T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794513981",
    "photo_count": 16,
@@ -940,59 +940,6 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226410719/denon-pma-1600ne.php",
-   "title": "Denon PMA-1600NE",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": null,
-   "currency": "CZK",
-   "price_eur": null,
-   "reference_eur": 750.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 7,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     3
-    ]
-   ],
-   "location": "Brno 621 00",
-   "distance_km": 196,
-   "posted": "2026-11-14T12:00:00+00:00",
-   "first_seen": "2026-11-14T11:57:34+00:00",
-   "image": "https://www.bazos.cz/img/1t/719/226410719.jpg",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
    "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
    "model": "PMA-1600NE",
@@ -1482,6 +1429,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226453413/yamaha-kx-580-dolby-s.php",
+   "title": "YAMAHA KX 580 dolby S",
+   "model": "KX-580",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 1,
+   "price": 7499.0,
+   "currency": "CZK",
+   "price_eur": 307.03,
+   "reference_eur": 150.0,
+   "deal_pct": -105,
+   "deal_label": "Above market",
+   "score": -72,
+   "score_parts": [
+    [
+     "Price",
+     -105
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Ostrava 700 30",
+   "distance_km": 135,
+   "posted": "2026-11-15T12:00:00+00:00",
+   "first_seen": "2026-11-15T12:32:36+00:00",
+   "image": "https://www.bazos.cz/img/1t/413/226453413.jpg",
+   "photo_count": 10,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196784444/cassette-deck-denon-drs-810-sampan-champagne.php",
    "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
@@ -1753,7 +1751,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-14T12:00:00+00:00",
+   "posted": "2026-11-15T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -1948,7 +1946,7 @@
    "photo_kind": "stock",
    "photo_reason": "Clean studio background, professional lighting, manufacturer image",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1957,14 +1955,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 38,
-   "failed": 0,
+   "ok": 36,
+   "failed": 2,
    "found": 20
   },
   {
    "name": "Bazoš.cz",
-   "ok": 36,
-   "failed": 2,
+   "ok": 37,
+   "failed": 1,
    "found": 20
   },
   {
