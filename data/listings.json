@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T00:40:26+00:00",
+ "generated": "2026-11-17T14:10:05+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -62,6 +62,106 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226551957/sony-ta-f670es-stereo-integrated-amplifier.php",
+   "title": "SONY TA-F670ES Stereo Integrated Amplifier",
+   "model": "TA-F670ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 1,
+   "price": 9800.0,
+   "currency": "CZK",
+   "price_eur": 401.18,
+   "reference_eur": 550.0,
+   "deal_pct": 27,
+   "deal_label": "Great price",
+   "score": 37,
+   "score_parts": [
+    [
+     "Price",
+     27
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -8
+    ]
+   ],
+   "location": "Praha 8 181 00",
+   "distance_km": 375,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.cz/img/1t/957/226551957.jpg?t=1794905751",
+   "photo_count": 16,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197613075/sony-es.php",
+   "title": "Sony es",
+   "model": "TA-FA50ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 450.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": 9,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 850 00",
+   "distance_km": 165,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.sk/img/1t/075/197613075.jpg?t=1794910520",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
+   ],
    "auction": false
   },
   {
@@ -301,6 +401,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226558595/marantz-pm8006-stereo-zesilovac.php",
+   "title": "Marantz PM8006 - Stereo zesilovač",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 23000.0,
+   "currency": "CZK",
+   "price_eur": 941.54,
+   "reference_eur": 600.0,
+   "deal_pct": -57,
+   "deal_label": "Above market",
+   "score": -53,
+   "score_parts": [
+    [
+     "Price",
+     -57
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Praha 8 184 00",
+   "distance_km": 374,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.cz/img/1t/595/226558595.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226217890/marantz-pm8006-stereo-amplifier-dalkovy.php",
    "title": "MARANTZ PM8006 STEREO AMPLIFIER + DALKOVY",
    "model": "PM8006",
@@ -345,53 +492,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225816007/marantz-pm8006-stereo-zesilovac.php",
-   "title": "Marantz PM8006 - Stereo zesilovač",
-   "model": "PM8006",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 23000.0,
-   "currency": "CZK",
-   "price_eur": 941.54,
-   "reference_eur": 600.0,
-   "deal_pct": -57,
-   "deal_label": "Above market",
-   "score": -53,
-   "score_parts": [
-    [
-     "Price",
-     -57
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -7
-    ]
-   ],
-   "location": "Praha 8 184 00",
-   "distance_km": 374,
-   "posted": "2026-10-31T12:00:00+00:00",
-   "first_seen": "2026-10-31T20:24:28+00:00",
-   "image": "https://www.bazos.cz/img/1t/007/225816007.jpg?t=1794484063",
-   "photo_count": 8,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1028,6 +1128,53 @@
    "notes": [
     "Sold together with other items, price covers the set"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226556185/sony-cdp-x222es-legenda-zlate-ery-hi-fi-trida-zaruka-6m.php",
+   "title": "Sony CDP-X222ES Legenda zlaté éry Hi-Fi třída – Záruka 6M",
+   "model": "CDP-X222ES",
+   "brand": "Sony",
+   "category": "CD player",
+   "tier": 2,
+   "price": 8990.0,
+   "currency": "CZK",
+   "price_eur": 368.02,
+   "reference_eur": 120.0,
+   "deal_pct": -207,
+   "deal_label": "Above market",
+   "score": -197,
+   "score_parts": [
+    [
+     "Price",
+     -207
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -1
+    ]
+   ],
+   "location": "Jihlava 588 32",
+   "distance_km": 262,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.cz/img/1t/185/226556185.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -2047,13 +2194,13 @@
    "name": "Bazoš.sk",
    "ok": 38,
    "failed": 0,
-   "found": 20
+   "found": 21
   },
   {
    "name": "Bazoš.cz",
    "ok": 38,
    "failed": 0,
-   "found": 21
+   "found": 23
   },
   {
    "name": "Kleinanzeigen",
