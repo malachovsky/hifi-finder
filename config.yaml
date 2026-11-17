@@ -78,14 +78,14 @@ models:
   - id: TA-F770ES
     brand: Sony
     category: Amplifier
-    tier: 1
+    tier: 2
     reference_eur: 700
     aliases: [TA-F770ES, F770ES]
     queries: [TA-F770ES, F770ES]
   - id: TA-F670ES
     brand: Sony
     category: Amplifier
-    tier: 1
+    tier: 2
     reference_eur: 550
     aliases: [TA-F670ES, F670ES]
     queries: [TA-F670ES, F670ES]
@@ -282,14 +282,22 @@ models:
 
   # ---- Turntables (DJ only: the hi-fi SL-1200G/GR/GAE are not matched) ----
   # Aliases list every DJ mark, so a bare "SL-1200" title (model unknown) is skipped.
-  - id: SL-1200/1210 MK2-MK6
+  - id: SL-1200/1210 MK2/MK3/MK5
+    brand: Technics
+    category: Turntable
+    tier: 1
+    reference_eur: 500
+    remote_exists: false
+    aliases: [SL-1200MK2, Technics 1200MK2, SL-1200MK3, Technics 1200MK3, SL-1200MK5, Technics 1200MK5, SL-1200MK5G, Technics 1200MK5G, SL-1200M5G, Technics 1200M5G, SL-1210MK2, Technics 1210MK2, SL-1210MK3, Technics 1210MK3, SL-1210MK5, Technics 1210MK5, SL-1210MK5G, Technics 1210MK5G, SL-1210M5G, Technics 1210M5G]
+    queries: [Technics SL-1210, Technics SL-1200, Technics 1210]
+  - id: SL-1200/1210 MK3D/MK4/MK6
     brand: Technics
     category: Turntable
     tier: 2
     reference_eur: 500
     remote_exists: false
-    aliases: [SL-1200MK2, Technics 1200MK2, SL-1200MK3, Technics 1200MK3, SL-1200MK3D, Technics 1200MK3D, SL-1200M3D, Technics 1200M3D, SL-1200MK4, Technics 1200MK4, SL-1200MK5, Technics 1200MK5, SL-1200MK5G, Technics 1200MK5G, SL-1200M5G, Technics 1200M5G, SL-1200MK6, Technics 1200MK6, SL-1200LTD, Technics 1200LTD, SL-1210MK2, Technics 1210MK2, SL-1210MK3, Technics 1210MK3, SL-1210MK3D, Technics 1210MK3D, SL-1210M3D, Technics 1210M3D, SL-1210MK4, Technics 1210MK4, SL-1210MK5, Technics 1210MK5, SL-1210MK5G, Technics 1210MK5G, SL-1210M5G, Technics 1210M5G, SL-1210MK6, Technics 1210MK6, SL-1210LTD, Technics 1210LTD]
-    queries: [Technics SL-1210, Technics SL-1200, Technics 1210]
+    aliases: [SL-1200MK3D, Technics 1200MK3D, SL-1200M3D, Technics 1200M3D, SL-1200MK4, Technics 1200MK4, SL-1200MK6, Technics 1200MK6, SL-1200LTD, Technics 1200LTD, SL-1210MK3D, Technics 1210MK3D, SL-1210M3D, Technics 1210M3D, SL-1210MK4, Technics 1210MK4, SL-1210MK6, Technics 1210MK6, SL-1210LTD, Technics 1210LTD]  # MK3D beats MK3: longer alias wins
+    queries: [Technics MK6]
   - id: SL-1200/1210 MK7
     brand: Technics
     category: Turntable
