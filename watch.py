@@ -583,9 +583,12 @@ def build_matchers(models):
 def match_models(text: str, matchers) -> list[dict]:
     c = compact(text)
     found: list[dict] = []
-    for key, model in matchers:
-        if key in c and all(model["id"] != f["id"] for f in found):
+    keys: list[str] = []
+    for key, model in matchers:  # longest first, so "pm7000" is skipped when "pm7000n" matched
+        if key in c and not any(key in k for k in keys) and all(model["id"] != f["id"] for f in found):
             found.append(model)
+        if key in c:
+            keys.append(key)
     return found
 
 
