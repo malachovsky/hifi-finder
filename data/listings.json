@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T21:13:50+00:00",
+ "generated": "2026-11-17T23:46:07+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -387,7 +387,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-17T12:00:00+00:00",
+   "posted": "2026-11-18T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794513981",
    "photo_count": 16,
@@ -741,7 +741,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -792,7 +792,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1131,7 +1131,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1178,7 +1178,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
@@ -1231,7 +1231,7 @@
    "photo_kind": "stock",
    "photo_reason": "Professional studio lighting, clean white background, perfect reflection",
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
@@ -2141,7 +2141,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-17T12:00:00+00:00",
+   "posted": "2026-11-18T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -2351,8 +2351,8 @@
   },
   {
    "name": "Bazoš.cz",
-   "ok": 43,
-   "failed": 0,
+   "ok": 41,
+   "failed": 2,
    "found": 24
   },
   {
