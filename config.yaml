@@ -166,35 +166,35 @@ models:
   - id: PMA-900HNE
     brand: Denon
     category: Amplifier
-    tier: 3
+    tier: 1
     reference_eur: 450
     aliases: [PMA-900HNE, PMA900HNE]
     queries: [PMA-900HNE]
   - id: R-N803D
     brand: Yamaha
     category: Amplifier
-    tier: 2
+    tier: 1
     reference_eur: 500
     aliases: [R-N803D, RN803D]
     queries: [Yamaha R-N803D]
   - id: DRA-800H
     brand: Denon
     category: Amplifier
-    tier: 2
+    tier: 1
     reference_eur: 400
     aliases: [DRA-800H, DRA800H]
     queries: [Denon DRA-800H]
   - id: PM7000N
     brand: Marantz
     category: Amplifier
-    tier: 2
+    tier: 1
     reference_eur: 450
     aliases: [PM7000N, PM-7000N]
     queries: [Marantz PM7000N]
   - id: AXR100
     brand: Cambridge Audio
     category: Amplifier
-    tier: 2
+    tier: 1
     reference_eur: 400
     aliases: [AXR100, AXR-100]
     queries: [Cambridge AXR100]
