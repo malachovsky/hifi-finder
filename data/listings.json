@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T13:41:41+00:00",
+ "generated": "2026-11-18T23:18:20+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -59,7 +59,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -74,7 +74,7 @@
    "tier": 2,
    "price": 9800.0,
    "currency": "CZK",
-   "price_eur": 401.85,
+   "price_eur": 401.87,
    "reference_eur": 550.0,
    "deal_pct": 27,
    "deal_label": "Great price",
@@ -217,6 +217,57 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196209540/sony-ta-fa30es-spickovy-zosilnovac-zo-serie-es-bez-do.php",
+   "title": "Sony TA-FA30ES – špičkový zosilňovač zo série ES (bez DO",
+   "model": "TA-FA30ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 335.0,
+   "currency": "EUR",
+   "price_eur": 335.0,
+   "reference_eur": 370.0,
+   "deal_pct": 9,
+   "deal_label": "Good price",
+   "score": 23,
+   "score_parts": [
+    [
+     "Price",
+     9
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "No remote",
+     -8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Levice 934 05",
+   "distance_km": 71,
+   "posted": "2026-10-05T12:00:00+00:00",
+   "first_seen": "2026-10-07T16:39:36+00:00",
+   "image": "https://www.bazos.sk/img/1t/540/196209540.jpg?t=1794251703",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "no",
+   "is_new": false,
+   "price_drop_eur": 15,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196865833/sony-ta-f630esd-esprit.php",
    "title": "High-end zosilnovac Sony TA-F630ESD",
    "model": "TA-F630ESD",
@@ -336,7 +387,7 @@
    ],
    "location": "Martin 038 61",
    "distance_km": 45,
-   "posted": "2026-11-18T12:00:00+00:00",
+   "posted": "2026-11-19T12:00:00+00:00",
    "first_seen": "2026-11-08T11:45:51+00:00",
    "image": "https://www.bazos.sk/img/1t/068/197286068.jpg?t=1794513981",
    "photo_count": 16,
@@ -358,7 +409,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 943.13,
+   "price_eur": 943.16,
    "reference_eur": 600.0,
    "deal_pct": -57,
    "deal_label": "Above market",
@@ -405,7 +456,7 @@
    "tier": 2,
    "price": 25999.0,
    "currency": "CZK",
-   "price_eur": 1066.1,
+   "price_eur": 1066.14,
    "reference_eur": 600.0,
    "deal_pct": -78,
    "deal_label": "Above market",
@@ -499,57 +550,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197294336/marantz-pm7000n-canton-ergo-609-dc.php",
-   "title": "Marantz PM7000N + Canton Ergo 609 DC",
-   "model": "PM7000N",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 1,
-   "price": 1099.0,
-   "currency": "EUR",
-   "price_eur": 1099.0,
-   "reference_eur": 450.0,
-   "deal_pct": -144,
-   "deal_label": "Above market",
-   "score": -113,
-   "score_parts": [
-    [
-     "Price",
-     -144
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 851 01",
-   "distance_km": 165,
-   "posted": "2026-11-08T12:00:00+00:00",
-   "first_seen": "2026-11-08T11:45:51+00:00",
-   "image": "https://www.bazos.sk/img/1t/336/197294336.jpg",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
    "title": "MARANTZ PM7000N silver",
    "model": "PM7000N",
@@ -609,7 +609,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 492.07,
+   "price_eur": 492.09,
    "reference_eur": 450.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -656,7 +656,7 @@
    "tier": 2,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 369.05,
+   "price_eur": 369.06,
    "reference_eur": 300.0,
    "deal_pct": -23,
    "deal_label": "Above market",
@@ -707,7 +707,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 364.95,
+   "price_eur": 364.96,
    "reference_eur": 300.0,
    "deal_pct": -22,
    "deal_label": "Above market",
@@ -807,7 +807,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 328.04,
+   "price_eur": 328.06,
    "reference_eur": 300.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -944,6 +944,57 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226623657/denon-pma-1600ne.php",
+   "title": "DENON PMA-1600NE",
+   "model": "PMA-1600NE",
+   "brand": "Denon",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 17500.0,
+   "currency": "CZK",
+   "price_eur": 717.62,
+   "reference_eur": 750.0,
+   "deal_pct": 4,
+   "deal_label": "Fair price",
+   "score": 32,
+   "score_parts": [
+    [
+     "Price",
+     4
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     9
+    ]
+   ],
+   "location": "Frýdek - Místek 739 94",
+   "distance_km": 108,
+   "posted": "2026-11-18T12:00:00+00:00",
+   "first_seen": "2026-11-18T23:18:20+00:00",
+   "image": "https://www.bazos.cz/img/1t/657/226623657.jpg",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
    "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
    "model": "PMA-1600NE",
@@ -952,7 +1003,7 @@
    "tier": 2,
    "price": 18900.0,
    "currency": "CZK",
-   "price_eur": 775.0,
+   "price_eur": 775.03,
    "reference_eur": 750.0,
    "deal_pct": -3,
    "deal_label": "Fair price",
@@ -999,7 +1050,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 492.07,
+   "price_eur": 492.09,
    "reference_eur": 500.0,
    "deal_pct": 2,
    "deal_label": "Fair price",
@@ -1093,17 +1144,17 @@
    "brand": "Denon",
    "category": "Amplifier",
    "tier": 1,
-   "price": 420.0,
+   "price": 380.0,
    "currency": "EUR",
-   "price_eur": 420.0,
+   "price_eur": 380.0,
    "reference_eur": 400.0,
-   "deal_pct": -5,
-   "deal_label": "Fair price",
-   "score": 12,
+   "deal_pct": 5,
+   "deal_label": "Good price",
+   "score": 22,
    "score_parts": [
     [
      "Price",
-     -5
+     5
     ],
     [
      "Wish list",
@@ -1126,13 +1177,13 @@
    "distance_km": 54,
    "posted": "2026-11-03T12:00:00+00:00",
    "first_seen": "2026-11-17T21:13:50+00:00",
-   "image": "https://www.bazos.sk/img/1t/480/197149480.jpg?t=1794763639",
+   "image": "https://www.bazos.sk/img/1t/480/197149480.jpg?t=1795038056",
    "photo_count": 19,
    "photo_kind": "stock",
    "photo_reason": "Professional studio lighting, clean white background, perfect reflection",
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 40,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -1193,7 +1244,7 @@
    "tier": 2,
    "price": 8990.0,
    "currency": "CZK",
-   "price_eur": 368.64,
+   "price_eur": 368.65,
    "reference_eur": 120.0,
    "deal_pct": -207,
    "deal_label": "Above market",
@@ -1232,53 +1283,6 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226471425/spickovy-cd-prehravac-sony-cdp-x222es-top-stav.php",
-   "title": "Špičkový CD přehrávač Sony CDP-X222ES – TOP stav",
-   "model": "CDP-X222ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 2,
-   "price": 7000.0,
-   "currency": "CZK",
-   "price_eur": 287.04,
-   "reference_eur": 120.0,
-   "deal_pct": -139,
-   "deal_label": "Above market",
-   "score": -145,
-   "score_parts": [
-    [
-     "Price",
-     -139
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     4
-    ]
-   ],
-   "location": "Břeclav 693 01",
-   "distance_km": 177,
-   "posted": "2026-11-15T12:00:00+00:00",
-   "first_seen": "2026-11-15T21:29:31+00:00",
-   "image": "https://www.bazos.cz/img/1t/425/226471425.jpg",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225973394/sony-esprit-sestava-ta-f730escdp-x222esdost-s730es.php",
    "title": "SONY ESPRIT CDP-X222ES+DO",
    "model": "CDP-X222ES",
@@ -1287,7 +1291,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 245.62,
+   "price_eur": 245.63,
    "reference_eur": 120.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1338,7 +1342,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 348.55,
+   "price_eur": 348.56,
    "reference_eur": 120.0,
    "deal_pct": -190,
    "deal_label": "Above market",
@@ -1374,49 +1378,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/sony-cdp-x222es",
-   "title": "Sony CDP-X222ES",
-   "model": "CDP-X222ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 2,
-   "price": 7000.0,
-   "currency": "CZK",
-   "price_eur": 287.04,
-   "reference_eur": 120.0,
-   "deal_pct": -139,
-   "deal_label": "Above market",
-   "score": -149,
-   "score_parts": [
-    [
-     "Price",
-     -139
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ]
-   ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-11-15T21:29:31+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_375_01.webp",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1630,7 +1591,7 @@
    "tier": 2,
    "price": 2490.0,
    "currency": "CZK",
-   "price_eur": 102.1,
+   "price_eur": 102.11,
    "reference_eur": 100.0,
    "deal_pct": -2,
    "deal_label": "Fair price",
@@ -1668,6 +1629,57 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197228012/yamaha-51-domace-kino-a-hifi-receiver-cd-kazetovy-deck.php",
+   "title": "YAMAHA 5.1 domáce kino a HiFi – receiver, CD, kazetový deck",
+   "model": "KX-490 / KX-493",
+   "brand": "Yamaha",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 420.0,
+   "currency": "EUR",
+   "price_eur": 420.0,
+   "reference_eur": 120.0,
+   "deal_pct": -250,
+   "deal_label": "Above market",
+   "score": -219,
+   "score_parts": [
+    [
+     "Price",
+     -250
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     12
+    ]
+   ],
+   "location": "Martin 038 61",
+   "distance_km": 45,
+   "posted": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/012/197228012.jpg",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226453413/yamaha-kx-580-dolby-s.php",
    "title": "YAMAHA KX 580 dolby S",
@@ -1677,7 +1689,7 @@
    "tier": 1,
    "price": 7499.0,
    "currency": "CZK",
-   "price_eur": 307.5,
+   "price_eur": 307.51,
    "reference_eur": 150.0,
    "deal_pct": -105,
    "deal_label": "Above market",
@@ -1775,7 +1787,7 @@
    "tier": 2,
    "price": 12999.0,
    "currency": "CZK",
-   "price_eur": 533.03,
+   "price_eur": 533.05,
    "reference_eur": 250.0,
    "deal_pct": -113,
    "deal_label": "Above market",
@@ -1965,7 +1977,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1845.25,
+   "price_eur": 1845.32,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -1990,7 +2002,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-18T12:00:00+00:00",
+   "posted": "2026-11-19T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -1998,6 +2010,53 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226623887/gramofony-technics-sl1200mk7.php",
+   "title": "Gramofony Technics SL1200MK7",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 44000.0,
+   "currency": "CZK",
+   "price_eur": 1804.31,
+   "reference_eur": 750.0,
+   "deal_pct": -141,
+   "deal_label": "Above market",
+   "score": -123,
+   "score_parts": [
+    [
+     "Price",
+     -141
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     7
+    ]
+   ],
+   "location": "Karviná 736 01",
+   "distance_km": 126,
+   "posted": "2026-11-18T12:00:00+00:00",
+   "first_seen": "2026-11-18T23:18:20+00:00",
+   "image": "https://www.bazos.cz/img/1t/887/226623887.jpg?t=1795019513",
+   "photo_count": 2,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2012,15 +2071,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7586.01,
+   "price_eur": 7586.32,
    "reference_eur": 750.0,
-   "deal_pct": -911,
+   "deal_pct": -912,
    "deal_label": "Above market",
-   "score": -907,
+   "score": -908,
    "score_parts": [
     [
      "Price",
-     -911
+     -912
     ],
     [
      "Wish list",
@@ -2059,7 +2118,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1841.14,
+   "price_eur": 1841.22,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -2106,7 +2165,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1845.25,
+   "price_eur": 1845.32,
    "reference_eur": 750.0,
    "deal_pct": -146,
    "deal_label": "Above market",
@@ -2142,20 +2201,67 @@
    "price_drop_eur": null,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/225994988/gramofon-technics-primy-nahon-rozbaleny.php",
+   "title": "Gramofon technics přímý náhon rozbalený sl 1210 mk7",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 21000.0,
+   "currency": "CZK",
+   "price_eur": 861.15,
+   "reference_eur": 750.0,
+   "deal_pct": -15,
+   "deal_label": "Fair price",
+   "score": -32,
+   "score_parts": [
+    [
+     "Price",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Mladá Boleslav 294 79",
+   "distance_km": 367,
+   "posted": "2026-11-04T12:00:00+00:00",
+   "first_seen": "2026-11-14T21:09:02+00:00",
+   "image": "https://www.bazos.cz/img/1t/988/225994988.jpg?t=1794659991",
+   "photo_count": 3,
+   "photo_kind": "stock",
+   "photo_reason": "Clean studio background, professional lighting, manufacturer image",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 41,
-   "failed": 2,
-   "found": 21
+   "ok": 43,
+   "failed": 0,
+   "found": 22
   },
   {
    "name": "Bazoš.cz",
-   "ok": 41,
-   "failed": 2,
-   "found": 22
+   "ok": 39,
+   "failed": 4,
+   "found": 24
   },
   {
    "name": "Kleinanzeigen",
@@ -2167,7 +2273,7 @@
    "name": "VintageHifi.cz",
    "ok": 43,
    "failed": 0,
-   "found": 1
+   "found": 0
   }
  ],
  "models": [
