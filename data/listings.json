@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T23:18:20+00:00",
+ "generated": "2026-11-19T14:10:31+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -505,17 +505,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 1,
-   "price": 540.0,
+   "price": 499.0,
    "currency": "EUR",
-   "price_eur": 540.0,
+   "price_eur": 499.0,
    "reference_eur": 450.0,
-   "deal_pct": -20,
-   "deal_label": "Above market",
-   "score": 2,
+   "deal_pct": -11,
+   "deal_label": "Fair price",
+   "score": 11,
    "score_parts": [
     [
      "Price",
-     -20
+     -11
     ],
     [
      "Wish list",
@@ -538,13 +538,13 @@
    "distance_km": 52,
    "posted": "2026-11-13T12:00:00+00:00",
    "first_seen": "2026-11-13T12:54:05+00:00",
-   "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1794555047",
+   "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795092704",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "no",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 41,
    "notes": [],
    "auction": false
   },
@@ -556,17 +556,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 1,
-   "price": 649.0,
+   "price": 530.0,
    "currency": "EUR",
-   "price_eur": 649.0,
+   "price_eur": 530.0,
    "reference_eur": 450.0,
-   "deal_pct": -44,
+   "deal_pct": -18,
    "deal_label": "Above market",
-   "score": -5,
+   "score": 21,
    "score_parts": [
     [
      "Price",
-     -44
+     -18
     ],
     [
      "Wish list",
@@ -589,13 +589,13 @@
    "distance_km": 40,
    "posted": "2026-10-26T12:00:00+00:00",
    "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1793016972",
+   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1795074806",
    "photo_count": 2,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 119,
    "notes": [],
    "auction": false
   },
@@ -950,17 +950,17 @@
    "brand": "Denon",
    "category": "Amplifier",
    "tier": 2,
-   "price": 17500.0,
+   "price": 16000.0,
    "currency": "CZK",
-   "price_eur": 717.62,
+   "price_eur": 656.11,
    "reference_eur": 750.0,
-   "deal_pct": 4,
-   "deal_label": "Fair price",
-   "score": 32,
+   "deal_pct": 13,
+   "deal_label": "Good price",
+   "score": 41,
    "score_parts": [
     [
      "Price",
-     4
+     13
     ],
     [
      "Wish list",
@@ -983,13 +983,13 @@
    "distance_km": 108,
    "posted": "2026-11-18T12:00:00+00:00",
    "first_seen": "2026-11-18T23:18:20+00:00",
-   "image": "https://www.bazos.cz/img/1t/657/226623657.jpg",
+   "image": "https://www.bazos.cz/img/1t/657/226623657.jpg?t=1795097342",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": true,
-   "price_drop_eur": null,
+   "is_new": false,
+   "price_drop_eur": 62,
    "notes": [],
    "auction": false
   },
@@ -1482,106 +1482,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/195728893/yamaha-kx-390-tape-deck-mint-excelent.php",
-   "title": "Yamaha KX-390 Tape Deck MINT / EXCELENT",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 1.0,
-   "currency": "EUR",
-   "price_eur": 1.0,
-   "reference_eur": 100.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 1,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 841 05",
-   "distance_km": 167,
-   "posted": "2026-09-20T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/893/195728893.jpg?t=1789911018",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Price looks unusually low, check the listing"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196591190/yamaha-receiver-rx-496rds-deck-kx-393-cdx-396.php",
-   "title": "YAMAHA (Receiver RX-496RDS + Deck KX-393 + CDX-396)",
-   "model": "KX-390 / KX-393",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 280.0,
-   "currency": "EUR",
-   "price_eur": 280.0,
-   "reference_eur": 100.0,
-   "deal_pct": -180,
-   "deal_label": "Above market",
-   "score": -151,
-   "score_parts": [
-    [
-     "Price",
-     -180
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     10
-    ]
-   ],
-   "location": "Nitra 949 01",
-   "distance_km": 91,
-   "posted": "2026-10-24T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/190/196591190.jpg?t=1792240934",
-   "photo_count": 11,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226178472/yamaha-kx-393-stereo-cassette-deck.php",
    "title": "Yamaha KX-393 – Stereo Cassette Deck",
@@ -1826,53 +1726,6 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
-   "title": "2 x TECHNICS SL-1210 MK5",
-   "model": "SL-1200/1210 MK2/MK3/MK5",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 1,
-   "price": 3000.0,
-   "currency": "EUR",
-   "price_eur": 3000.0,
-   "reference_eur": 500.0,
-   "deal_pct": -500,
-   "deal_label": "Above market",
-   "score": -474,
-   "score_parts": [
-    [
-     "Price",
-     -500
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Galanta 925 01",
-   "distance_km": 122,
-   "posted": "2026-10-22T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
    "url": "https://hudba.bazos.sk/inzerat/197013851/technics-sl-1200-mk7-limited.php",
    "title": "Technics sl 1200 mk7 limited",
    "model": "SL-1200/1210 MK7",
@@ -2056,7 +1909,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -2203,6 +2056,53 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196763210/2-x-technics-sl-1210-mk5.php",
+   "title": "2 x TECHNICS SL-1210 MK5",
+   "model": "SL-1200/1210 MK2/MK3/MK5",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 1,
+   "price": 3000.0,
+   "currency": "EUR",
+   "price_eur": 3000.0,
+   "reference_eur": 500.0,
+   "deal_pct": -500,
+   "deal_label": "Above market",
+   "score": -474,
+   "score_parts": [
+    [
+     "Price",
+     -500
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Galanta 925 01",
+   "distance_km": 122,
+   "posted": "2026-10-22T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/210/196763210.jpg?t=1793466496",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225994988/gramofon-technics-primy-nahon-rozbaleny.php",
    "title": "Gramofon technics přímý náhon rozbalený sl 1210 mk7",
@@ -2253,20 +2153,20 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 43,
-   "failed": 0,
-   "found": 22
+   "ok": 42,
+   "failed": 1,
+   "found": 20
   },
   {
    "name": "Bazoš.cz",
-   "ok": 39,
-   "failed": 4,
+   "ok": 43,
+   "failed": 0,
    "found": 24
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 43,
-   "failed": 0,
+   "ok": 42,
+   "failed": 1,
    "found": 0
   },
   {
