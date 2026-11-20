@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:52:07+00:00",
+ "generated": "2026-11-20T22:58:51+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -74,7 +74,7 @@
    "tier": 2,
    "price": 9800.0,
    "currency": "CZK",
-   "price_eur": 401.2,
+   "price_eur": 400.51,
    "reference_eur": 550.0,
    "deal_pct": 27,
    "deal_label": "Great price",
@@ -109,6 +109,59 @@
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197613075/sony-es.php",
+   "title": "Sony es",
+   "model": "TA-FA50ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 450.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": 9,
+   "score_parts": [
+    [
+     "Price unknown",
+     -15
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
+    ]
+   ],
+   "location": "Bratislava 850 00",
+   "distance_km": 165,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.sk/img/1t/075/197613075.jpg?t=1794910520",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [
+    "No price given"
+   ],
    "auction": false
   },
   {
@@ -356,7 +409,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 941.58,
+   "price_eur": 939.96,
    "reference_eur": 600.0,
    "deal_pct": -57,
    "deal_label": "Above market",
@@ -403,7 +456,7 @@
    "tier": 2,
    "price": 25999.0,
    "currency": "CZK",
-   "price_eur": 1064.36,
+   "price_eur": 1062.53,
    "reference_eur": 600.0,
    "deal_pct": -77,
    "deal_label": "Above market",
@@ -483,7 +536,7 @@
    ],
    "location": "Liptovský Mikuláš 031 01",
    "distance_km": 52,
-   "posted": "2026-11-20T12:00:00+00:00",
+   "posted": "2026-11-21T12:00:00+00:00",
    "first_seen": "2026-11-13T12:54:05+00:00",
    "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795097884",
    "photo_count": 4,
@@ -556,7 +609,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 491.26,
+   "price_eur": 490.42,
    "reference_eur": 450.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -603,7 +656,7 @@
    "tier": 2,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 368.44,
+   "price_eur": 367.81,
    "reference_eur": 300.0,
    "deal_pct": -23,
    "deal_label": "Above market",
@@ -654,7 +707,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 364.35,
+   "price_eur": 363.73,
    "reference_eur": 300.0,
    "deal_pct": -21,
    "deal_label": "Above market",
@@ -754,7 +807,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 327.51,
+   "price_eur": 326.94,
    "reference_eur": 300.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -899,7 +952,7 @@
    "tier": 2,
    "price": 16000.0,
    "currency": "CZK",
-   "price_eur": 655.01,
+   "price_eur": 653.89,
    "reference_eur": 750.0,
    "deal_pct": 13,
    "deal_label": "Good price",
@@ -950,7 +1003,7 @@
    "tier": 2,
    "price": 18900.0,
    "currency": "CZK",
-   "price_eur": 773.73,
+   "price_eur": 772.41,
    "reference_eur": 750.0,
    "deal_pct": -3,
    "deal_label": "Fair price",
@@ -997,7 +1050,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 491.26,
+   "price_eur": 490.42,
    "reference_eur": 500.0,
    "deal_pct": 2,
    "deal_label": "Fair price",
@@ -1137,59 +1190,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197613075/sony-es.php",
-   "title": "Sony es",
-   "model": "CDP-XA30ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 1,
-   "price": null,
-   "currency": "EUR",
-   "price_eur": null,
-   "reference_eur": 380.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 16,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 850 00",
-   "distance_km": 165,
-   "posted": "2026-11-17T12:00:00+00:00",
-   "first_seen": "2026-11-17T14:10:05+00:00",
-   "image": "https://www.bazos.sk/img/1t/075/197613075.jpg?t=1794910520",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
@@ -1244,15 +1244,15 @@
    "tier": 2,
    "price": 8990.0,
    "currency": "CZK",
-   "price_eur": 368.04,
+   "price_eur": 367.4,
    "reference_eur": 120.0,
-   "deal_pct": -207,
+   "deal_pct": -206,
    "deal_label": "Above market",
-   "score": -197,
+   "score": -196,
    "score_parts": [
     [
      "Price",
-     -207
+     -206
     ],
     [
      "Wish list",
@@ -1291,7 +1291,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 245.22,
+   "price_eur": 244.8,
    "reference_eur": 120.0,
    "deal_pct": -104,
    "deal_label": "Above market",
@@ -1342,15 +1342,15 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 347.98,
+   "price_eur": 347.38,
    "reference_eur": 120.0,
-   "deal_pct": -190,
+   "deal_pct": -189,
    "deal_label": "Above market",
-   "score": -184,
+   "score": -183,
    "score_parts": [
     [
      "Price",
-     -190
+     -189
     ],
     [
      "Wish list",
@@ -1483,23 +1483,23 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226178472/yamaha-kx-393-stereo-cassette-deck.php",
-   "title": "Yamaha KX-393 – Stereo Cassette Deck",
+   "url": "https://elektro.bazos.cz/inzerat/226718613/yamaha-kx-393-stereo-kazetovy-magnetofon.php",
+   "title": "Yamaha KX-393 – stereo kazetový magnetofon",
    "model": "KX-390 / KX-393",
    "brand": "Yamaha",
    "category": "Tape deck",
    "tier": 2,
-   "price": 2490.0,
+   "price": 2290.0,
    "currency": "CZK",
-   "price_eur": 101.94,
+   "price_eur": 93.59,
    "reference_eur": 100.0,
-   "deal_pct": -2,
-   "deal_label": "Fair price",
-   "score": 5,
+   "deal_pct": 6,
+   "deal_label": "Good price",
+   "score": 13,
    "score_parts": [
     [
      "Price",
-     -2
+     6
     ],
     [
      "Wish list",
@@ -1516,14 +1516,14 @@
    ],
    "location": "Kutná Hora 284 01",
    "distance_km": 312,
-   "posted": "2026-11-08T12:00:00+00:00",
-   "first_seen": "2026-11-08T20:58:18+00:00",
-   "image": "https://www.bazos.cz/img/1t/472/226178472.jpg",
+   "posted": "2026-11-20T12:00:00+00:00",
+   "first_seen": "2026-11-20T22:58:51+00:00",
+   "image": "https://www.bazos.cz/img/1t/613/226718613.jpg",
    "photo_count": 5,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
+   "is_new": true,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1589,15 +1589,15 @@
    "tier": 1,
    "price": 7499.0,
    "currency": "CZK",
-   "price_eur": 307.0,
+   "price_eur": 306.47,
    "reference_eur": 150.0,
-   "deal_pct": -105,
+   "deal_pct": -104,
    "deal_label": "Above market",
-   "score": -72,
+   "score": -71,
    "score_parts": [
     [
      "Price",
-     -105
+     -104
     ],
     [
      "Wish list",
@@ -1687,15 +1687,15 @@
    "tier": 2,
    "price": 12999.0,
    "currency": "CZK",
-   "price_eur": 532.16,
+   "price_eur": 531.24,
    "reference_eur": 250.0,
-   "deal_pct": -113,
+   "deal_pct": -112,
    "deal_label": "Above market",
-   "score": -114,
+   "score": -113,
    "score_parts": [
     [
      "Price",
-     -113
+     -112
     ],
     [
      "Wish list",
@@ -1781,15 +1781,15 @@
    "tier": 1,
    "price": 57000.0,
    "currency": "CZK",
-   "price_eur": 2333.48,
+   "price_eur": 2329.48,
    "reference_eur": 500.0,
-   "deal_pct": -367,
+   "deal_pct": -366,
    "deal_label": "Above market",
-   "score": -356,
+   "score": -355,
    "score_parts": [
     [
      "Price",
-     -367
+     -366
     ],
     [
      "Wish list",
@@ -1814,7 +1814,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 4,
    "notes": [],
    "auction": false
   },
@@ -1924,15 +1924,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1842.22,
+   "price_eur": 1839.06,
    "reference_eur": 750.0,
-   "deal_pct": -146,
+   "deal_pct": -145,
    "deal_label": "Above market",
-   "score": -140,
+   "score": -139,
    "score_parts": [
     [
      "Price",
-     -146
+     -145
     ],
     [
      "Wish list",
@@ -1949,7 +1949,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-20T12:00:00+00:00",
+   "posted": "2026-11-21T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -1971,7 +1971,7 @@
    "tier": 2,
    "price": 44000.0,
    "currency": "CZK",
-   "price_eur": 1801.29,
+   "price_eur": 1798.19,
    "reference_eur": 750.0,
    "deal_pct": -140,
    "deal_label": "Above market",
@@ -2018,15 +2018,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7573.59,
+   "price_eur": 7560.59,
    "reference_eur": 750.0,
-   "deal_pct": -910,
+   "deal_pct": -908,
    "deal_label": "Above market",
-   "score": -906,
+   "score": -904,
    "score_parts": [
     [
      "Price",
-     -910
+     -908
     ],
     [
      "Wish list",
@@ -2065,7 +2065,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1838.13,
+   "price_eur": 1834.97,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -2112,15 +2112,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1842.22,
+   "price_eur": 1839.06,
    "reference_eur": 750.0,
-   "deal_pct": -146,
+   "deal_pct": -145,
    "deal_label": "Above market",
-   "score": -129,
+   "score": -128,
    "score_parts": [
     [
      "Price",
-     -146
+     -145
     ],
     [
      "Wish list",
@@ -2151,6 +2151,55 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226717319/technics-1210-pioneer-djm-600.php",
+   "title": "Technics 1210 Pioneer DJM 600",
+   "model": "SL-1200/1210 MK3D/MK4/MK6",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 45000.0,
+   "currency": "CZK",
+   "price_eur": 1839.06,
+   "reference_eur": 500.0,
+   "deal_pct": -268,
+   "deal_label": "Above market",
+   "score": -266,
+   "score_parts": [
+    [
+     "Price",
+     -268
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -9
+    ]
+   ],
+   "location": "Kladno 272 01",
+   "distance_km": 397,
+   "posted": "2026-11-20T12:00:00+00:00",
+   "first_seen": "2026-11-20T22:58:51+00:00",
+   "image": "https://www.bazos.cz/img/1t/319/226717319.jpg?t=1795206254",
+   "photo_count": 12,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225994988/gramofon-technics-primy-nahon-rozbaleny.php",
    "title": "Gramofon technics přímý náhon rozbalený sl 1210 mk7",
    "model": "SL-1200/1210 MK7",
@@ -2159,15 +2208,15 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 859.7,
+   "price_eur": 858.23,
    "reference_eur": 750.0,
-   "deal_pct": -15,
+   "deal_pct": -14,
    "deal_label": "Fair price",
-   "score": -32,
+   "score": -31,
    "score_parts": [
     [
      "Price",
-     -15
+     -14
     ],
     [
      "Wish list",
@@ -2200,15 +2249,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 41,
-   "failed": 2,
+   "ok": 43,
+   "failed": 0,
    "found": 20
   },
   {
    "name": "Bazoš.cz",
    "ok": 43,
    "failed": 0,
-   "found": 25
+   "found": 26
   },
   {
    "name": "Kleinanzeigen",
