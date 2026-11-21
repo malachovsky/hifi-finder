@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T22:58:51+00:00",
+ "generated": "2026-11-21T13:15:48+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -401,7 +401,7 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226558595/marantz-pm8006-stereo-zesilovac.php",
+   "url": "https://elektro.bazos.cz/inzerat/226732815/marantz-pm8006-stereo-zesilovac.php",
    "title": "Marantz PM8006 - Stereo zesilovač",
    "model": "PM8006",
    "brand": "Marantz",
@@ -434,15 +434,15 @@
    ],
    "location": "Praha 8 184 00",
    "distance_km": 374,
-   "posted": "2026-11-17T12:00:00+00:00",
-   "first_seen": "2026-11-17T14:10:05+00:00",
-   "image": "https://www.bazos.cz/img/1t/595/226558595.jpg",
+   "posted": "2026-11-21T12:00:00+00:00",
+   "first_seen": "2026-11-21T13:15:48+00:00",
+   "image": "https://www.bazos.cz/img/1t/815/226732815.jpg",
    "photo_count": 8,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": false,
-   "price_drop_eur": 2,
+   "is_new": true,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -550,23 +550,23 @@
   },
   {
    "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196883078/marantz-pm7000n-silver.php",
-   "title": "MARANTZ PM7000N silver",
+   "url": "https://elektro.bazos.sk/inzerat/197751523/marantz-pm7000n.php",
+   "title": "MARANTZ PM7000N",
    "model": "PM7000N",
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 1,
-   "price": 530.0,
+   "price": 549.0,
    "currency": "EUR",
-   "price_eur": 530.0,
+   "price_eur": 549.0,
    "reference_eur": 450.0,
-   "deal_pct": -18,
+   "deal_pct": -22,
    "deal_label": "Above market",
-   "score": 21,
+   "score": 17,
    "score_parts": [
     [
      "Price",
-     -18
+     -22
     ],
     [
      "Wish list",
@@ -587,15 +587,15 @@
    ],
    "location": "Martin 036 01",
    "distance_km": 40,
-   "posted": "2026-10-26T12:00:00+00:00",
-   "first_seen": "2026-10-26T21:26:49+00:00",
-   "image": "https://www.bazos.sk/img/1t/078/196883078.jpg?t=1795074806",
-   "photo_count": 2,
+   "posted": "2026-11-21T12:00:00+00:00",
+   "first_seen": "2026-11-21T13:15:48+00:00",
+   "image": "https://www.bazos.sk/img/1t/523/197751523.jpg?t=1795264173",
+   "photo_count": 7,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 119,
+   "is_new": true,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -898,51 +898,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
-   "title": "Elac FS 78",
-   "model": "PM6007",
-   "brand": "Marantz",
-   "category": "Amplifier",
-   "tier": 3,
-   "price": 730.0,
-   "currency": "EUR",
-   "price_eur": 730.0,
-   "reference_eur": 330.0,
-   "deal_pct": -121,
-   "deal_label": "Above market",
-   "score": -104,
-   "score_parts": [
-    [
-     "Price",
-     -121
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     11
-    ]
-   ],
-   "location": "Lučenec 986 01",
-   "distance_km": 72,
-   "posted": "2026-10-10T12:00:00+00:00",
-   "first_seen": "2026-10-10T07:13:01+00:00",
-   "image": "https://www.bazos.sk/img/1t/834/196355834.jpg",
-   "photo_count": 7,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "Description mentions a fault, read it first"
-   ],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226623657/denon-pma-1600ne.php",
    "title": "DENON PMA-1600NE",
@@ -988,53 +943,6 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": 1,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/225867270/denon-pma-1600ne-integrovany-zesilovac-vyssi-trida.php",
-   "title": "DENON PMA-1600NE – integrovaný zesilovač (vyšší třída)",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 18900.0,
-   "currency": "CZK",
-   "price_eur": 772.41,
-   "reference_eur": 750.0,
-   "deal_pct": -3,
-   "deal_label": "Fair price",
-   "score": 15,
-   "score_parts": [
-    [
-     "Price",
-     -3
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     7
-    ]
-   ],
-   "location": "Uherské Hradiště 686 05",
-   "distance_km": 126,
-   "posted": "2026-11-01T12:00:00+00:00",
-   "first_seen": "2026-11-01T20:58:34+00:00",
-   "image": "https://www.bazos.cz/img/1t/270/225867270.jpg?t=1793553495",
-   "photo_count": 6,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
    "is_new": false,
    "price_drop_eur": 1,
    "notes": [],
@@ -1523,7 +1431,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1819,102 +1727,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/197013851/technics-sl-1200-mk7-limited.php",
-   "title": "Technics sl 1200 mk7 limited",
-   "model": "SL-1200/1210 MK7",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 2000.0,
-   "currency": "EUR",
-   "price_eur": 2000.0,
-   "reference_eur": 750.0,
-   "deal_pct": -167,
-   "deal_label": "Above market",
-   "score": -148,
-   "score_parts": [
-    [
-     "Price",
-     -167
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     8
-    ]
-   ],
-   "location": "Nové Zámky 940 02",
-   "distance_km": 109,
-   "posted": "2026-10-30T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1794172134",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": 2000,
-   "notes": [
-    "Description mentions a fault, read it first"
-   ],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.sk",
-   "url": "https://hudba.bazos.sk/inzerat/196993924/technics-sl-1200-m7l-mk7-limited-2-kusy.php",
-   "title": "Technics SL-1200 M7L - MK7 Limited 2 kusy",
-   "model": "SL-1200/1210 MK7",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 2,
-   "price": 4800.0,
-   "currency": "EUR",
-   "price_eur": 4800.0,
-   "reference_eur": 750.0,
-   "deal_pct": -540,
-   "deal_label": "Above market",
-   "score": -544,
-   "score_parts": [
-    [
-     "Price",
-     -540
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Stock photo",
-     -15
-    ],
-    [
-     "Distance",
-     6
-    ]
-   ],
-   "location": "Bratislava 831 07",
-   "distance_km": 155,
-   "posted": "2026-10-29T12:00:00+00:00",
-   "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/924/196993924.jpg?t=1793828695",
-   "photo_count": 2,
-   "photo_kind": "stock",
-   "photo_reason": "Professional studio photo, clean white background, manufacturer lighting",
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": 200,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225806573/technics-sl-1200m7g-nove-nerozbalene.php",
    "title": "Technics SL-1200M7G - nové, nerozbalené",
@@ -2151,27 +1963,27 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226717319/technics-1210-pioneer-djm-600.php",
-   "title": "Technics 1210 Pioneer DJM 600",
-   "model": "SL-1200/1210 MK3D/MK4/MK6",
+   "url": "https://hudba.bazos.cz/inzerat/226740676/technics-1210-mk2.php",
+   "title": "TECHNICS 1210 MK2",
+   "model": "SL-1200/1210 MK2/MK3/MK5",
    "brand": "Technics",
    "category": "Turntable",
-   "tier": 2,
-   "price": 45000.0,
+   "tier": 1,
+   "price": 20500.0,
    "currency": "CZK",
-   "price_eur": 1839.06,
+   "price_eur": 837.79,
    "reference_eur": 500.0,
-   "deal_pct": -268,
+   "deal_pct": -68,
    "deal_label": "Above market",
-   "score": -266,
+   "score": -57,
    "score_parts": [
     [
      "Price",
-     -268
+     -68
     ],
     [
      "Wish list",
-     5
+     12
     ],
     [
      "Own photos",
@@ -2179,23 +1991,21 @@
     ],
     [
      "Distance",
-     -9
+     -7
     ]
    ],
-   "location": "Kladno 272 01",
-   "distance_km": 397,
-   "posted": "2026-11-20T12:00:00+00:00",
-   "first_seen": "2026-11-20T22:58:51+00:00",
-   "image": "https://www.bazos.cz/img/1t/319/226717319.jpg?t=1795206254",
-   "photo_count": 12,
+   "location": "Praha 2 120 00",
+   "distance_km": 372,
+   "posted": "2026-11-21T12:00:00+00:00",
+   "first_seen": "2026-11-21T13:15:48+00:00",
+   "image": "https://www.bazos.cz/img/1t/676/226740676.jpg",
+   "photo_count": 6,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": true,
    "price_drop_eur": null,
-   "notes": [
-    "Description mentions a fault, read it first"
-   ],
+   "notes": [],
    "auction": false
   },
   {
@@ -2244,20 +2054,116 @@
    "price_drop_eur": 1,
    "notes": [],
    "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/197013851/technics-sl-1200-mk7-limited.php",
+   "title": "Technics sl 1200 mk7 limited",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 2000.0,
+   "currency": "EUR",
+   "price_eur": 2000.0,
+   "reference_eur": 750.0,
+   "deal_pct": -167,
+   "deal_label": "Above market",
+   "score": -148,
+   "score_parts": [
+    [
+     "Price",
+     -167
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     8
+    ]
+   ],
+   "location": "Nové Zámky 940 02",
+   "distance_km": 109,
+   "posted": "2026-10-30T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1794172134",
+   "photo_count": 4,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": 2000,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://hudba.bazos.sk/inzerat/196993924/technics-sl-1200-m7l-mk7-limited-2-kusy.php",
+   "title": "Technics SL-1200 M7L - MK7 Limited 2 kusy",
+   "model": "SL-1200/1210 MK7",
+   "brand": "Technics",
+   "category": "Turntable",
+   "tier": 2,
+   "price": 4800.0,
+   "currency": "EUR",
+   "price_eur": 4800.0,
+   "reference_eur": 750.0,
+   "deal_pct": -540,
+   "deal_label": "Above market",
+   "score": -544,
+   "score_parts": [
+    [
+     "Price",
+     -540
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     6
+    ]
+   ],
+   "location": "Bratislava 831 07",
+   "distance_km": 155,
+   "posted": "2026-10-29T12:00:00+00:00",
+   "first_seen": "2026-11-01T10:49:22+00:00",
+   "image": "https://www.bazos.sk/img/1t/924/196993924.jpg?t=1793828695",
+   "photo_count": 2,
+   "photo_kind": "stock",
+   "photo_reason": "Professional studio photo, clean white background, manufacturer lighting",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": 200,
+   "notes": [],
+   "auction": false
   }
  ],
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 43,
-   "failed": 0,
-   "found": 20
+   "ok": 41,
+   "failed": 2,
+   "found": 19
   },
   {
    "name": "Bazoš.cz",
    "ok": 43,
    "failed": 0,
-   "found": 26
+   "found": 25
   },
   {
    "name": "Kleinanzeigen",
