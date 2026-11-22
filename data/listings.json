@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:07:18+00:00",
+ "generated": "2026-11-22T22:20:12+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -400,6 +400,104 @@
    "auction": false
   },
   {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226732815/marantz-pm8006-stereo-zesilovac.php",
+   "title": "Marantz PM8006 - Stereo zesilovač",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 23000.0,
+   "currency": "CZK",
+   "price_eur": 939.96,
+   "reference_eur": 600.0,
+   "deal_pct": -57,
+   "deal_label": "Above market",
+   "score": -53,
+   "score_parts": [
+    [
+     "Price",
+     -57
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -7
+    ]
+   ],
+   "location": "Praha 8 184 00",
+   "distance_km": 374,
+   "posted": "2026-11-21T12:00:00+00:00",
+   "first_seen": "2026-11-21T13:15:48+00:00",
+   "image": "https://www.bazos.cz/img/1t/815/226732815.jpg",
+   "photo_count": 8,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226217890/marantz-pm8006-stereo-amplifier-dalkovy.php",
+   "title": "MARANTZ PM8006 STEREO AMPLIFIER + DALKOVY",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 25999.0,
+   "currency": "CZK",
+   "price_eur": 1062.53,
+   "reference_eur": 600.0,
+   "deal_pct": -77,
+   "deal_label": "Above market",
+   "score": -70,
+   "score_parts": [
+    [
+     "Price",
+     -77
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Zahraničí 987 66",
+   "distance_km": 1306,
+   "posted": "2026-11-09T12:00:00+00:00",
+   "first_seen": "2026-11-10T00:34:43+00:00",
+   "image": "https://www.bazos.cz/img/1t/890/226217890.jpg",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": 2,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/197468142/marantz-pm-7000n.php",
    "title": "Marantz PM 7000N",
@@ -458,17 +556,17 @@
    "brand": "Marantz",
    "category": "Amplifier",
    "tier": 1,
-   "price": 549.0,
+   "price": 545.0,
    "currency": "EUR",
-   "price_eur": 549.0,
+   "price_eur": 545.0,
    "reference_eur": 450.0,
-   "deal_pct": -22,
+   "deal_pct": -21,
    "deal_label": "Above market",
-   "score": 17,
+   "score": 18,
    "score_parts": [
     [
      "Price",
-     -22
+     -21
     ],
     [
      "Wish list",
@@ -491,13 +589,13 @@
    "distance_km": 40,
    "posted": "2026-11-21T12:00:00+00:00",
    "first_seen": "2026-11-21T13:15:48+00:00",
-   "image": "https://www.bazos.sk/img/1t/523/197751523.jpg?t=1795264173",
+   "image": "https://www.bazos.sk/img/1t/523/197751523.jpg?t=1795383231",
    "photo_count": 7,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": null,
+   "price_drop_eur": 4,
    "notes": [],
    "auction": false
   },
@@ -801,6 +899,53 @@
   },
   {
    "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197793439/zosilnovac-marantz-pm6007.php",
+   "title": "Zosilňovač Marantz PM6007",
+   "model": "PM6007",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 370.0,
+   "currency": "EUR",
+   "price_eur": 370.0,
+   "reference_eur": 330.0,
+   "deal_pct": -12,
+   "deal_label": "Fair price",
+   "score": -8,
+   "score_parts": [
+    [
+     "Price",
+     -12
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Topoľčany 955 01",
+   "distance_km": 74,
+   "posted": "2026-11-22T12:00:00+00:00",
+   "first_seen": "2026-11-22T22:20:12+00:00",
+   "image": "https://www.bazos.sk/img/1t/439/197793439.jpg?t=1795384829",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
    "url": "https://elektro.bazos.sk/inzerat/196355834/elac-fs-78.php",
    "title": "Elac FS 78",
    "model": "PM6007",
@@ -842,6 +987,53 @@
    "notes": [
     "Description mentions a fault, read it first"
    ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226806717/zesiovac-marantz-pm6007.php",
+   "title": "Zesiovač Marantz PM6007",
+   "model": "PM6007",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 3,
+   "price": 9000.0,
+   "currency": "CZK",
+   "price_eur": 367.81,
+   "reference_eur": 330.0,
+   "deal_pct": -11,
+   "deal_label": "Fair price",
+   "score": -4,
+   "score_parts": [
+    [
+     "Price",
+     -11
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     14
+    ]
+   ],
+   "location": "Slovensko 987 65",
+   "distance_km": 18,
+   "posted": "2026-11-22T12:00:00+00:00",
+   "first_seen": "2026-11-22T22:20:12+00:00",
+   "image": "https://www.bazos.cz/img/1t/717/226806717.jpg?t=1795369958",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
    "auction": false
   },
   {
@@ -2102,15 +2294,15 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 43,
-   "failed": 0,
-   "found": 20
+   "ok": 41,
+   "failed": 2,
+   "found": 21
   },
   {
    "name": "Bazoš.cz",
-   "ok": 42,
-   "failed": 1,
-   "found": 23
+   "ok": 43,
+   "failed": 0,
+   "found": 26
   },
   {
    "name": "Kleinanzeigen",
