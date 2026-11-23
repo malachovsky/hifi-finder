@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:20:12+00:00",
+ "generated": "2026-11-23T15:44:15+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -74,7 +74,7 @@
    "tier": 2,
    "price": 9800.0,
    "currency": "CZK",
-   "price_eur": 400.51,
+   "price_eur": 400.74,
    "reference_eur": 550.0,
    "deal_pct": 27,
    "deal_label": "Great price",
@@ -409,7 +409,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 939.96,
+   "price_eur": 940.5,
    "reference_eur": 600.0,
    "deal_pct": -57,
    "deal_label": "Above market",
@@ -456,7 +456,7 @@
    "tier": 2,
    "price": 25999.0,
    "currency": "CZK",
-   "price_eur": 1062.53,
+   "price_eur": 1063.14,
    "reference_eur": 600.0,
    "deal_pct": -77,
    "deal_label": "Above market",
@@ -493,7 +493,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": 2,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -536,9 +536,9 @@
    ],
    "location": "Liptovský Mikuláš 031 01",
    "distance_km": 52,
-   "posted": "2026-11-22T12:00:00+00:00",
+   "posted": "2026-11-23T12:00:00+00:00",
    "first_seen": "2026-11-13T12:54:05+00:00",
-   "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795097884",
+   "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795427931",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
@@ -609,7 +609,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 490.42,
+   "price_eur": 490.7,
    "reference_eur": 450.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -656,7 +656,7 @@
    "tier": 2,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 367.81,
+   "price_eur": 368.02,
    "reference_eur": 300.0,
    "deal_pct": -23,
    "deal_label": "Above market",
@@ -707,7 +707,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 363.73,
+   "price_eur": 363.93,
    "reference_eur": 300.0,
    "deal_pct": -21,
    "deal_label": "Above market",
@@ -807,7 +807,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 326.94,
+   "price_eur": 327.13,
    "reference_eur": 300.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -939,7 +939,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -999,15 +999,15 @@
    "tier": 3,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 367.81,
+   "price_eur": 368.02,
    "reference_eur": 330.0,
-   "deal_pct": -11,
+   "deal_pct": -12,
    "deal_label": "Fair price",
-   "score": -4,
+   "score": -5,
    "score_parts": [
     [
      "Price",
-     -11
+     -12
     ],
     [
      "Remote included",
@@ -1031,7 +1031,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": "yes",
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -1046,7 +1046,7 @@
    "tier": 2,
    "price": 16500.0,
    "currency": "CZK",
-   "price_eur": 674.32,
+   "price_eur": 674.71,
    "reference_eur": 750.0,
    "deal_pct": 10,
    "deal_label": "Good price",
@@ -1097,7 +1097,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 490.42,
+   "price_eur": 490.7,
    "reference_eur": 500.0,
    "deal_pct": 2,
    "deal_label": "Fair price",
@@ -1291,7 +1291,7 @@
    "tier": 2,
    "price": 8990.0,
    "currency": "CZK",
-   "price_eur": 367.4,
+   "price_eur": 367.61,
    "reference_eur": 120.0,
    "deal_pct": -206,
    "deal_label": "Above market",
@@ -1338,7 +1338,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 244.8,
+   "price_eur": 244.94,
    "reference_eur": 120.0,
    "deal_pct": -104,
    "deal_label": "Above market",
@@ -1389,15 +1389,15 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 347.38,
+   "price_eur": 347.58,
    "reference_eur": 120.0,
-   "deal_pct": -189,
+   "deal_pct": -190,
    "deal_label": "Above market",
-   "score": -183,
+   "score": -184,
    "score_parts": [
     [
      "Price",
-     -189
+     -190
     ],
     [
      "Wish list",
@@ -1538,7 +1538,7 @@
    "tier": 2,
    "price": 2290.0,
    "currency": "CZK",
-   "price_eur": 93.59,
+   "price_eur": 93.64,
    "reference_eur": 100.0,
    "deal_pct": 6,
    "deal_label": "Good price",
@@ -1636,7 +1636,7 @@
    "tier": 1,
    "price": 7499.0,
    "currency": "CZK",
-   "price_eur": 306.47,
+   "price_eur": 306.64,
    "reference_eur": 150.0,
    "deal_pct": -104,
    "deal_label": "Above market",
@@ -1734,15 +1734,15 @@
    "tier": 2,
    "price": 12999.0,
    "currency": "CZK",
-   "price_eur": 531.24,
+   "price_eur": 531.55,
    "reference_eur": 250.0,
-   "deal_pct": -112,
+   "deal_pct": -113,
    "deal_label": "Above market",
-   "score": -113,
+   "score": -114,
    "score_parts": [
     [
      "Price",
-     -112
+     -113
     ],
     [
      "Wish list",
@@ -1828,7 +1828,7 @@
    "tier": 1,
    "price": 57000.0,
    "currency": "CZK",
-   "price_eur": 2329.48,
+   "price_eur": 2330.81,
    "reference_eur": 500.0,
    "deal_pct": -366,
    "deal_label": "Above market",
@@ -1861,7 +1861,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 4,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -1873,17 +1873,17 @@
    "brand": "Technics",
    "category": "Turntable",
    "tier": 2,
-   "price": 2000.0,
+   "price": 1900.0,
    "currency": "EUR",
-   "price_eur": 2000.0,
+   "price_eur": 1900.0,
    "reference_eur": 750.0,
-   "deal_pct": -167,
+   "deal_pct": -153,
    "deal_label": "Above market",
-   "score": -148,
+   "score": -134,
    "score_parts": [
     [
      "Price",
-     -167
+     -153
     ],
     [
      "Wish list",
@@ -1902,13 +1902,13 @@
    "distance_km": 109,
    "posted": "2026-10-30T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
-   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1794172134",
+   "image": "https://www.bazos.sk/img/1t/851/197013851.jpg?t=1795429512",
    "photo_count": 4,
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 2000,
+   "price_drop_eur": 100,
    "notes": [
     "Description mentions a fault, read it first"
    ],
@@ -1971,7 +1971,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1839.06,
+   "price_eur": 1840.11,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -1996,7 +1996,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-22T12:00:00+00:00",
+   "posted": "2026-11-23T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -2004,7 +2004,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -2018,7 +2018,7 @@
    "tier": 2,
    "price": 44000.0,
    "currency": "CZK",
-   "price_eur": 1798.19,
+   "price_eur": 1799.22,
    "reference_eur": 750.0,
    "deal_pct": -140,
    "deal_label": "Above market",
@@ -2051,7 +2051,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -2065,15 +2065,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7560.59,
+   "price_eur": 7564.92,
    "reference_eur": 750.0,
-   "deal_pct": -908,
+   "deal_pct": -909,
    "deal_label": "Above market",
-   "score": -904,
+   "score": -905,
    "score_parts": [
     [
      "Price",
-     -908
+     -909
     ],
     [
      "Wish list",
@@ -2098,7 +2098,7 @@
    "photo_reason": null,
    "remote": "yes",
    "is_new": false,
-   "price_drop_eur": 13,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -2112,7 +2112,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1834.97,
+   "price_eur": 1836.03,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -2145,7 +2145,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -2159,7 +2159,7 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1839.06,
+   "price_eur": 1840.11,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -2192,7 +2192,7 @@
    "photo_reason": null,
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 3,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   },
@@ -2206,7 +2206,7 @@
    "tier": 1,
    "price": 20500.0,
    "currency": "CZK",
-   "price_eur": 837.79,
+   "price_eur": 838.27,
    "reference_eur": 500.0,
    "deal_pct": -68,
    "deal_label": "Above market",
@@ -2253,7 +2253,7 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 858.23,
+   "price_eur": 858.72,
    "reference_eur": 750.0,
    "deal_pct": -14,
    "deal_label": "Fair price",
@@ -2286,7 +2286,7 @@
    "photo_reason": "Clean studio background, professional lighting, manufacturer image",
    "remote": null,
    "is_new": false,
-   "price_drop_eur": 1,
+   "price_drop_eur": null,
    "notes": [],
    "auction": false
   }
@@ -2294,14 +2294,14 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 41,
-   "failed": 2,
+   "ok": 42,
+   "failed": 1,
    "found": 21
   },
   {
    "name": "Bazoš.cz",
-   "ok": 43,
-   "failed": 0,
+   "ok": 42,
+   "failed": 1,
    "found": 26
   },
   {
