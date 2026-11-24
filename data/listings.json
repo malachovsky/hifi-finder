@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T03:10:44+00:00",
+ "generated": "2026-11-24T15:35:46+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -74,7 +74,7 @@
    "tier": 2,
    "price": 9800.0,
    "currency": "CZK",
-   "price_eur": 400.74,
+   "price_eur": 401.18,
    "reference_eur": 550.0,
    "deal_pct": 27,
    "deal_label": "Great price",
@@ -409,7 +409,7 @@
    "tier": 2,
    "price": 23000.0,
    "currency": "CZK",
-   "price_eur": 940.5,
+   "price_eur": 941.54,
    "reference_eur": 600.0,
    "deal_pct": -57,
    "deal_label": "Above market",
@@ -456,7 +456,7 @@
    "tier": 2,
    "price": 25999.0,
    "currency": "CZK",
-   "price_eur": 1063.14,
+   "price_eur": 1064.31,
    "reference_eur": 600.0,
    "deal_pct": -77,
    "deal_label": "Above market",
@@ -609,7 +609,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 490.7,
+   "price_eur": 491.24,
    "reference_eur": 450.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -656,7 +656,7 @@
    "tier": 2,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 368.02,
+   "price_eur": 368.43,
    "reference_eur": 300.0,
    "deal_pct": -23,
    "deal_label": "Above market",
@@ -707,7 +707,7 @@
    "tier": 2,
    "price": 8900.0,
    "currency": "CZK",
-   "price_eur": 363.93,
+   "price_eur": 364.34,
    "reference_eur": 300.0,
    "deal_pct": -21,
    "deal_label": "Above market",
@@ -807,7 +807,7 @@
    "tier": 2,
    "price": 8000.0,
    "currency": "CZK",
-   "price_eur": 327.13,
+   "price_eur": 327.49,
    "reference_eur": 300.0,
    "deal_pct": -9,
    "deal_label": "Fair price",
@@ -999,7 +999,7 @@
    "tier": 3,
    "price": 9000.0,
    "currency": "CZK",
-   "price_eur": 368.02,
+   "price_eur": 368.43,
    "reference_eur": 330.0,
    "deal_pct": -12,
    "deal_label": "Fair price",
@@ -1046,7 +1046,7 @@
    "tier": 1,
    "price": 12000.0,
    "currency": "CZK",
-   "price_eur": 490.7,
+   "price_eur": 491.24,
    "reference_eur": 500.0,
    "deal_pct": 2,
    "deal_label": "Fair price",
@@ -1240,15 +1240,15 @@
    "tier": 2,
    "price": 8990.0,
    "currency": "CZK",
-   "price_eur": 367.61,
+   "price_eur": 368.02,
    "reference_eur": 120.0,
-   "deal_pct": -206,
+   "deal_pct": -207,
    "deal_label": "Above market",
-   "score": -196,
+   "score": -197,
    "score_parts": [
     [
      "Price",
-     -206
+     -207
     ],
     [
      "Wish list",
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "price": 5990.0,
    "currency": "CZK",
-   "price_eur": 244.94,
+   "price_eur": 245.21,
    "reference_eur": 120.0,
    "deal_pct": -104,
    "deal_label": "Above market",
@@ -1338,7 +1338,7 @@
    "tier": 2,
    "price": 8500.0,
    "currency": "CZK",
-   "price_eur": 347.58,
+   "price_eur": 347.96,
    "reference_eur": 120.0,
    "deal_pct": -190,
    "deal_label": "Above market",
@@ -1487,7 +1487,7 @@
    "tier": 2,
    "price": 2290.0,
    "currency": "CZK",
-   "price_eur": 93.64,
+   "price_eur": 93.74,
    "reference_eur": 100.0,
    "deal_pct": 6,
    "deal_label": "Good price",
@@ -1585,15 +1585,15 @@
    "tier": 1,
    "price": 7499.0,
    "currency": "CZK",
-   "price_eur": 306.64,
+   "price_eur": 306.98,
    "reference_eur": 150.0,
-   "deal_pct": -104,
+   "deal_pct": -105,
    "deal_label": "Above market",
-   "score": -71,
+   "score": -72,
    "score_parts": [
     [
      "Price",
-     -104
+     -105
     ],
     [
      "Wish list",
@@ -1683,7 +1683,7 @@
    "tier": 2,
    "price": 12999.0,
    "currency": "CZK",
-   "price_eur": 531.55,
+   "price_eur": 532.14,
    "reference_eur": 250.0,
    "deal_pct": -113,
    "deal_label": "Above market",
@@ -1777,15 +1777,15 @@
    "tier": 1,
    "price": 57000.0,
    "currency": "CZK",
-   "price_eur": 2330.81,
+   "price_eur": 2333.39,
    "reference_eur": 500.0,
-   "deal_pct": -366,
+   "deal_pct": -367,
    "deal_label": "Above market",
-   "score": -355,
+   "score": -356,
    "score_parts": [
     [
      "Price",
-     -366
+     -367
     ],
     [
      "Wish list",
@@ -1920,15 +1920,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1840.11,
+   "price_eur": 1842.15,
    "reference_eur": 750.0,
-   "deal_pct": -145,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -139,
+   "score": -140,
    "score_parts": [
     [
      "Price",
-     -145
+     -146
     ],
     [
      "Wish list",
@@ -1967,7 +1967,7 @@
    "tier": 2,
    "price": 44000.0,
    "currency": "CZK",
-   "price_eur": 1799.22,
+   "price_eur": 1801.21,
    "reference_eur": 750.0,
    "deal_pct": -140,
    "deal_label": "Above market",
@@ -2014,15 +2014,15 @@
    "tier": 2,
    "price": 185000.0,
    "currency": "CZK",
-   "price_eur": 7564.92,
+   "price_eur": 7573.28,
    "reference_eur": 750.0,
-   "deal_pct": -909,
+   "deal_pct": -910,
    "deal_label": "Above market",
-   "score": -905,
+   "score": -906,
    "score_parts": [
     [
      "Price",
-     -909
+     -910
     ],
     [
      "Wish list",
@@ -2061,7 +2061,7 @@
    "tier": 2,
    "price": 44900.0,
    "currency": "CZK",
-   "price_eur": 1836.03,
+   "price_eur": 1838.05,
    "reference_eur": 750.0,
    "deal_pct": -145,
    "deal_label": "Above market",
@@ -2108,15 +2108,15 @@
    "tier": 2,
    "price": 45000.0,
    "currency": "CZK",
-   "price_eur": 1840.11,
+   "price_eur": 1842.15,
    "reference_eur": 750.0,
-   "deal_pct": -145,
+   "deal_pct": -146,
    "deal_label": "Above market",
-   "score": -128,
+   "score": -129,
    "score_parts": [
     [
      "Price",
-     -145
+     -146
     ],
     [
      "Wish list",
@@ -2155,7 +2155,7 @@
    "tier": 1,
    "price": 20500.0,
    "currency": "CZK",
-   "price_eur": 838.27,
+   "price_eur": 839.2,
    "reference_eur": 500.0,
    "deal_pct": -68,
    "deal_label": "Above market",
@@ -2202,15 +2202,15 @@
    "tier": 2,
    "price": 21000.0,
    "currency": "CZK",
-   "price_eur": 858.72,
+   "price_eur": 859.67,
    "reference_eur": 750.0,
-   "deal_pct": -14,
+   "deal_pct": -15,
    "deal_label": "Fair price",
-   "score": -31,
+   "score": -32,
    "score_parts": [
     [
      "Price",
-     -14
+     -15
     ],
     [
      "Wish list",
@@ -2243,8 +2243,8 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 42,
-   "failed": 1,
+   "ok": 40,
+   "failed": 3,
    "found": 21
   },
   {
@@ -2255,8 +2255,8 @@
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 41,
-   "failed": 2,
+   "ok": 43,
+   "failed": 0,
    "found": 0
   },
   {
