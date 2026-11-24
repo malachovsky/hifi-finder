@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T15:44:15+00:00",
+ "generated": "2026-11-24T03:10:44+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -536,7 +536,7 @@
    ],
    "location": "Liptovský Mikuláš 031 01",
    "distance_km": 52,
-   "posted": "2026-11-23T12:00:00+00:00",
+   "posted": "2026-11-24T12:00:00+00:00",
    "first_seen": "2026-11-13T12:54:05+00:00",
    "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795427931",
    "photo_count": 4,
@@ -1030,57 +1030,6 @@
    "photo_count": 6,
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
-   "url": "https://elektro.bazos.cz/inzerat/226623657/denon-pma-1600ne.php",
-   "title": "DENON PMA-1600NE",
-   "model": "PMA-1600NE",
-   "brand": "Denon",
-   "category": "Amplifier",
-   "tier": 2,
-   "price": 16500.0,
-   "currency": "CZK",
-   "price_eur": 674.71,
-   "reference_eur": 750.0,
-   "deal_pct": 10,
-   "deal_label": "Good price",
-   "score": 38,
-   "score_parts": [
-    [
-     "Price",
-     10
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     9
-    ]
-   ],
-   "location": "Frýdek - Místek 739 94",
-   "distance_km": 108,
-   "posted": "2026-11-18T12:00:00+00:00",
-   "first_seen": "2026-11-18T23:18:20+00:00",
-   "image": "https://www.bazos.cz/img/1t/657/226623657.jpg?t=1795303134",
-   "photo_count": 4,
-   "photo_kind": "own",
-   "photo_reason": null,
    "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
@@ -1996,7 +1945,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-23T12:00:00+00:00",
+   "posted": "2026-11-24T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -2302,12 +2251,12 @@
    "name": "Bazoš.cz",
    "ok": 42,
    "failed": 1,
-   "found": 26
+   "found": 25
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 43,
-   "failed": 0,
+   "ok": 41,
+   "failed": 2,
    "found": 0
   },
   {
