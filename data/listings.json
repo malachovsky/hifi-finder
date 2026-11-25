@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:35:46+00:00",
+ "generated": "2026-11-25T01:16:21+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -536,7 +536,7 @@
    ],
    "location": "Liptovský Mikuláš 031 01",
    "distance_km": 52,
-   "posted": "2026-11-24T12:00:00+00:00",
+   "posted": "2026-11-25T12:00:00+00:00",
    "first_seen": "2026-11-13T12:54:05+00:00",
    "image": "https://www.bazos.sk/img/1t/142/197468142.jpg?t=1795427931",
    "photo_count": 4,
@@ -1038,6 +1038,53 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226909395/reciever.php",
+   "title": "Reciever",
+   "model": "R-N803D",
+   "brand": "Yamaha",
+   "category": "Amplifier",
+   "tier": 1,
+   "price": 10000.0,
+   "currency": "CZK",
+   "price_eur": 409.37,
+   "reference_eur": 500.0,
+   "deal_pct": 18,
+   "deal_label": "Good price",
+   "score": 38,
+   "score_parts": [
+    [
+     "Price",
+     18
+    ],
+    [
+     "Wish list",
+     12
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     2
+    ]
+   ],
+   "location": "Šumperk 788 14",
+   "distance_km": 209,
+   "posted": "2026-11-24T12:00:00+00:00",
+   "first_seen": "2026-11-25T01:16:21+00:00",
+   "image": "https://www.bazos.cz/img/1t/395/226909395.jpg?t=1795552833",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/224618884/stereo-receiver-yamaha-r-n803d-cerny.php",
    "title": "Stereo receiver Yamaha R-N803D černý",
    "model": "R-N803D",
@@ -1525,57 +1572,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197228012/yamaha-51-domace-kino-a-hifi-receiver-cd-kazetovy-deck.php",
-   "title": "YAMAHA 5.1 domáce kino a HiFi – receiver, CD, kazetový deck",
-   "model": "KX-490 / KX-493",
-   "brand": "Yamaha",
-   "category": "Tape deck",
-   "tier": 2,
-   "price": 420.0,
-   "currency": "EUR",
-   "price_eur": 420.0,
-   "reference_eur": 120.0,
-   "deal_pct": -250,
-   "deal_label": "Above market",
-   "score": -219,
-   "score_parts": [
-    [
-     "Price",
-     -250
-    ],
-    [
-     "Wish list",
-     5
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     12
-    ]
-   ],
-   "location": "Martin 038 61",
-   "distance_km": 45,
-   "posted": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-11-07T11:33:29+00:00",
-   "image": "https://www.bazos.sk/img/1t/012/197228012.jpg",
-   "photo_count": 2,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226453413/yamaha-kx-580-dolby-s.php",
    "title": "YAMAHA KX 580 dolby S",
@@ -1945,7 +1941,7 @@
    ],
    "location": "Tábor 390 02",
    "distance_km": 333,
-   "posted": "2026-11-24T12:00:00+00:00",
+   "posted": "2026-11-25T12:00:00+00:00",
    "first_seen": "2026-11-01T10:49:22+00:00",
    "image": "https://www.bazos.cz/img/1t/573/225806573.jpg?t=1794336466",
    "photo_count": 3,
@@ -2147,53 +2143,6 @@
   },
   {
    "source": "Bazoš.cz",
-   "url": "https://hudba.bazos.cz/inzerat/226740676/technics-1210-mk2.php",
-   "title": "TECHNICS 1210 MK2",
-   "model": "SL-1200/1210 MK2/MK3/MK5",
-   "brand": "Technics",
-   "category": "Turntable",
-   "tier": 1,
-   "price": 20500.0,
-   "currency": "CZK",
-   "price_eur": 839.2,
-   "reference_eur": 500.0,
-   "deal_pct": -68,
-   "deal_label": "Above market",
-   "score": -57,
-   "score_parts": [
-    [
-     "Price",
-     -68
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     -7
-    ]
-   ],
-   "location": "Praha 2 120 00",
-   "distance_km": 372,
-   "posted": "2026-11-21T12:00:00+00:00",
-   "first_seen": "2026-11-21T13:15:48+00:00",
-   "image": "https://www.bazos.cz/img/1t/676/226740676.jpg",
-   "photo_count": 6,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": null,
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [],
-   "auction": false
-  },
-  {
-   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225994988/gramofon-technics-primy-nahon-rozbaleny.php",
    "title": "Gramofon technics přímý náhon rozbalený sl 1210 mk7",
    "model": "SL-1200/1210 MK7",
@@ -2245,7 +2194,7 @@
    "name": "Bazoš.sk",
    "ok": 40,
    "failed": 3,
-   "found": 21
+   "found": 20
   },
   {
    "name": "Bazoš.cz",
