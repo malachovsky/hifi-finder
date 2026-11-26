@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:51:15+00:00",
+ "generated": "2026-11-26T14:47:36+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -66,6 +66,110 @@
   },
   {
    "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226963998/spickova-hi-fi-sestava-sony-ta-f770es-champagne-repro-asw.php",
+   "title": "Špičková Hi-Fi sestava: Sony TA-F770ES Champagne + repro ASW",
+   "model": "TA-F770ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 23500.0,
+   "currency": "CZK",
+   "price_eur": 961.74,
+   "reference_eur": 700.0,
+   "deal_pct": -37,
+   "deal_label": "Above market",
+   "score": -28,
+   "score_parts": [
+    [
+     "Price",
+     -37
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -10
+    ]
+   ],
+   "location": "Děčín 407 22",
+   "distance_km": 413,
+   "posted": "2026-11-26T12:00:00+00:00",
+   "first_seen": "2026-11-26T14:47:36+00:00",
+   "image": "https://www.bazos.cz/img/1t/998/226963998.jpg?t=1795681001",
+   "photo_count": 11,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [
+    "Description mentions a fault, read it first"
+   ],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226961838/sony-ta-f770es-champagne-sberatelsky-stav-lestene-drevo.php",
+   "title": "Sony TA-F770ES Champagne – sběratelský stav, leštěné dřevo,",
+   "model": "TA-F770ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 18500.0,
+   "currency": "CZK",
+   "price_eur": 757.11,
+   "reference_eur": 700.0,
+   "deal_pct": -8,
+   "deal_label": "Fair price",
+   "score": 1,
+   "score_parts": [
+    [
+     "Price",
+     -8
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -10
+    ]
+   ],
+   "location": "Děčín 407 22",
+   "distance_km": 413,
+   "posted": "2026-11-26T12:00:00+00:00",
+   "first_seen": "2026-11-26T14:47:36+00:00",
+   "image": "https://www.bazos.cz/img/1t/838/226961838.jpg?t=1795679108",
+   "photo_count": 6,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226941417/stereo-zesilovac-sony-ta-f670es-top-stav-rada-es.php",
    "title": "Stereo zesilovač Sony TA-F670ES – TOP STAV (řada ES)",
    "model": "TA-F670ES",
@@ -106,7 +210,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -196,7 +300,7 @@
    "photo_kind": "stock",
    "photo_reason": "Same photo in another seller's listing",
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [],
    "auction": false
@@ -535,6 +639,57 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.cz",
+   "url": "https://elektro.bazos.cz/inzerat/226217890/marantz-pm8006-stereo-amplifier-dalkovy.php",
+   "title": "MARANTZ PM8006 STEREO AMPLIFIER + DALKOVY",
+   "model": "PM8006",
+   "brand": "Marantz",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 25999.0,
+   "currency": "CZK",
+   "price_eur": 1064.01,
+   "reference_eur": 600.0,
+   "deal_pct": -77,
+   "deal_label": "Above market",
+   "score": -70,
+   "score_parts": [
+    [
+     "Price",
+     -77
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Zahraničí 987 66",
+   "distance_km": 1306,
+   "posted": "2026-11-09T12:00:00+00:00",
+   "first_seen": "2026-11-10T00:34:43+00:00",
+   "image": "https://www.bazos.cz/img/1t/890/226217890.jpg",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -1168,7 +1323,7 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": null,
-   "is_new": true,
+   "is_new": false,
    "price_drop_eur": null,
    "notes": [
     "Description mentions a fault, read it first"
@@ -2431,26 +2586,26 @@
  "sources": [
   {
    "name": "Bazoš.sk",
-   "ok": 42,
-   "failed": 1,
+   "ok": 43,
+   "failed": 0,
    "found": 24
   },
   {
    "name": "Bazoš.cz",
    "ok": 42,
    "failed": 1,
-   "found": 25
+   "found": 28
   },
   {
    "name": "Kleinanzeigen",
-   "ok": 43,
-   "failed": 0,
+   "ok": 41,
+   "failed": 2,
    "found": 0
   },
   {
    "name": "VintageHifi.cz",
-   "ok": 42,
-   "failed": 1,
+   "ok": 43,
+   "failed": 0,
    "found": 1
   }
  ],
