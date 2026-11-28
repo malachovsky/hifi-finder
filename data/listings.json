@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:22:46+00:00",
+ "generated": "2026-11-28T13:57:07+00:00",
  "home": "Banská Bystrica",
  "scoring": {
   "tier_bonus": {
@@ -169,6 +169,96 @@
    "auction": false
   },
   {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197992635/sony-ta-f670es-high-end-stereo-zosilnovac-2-100-w.php",
+   "title": "Sony TA-F670ES – High-End stereo zosilňovač – 2× 100 W",
+   "model": "TA-F670ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 329.0,
+   "currency": "EUR",
+   "price_eur": 329.0,
+   "reference_eur": 550.0,
+   "deal_pct": 40,
+   "deal_label": "Great price",
+   "score": 62,
+   "score_parts": [
+    [
+     "Price",
+     40
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     11
+    ]
+   ],
+   "location": "Levice 935 22",
+   "distance_km": 65,
+   "posted": "2026-11-28T12:00:00+00:00",
+   "first_seen": "2026-11-28T13:57:07+00:00",
+   "image": "https://www.bazos.sk/img/1t/635/197992635.jpg",
+   "photo_count": 3,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": null,
+   "is_new": true,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "VintageHifi.cz",
+   "url": "https://www.vintagehifi.cz/sony-ta-f670es",
+   "title": "Sony TA-F670ES",
+   "model": "TA-F670ES",
+   "brand": "Sony",
+   "category": "Amplifier",
+   "tier": 2,
+   "price": 8500.0,
+   "currency": "CZK",
+   "price_eur": 347.86,
+   "reference_eur": 550.0,
+   "deal_pct": 37,
+   "deal_label": "Great price",
+   "score": 27,
+   "score_parts": [
+    [
+     "Price",
+     37
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ]
+   ],
+   "location": "E-shop (shipping)",
+   "distance_km": null,
+   "posted": null,
+   "first_seen": "2026-11-26T00:51:15+00:00",
+   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_407_01.webp",
+   "photo_count": 6,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/226941417/stereo-zesilovac-sony-ta-f670es-top-stav-rada-es.php",
    "title": "Stereo zesilovač Sony TA-F670ES – TOP STAV (řada ES)",
@@ -263,46 +353,56 @@
    "auction": false
   },
   {
-   "source": "VintageHifi.cz",
-   "url": "https://www.vintagehifi.cz/sony-ta-f670es",
-   "title": "Sony TA-F670ES",
-   "model": "TA-F670ES",
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/197613075/sony-es.php",
+   "title": "Sony es",
+   "model": "TA-FA50ES",
    "brand": "Sony",
    "category": "Amplifier",
    "tier": 2,
-   "price": 8500.0,
-   "currency": "CZK",
-   "price_eur": 347.86,
-   "reference_eur": 550.0,
-   "deal_pct": 37,
-   "deal_label": "Great price",
-   "score": 27,
+   "price": null,
+   "currency": "EUR",
+   "price_eur": null,
+   "reference_eur": 450.0,
+   "deal_pct": null,
+   "deal_label": null,
+   "score": 9,
    "score_parts": [
     [
-     "Price",
-     37
+     "Price unknown",
+     -15
     ],
     [
      "Wish list",
      5
     ],
     [
-     "Stock photo",
-     -15
+     "Remote included",
+     8
+    ],
+    [
+     "Own photos",
+     6
+    ],
+    [
+     "Distance",
+     5
     ]
    ],
-   "location": "E-shop (shipping)",
-   "distance_km": null,
-   "posted": null,
-   "first_seen": "2026-11-26T00:51:15+00:00",
-   "image": "https://www.vintagehifi.cz/fotky1024214/fotos/gen320/gen__vyr_407_01.webp",
-   "photo_count": 6,
-   "photo_kind": "stock",
-   "photo_reason": "Same photo in another seller's listing",
-   "remote": null,
+   "location": "Bratislava 850 00",
+   "distance_km": 165,
+   "posted": "2026-11-17T12:00:00+00:00",
+   "first_seen": "2026-11-17T14:10:05+00:00",
+   "image": "https://www.bazos.sk/img/1t/075/197613075.jpg?t=1794910520",
+   "photo_count": 5,
+   "photo_kind": "own",
+   "photo_reason": null,
+   "remote": "yes",
    "is_new": false,
    "price_drop_eur": null,
-   "notes": [],
+   "notes": [
+    "No price given"
+   ],
    "auction": false
   },
   {
@@ -1427,59 +1527,6 @@
    "auction": false
   },
   {
-   "source": "Bazoš.sk",
-   "url": "https://elektro.bazos.sk/inzerat/197613075/sony-es.php",
-   "title": "Sony es",
-   "model": "CDP-XA30ES",
-   "brand": "Sony",
-   "category": "CD player",
-   "tier": 1,
-   "price": null,
-   "currency": "EUR",
-   "price_eur": null,
-   "reference_eur": 380.0,
-   "deal_pct": null,
-   "deal_label": null,
-   "score": 16,
-   "score_parts": [
-    [
-     "Price unknown",
-     -15
-    ],
-    [
-     "Wish list",
-     12
-    ],
-    [
-     "Remote included",
-     8
-    ],
-    [
-     "Own photos",
-     6
-    ],
-    [
-     "Distance",
-     5
-    ]
-   ],
-   "location": "Bratislava 850 00",
-   "distance_km": 165,
-   "posted": "2026-11-17T12:00:00+00:00",
-   "first_seen": "2026-11-17T14:10:05+00:00",
-   "image": "https://www.bazos.sk/img/1t/075/197613075.jpg?t=1794910520",
-   "photo_count": 5,
-   "photo_kind": "own",
-   "photo_reason": null,
-   "remote": "yes",
-   "is_new": false,
-   "price_drop_eur": null,
-   "notes": [
-    "No price given"
-   ],
-   "auction": false
-  },
-  {
    "source": "Bazoš.cz",
    "url": "https://elektro.bazos.cz/inzerat/225511329/sony-cdp-x333es-a-cdp-x222es.php",
    "title": "Sony CDP-X333ES a CDP-X222ES",
@@ -1964,6 +2011,53 @@
    "photo_kind": "own",
    "photo_reason": null,
    "remote": "yes",
+   "is_new": false,
+   "price_drop_eur": null,
+   "notes": [],
+   "auction": false
+  },
+  {
+   "source": "Bazoš.sk",
+   "url": "https://elektro.bazos.sk/inzerat/196784444/cassette-deck-denon-drs-810-sampan-champagne.php",
+   "title": "🟢 Cassette Deck Denon DRS-810 šampaň champagne",
+   "model": "DRS-810",
+   "brand": "Denon",
+   "category": "Tape deck",
+   "tier": 2,
+   "price": 550.0,
+   "currency": "EUR",
+   "price_eur": 550.0,
+   "reference_eur": 250.0,
+   "deal_pct": -120,
+   "deal_label": "Above market",
+   "score": -142,
+   "score_parts": [
+    [
+     "Price",
+     -120
+    ],
+    [
+     "Wish list",
+     5
+    ],
+    [
+     "Stock photo",
+     -15
+    ],
+    [
+     "Distance",
+     -12
+    ]
+   ],
+   "location": "Zahraničie 123 45",
+   "distance_km": 1306,
+   "posted": "2026-10-23T12:00:00+00:00",
+   "first_seen": "2026-11-07T11:33:29+00:00",
+   "image": "https://www.bazos.sk/img/1t/444/196784444.jpg",
+   "photo_count": 9,
+   "photo_kind": "stock",
+   "photo_reason": "Same photo in another seller's listing",
+   "remote": null,
    "is_new": false,
    "price_drop_eur": null,
    "notes": [],
@@ -2541,12 +2635,12 @@
    "name": "Bazoš.sk",
    "ok": 41,
    "failed": 2,
-   "found": 23
+   "found": 25
   },
   {
    "name": "Bazoš.cz",
-   "ok": 43,
-   "failed": 0,
+   "ok": 42,
+   "failed": 1,
    "found": 28
   },
   {
